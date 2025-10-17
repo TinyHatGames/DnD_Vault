@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "77d9929d58e7d261",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5582b3df31fcaaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad382c31f93caef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep/Scène d'Exposition.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scène d'Exposition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20d2cdd7b22bffd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10dc9c0975134b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f083a4b4158134",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0994c4e576dedeb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79008eda656f7dfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b382dcd983f8e85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "362427cceac75108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d60ffae9cc7203",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PNJ/Lucius_Bonnefoi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lucius_Bonnefoi"
+            }
+          },
+          {
+            "id": "744d95bff877194e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PNJ/Lucius_Bonnefoi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lucius_Bonnefoi"
+            }
+          },
+          {
+            "id": "0b3c848f1874ddbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8c19e609ab0cb99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PNJ/Lucius_Bonnefoi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lucius_Bonnefoi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "dad382c31f93caef",
+  "lastOpenFiles": [
+    "PNJ/Gardien de prison.md",
+    "Idées.md",
+    "_Index.md",
+    "Prep/Guide du débutant.md",
+    "DnD_Vault/Idées.md",
+    "DnD_Vault/_Index.md",
+    "DnD_Vault/Templates/objet_template.md",
+    "DnD_Vault/Templates/statblock_template.md",
+    "DnD_Vault/Templates/resume_template.md",
+    "DnD_Vault/Templates/lieu_template.md",
+    "DnD_Vault/Templates/pnj_template.md",
+    "DnD_Vault/Templates/faction_template.md",
+    "DnD_Vault/Templates/creature_template.md",
+    "DnD_Vault/Templates",
+    "DnD_Vault/Résumé",
+    "DnD_Vault/Prep/Session 0.md",
+    "DnD_Vault/Prep/Scène d'Exposition.md",
+    "DnD_Vault/Prep/Settings et Thèmes Possibles.md",
+    "DnD_Vault/Prep/Guide du débutant.md",
+    "DnD_Vault/Prep/Fiche Aide Mémoire.md",
+    "DnD_Vault/Prep",
+    "DnD_Vault/PNJ/Gardien de prison.md",
+    "DnD_Vault/PNJ",
+    "DnD_Vault/Objets",
+    "DnD_Vault/Lieux",
+    "DnD_Vault/Images",
+    "DnD_Vault/Factions",
+    "DnD_Vault",
+    "Prep/Fiche Aide Mémoire.md",
+    "Templates/statblock_template.md",
+    "Prep/Session 0.md",
+    "Prep/Settings et Thèmes Possibles.md",
+    "Prep/Scène d'Exposition.md",
+    "Templates/resume_template.md",
+    "Templates/creature_template.md",
+    "Prep",
+    "Images/georgette.png",
+    "DnD_Lucius/Images/Rodrick.png",
+    "DnD_Lucius/Images/Sceau_de_Glastisbel.png",
+    "DnD_Lucius/Images/Rat.webp",
+    "DnD_Lucius/Images/Maeva.webp",
+    "DnD_Lucius/Images/Lucius.webp",
+    "DnD_Lucius/Images/Glatisbel.png",
+    "DnD_Lucius/Images/Lionel.webp",
+    "DnD_Lucius/Images/Georgette.png",
+    "DnD_Lucius/Images/Fongenoir.png"
+  ]
+}
