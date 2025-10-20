@@ -30,6 +30,8 @@ Ils se réveillent, et commencent par décrire leurs personnages...
 - Terrasser les gardes à travers les barreaux, leur voler les clés
 - Crochetage de la porte de la cellule avec les moyens du bord
 - Écarter les barreaux de la cellule ou de la fenêtre (si on peut passer par la fenêtre, les gros gabarits, c'est dur).
+  
+  Détails dans [[Fuite]] !
 
 
 ## Équipement

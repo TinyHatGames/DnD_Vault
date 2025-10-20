@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "77d9929d58e7d261",
+    "id": "a5b2c0dca7c3edee",
     "type": "split",
     "children": [
       {
-        "id": "f5582b3df31fcaaa",
+        "id": "f69ac9d7078c8a1a",
         "type": "tabs",
         "children": [
           {
-            "id": "dad382c31f93caef",
+            "id": "425bcbd69f8a49e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prep/Scène d'Exposition.md",
+                "file": "Prep/Le Monde.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Scène d'Exposition"
+              "title": "Le Monde"
+            }
+          },
+          {
+            "id": "76fd2cf7f393a02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep/Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secrets"
+            }
+          },
+          {
+            "id": "b5ab3e662a25f165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep/Session 0.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "20d2cdd7b22bffd1",
+    "id": "72f5c79179b72e01",
     "type": "split",
     "children": [
       {
-        "id": "10dc9c0975134b0c",
+        "id": "b761e302ba99521f",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f083a4b4158134",
+            "id": "02b89905dba330a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +77,7 @@
             }
           },
           {
-            "id": "0994c4e576dedeb9",
+            "id": "47e0f287873979c9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +94,7 @@
             }
           },
           {
-            "id": "79008eda656f7dfd",
+            "id": "4c4d7438473bc1da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "b382dcd983f8e85f",
+    "id": "f7eba55826132e29",
     "type": "split",
     "children": [
       {
-        "id": "362427cceac75108",
+        "id": "794f786f67274008",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d60ffae9cc7203",
+            "id": "db2d432836db17a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Prep/Secrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lucius_Bonnefoi"
+              "title": "Backlinks for Secrets"
             }
           },
           {
-            "id": "744d95bff877194e",
+            "id": "afcd956a8283023a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Prep/Secrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lucius_Bonnefoi"
+              "title": "Outgoing links from Secrets"
             }
           },
           {
-            "id": "0b3c848f1874ddbf",
+            "id": "a70cbd5f9468d0ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +166,18 @@
             }
           },
           {
-            "id": "c8c19e609ab0cb99",
+            "id": "2cd6b345dd909162",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Prep/Secrets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lucius_Bonnefoi"
+              "title": "Outline of Secrets"
             }
           }
         ]
@@ -166,58 +195,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "bases:Create new base": false
     }
   },
-  "active": "dad382c31f93caef",
+  "active": "76fd2cf7f393a02c",
   "lastOpenFiles": [
-    "PNJ/Gardien de prison.md",
-    "Idées.md",
-    "_Index.md",
-    "Prep/Guide du débutant.md",
-    "DnD_Vault/Idées.md",
-    "DnD_Vault/_Index.md",
-    "DnD_Vault/Templates/objet_template.md",
-    "DnD_Vault/Templates/statblock_template.md",
-    "DnD_Vault/Templates/resume_template.md",
-    "DnD_Vault/Templates/lieu_template.md",
-    "DnD_Vault/Templates/pnj_template.md",
-    "DnD_Vault/Templates/faction_template.md",
-    "DnD_Vault/Templates/creature_template.md",
-    "DnD_Vault/Templates",
-    "DnD_Vault/Résumé",
-    "DnD_Vault/Prep/Session 0.md",
-    "DnD_Vault/Prep/Scène d'Exposition.md",
-    "DnD_Vault/Prep/Settings et Thèmes Possibles.md",
-    "DnD_Vault/Prep/Guide du débutant.md",
-    "DnD_Vault/Prep/Fiche Aide Mémoire.md",
-    "DnD_Vault/Prep",
-    "DnD_Vault/PNJ/Gardien de prison.md",
-    "DnD_Vault/PNJ",
-    "DnD_Vault/Objets",
-    "DnD_Vault/Lieux",
-    "DnD_Vault/Images",
-    "DnD_Vault/Factions",
-    "DnD_Vault",
-    "Prep/Fiche Aide Mémoire.md",
-    "Templates/statblock_template.md",
+    "Prep/Le Monde.md",
+    "Prep/Secrets.md",
     "Prep/Session 0.md",
-    "Prep/Settings et Thèmes Possibles.md",
     "Prep/Scène d'Exposition.md",
+    "Prep/Guide du débutant.md",
+    "Prep/Fuite.md",
+    "Prep/Settings et Thèmes Possibles.md",
+    "Prep/Fiche Aide Mémoire.md",
+    "_Index.md",
+    "Templates/statblock_template.md",
     "Templates/resume_template.md",
+    "Templates/pnj_template.md",
+    "Templates/objet_template.md",
+    "Templates/lieu_template.md",
     "Templates/creature_template.md",
+    "Templates/faction_template.md",
+    "Templates",
     "Prep",
-    "Images/georgette.png",
-    "DnD_Lucius/Images/Rodrick.png",
-    "DnD_Lucius/Images/Sceau_de_Glastisbel.png",
-    "DnD_Lucius/Images/Rat.webp",
-    "DnD_Lucius/Images/Maeva.webp",
-    "DnD_Lucius/Images/Lucius.webp",
-    "DnD_Lucius/Images/Glatisbel.png",
-    "DnD_Lucius/Images/Lionel.webp",
-    "DnD_Lucius/Images/Georgette.png",
-    "DnD_Lucius/Images/Fongenoir.png"
+    "PNJ/Gardien de prison.md",
+    "PNJ",
+    "Idées.md"
   ]
 }
