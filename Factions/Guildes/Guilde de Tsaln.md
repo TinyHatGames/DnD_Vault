@@ -1,0 +1,1 @@
+L'autre guilde connue est la [[Guilde de Tsaln]], guilde mystique dont les membres sont couverts des pieds à la tête par de longues robes brunes (du beige au noir, indicatif du grade dans la guilde). Ils ont le monopole sur une herbe magique
