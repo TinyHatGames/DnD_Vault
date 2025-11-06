@@ -1,0 +1,1 @@
+Ville marchande entourée de marécages, camp de base de la [[Ordre de Tsaln]].

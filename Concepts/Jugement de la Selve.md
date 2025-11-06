@@ -1,0 +1,1 @@
+Rite mystique qui lâche les pires criminels de Naeth dans la [[Selve Sélène]] sans équipement ni nourriture.

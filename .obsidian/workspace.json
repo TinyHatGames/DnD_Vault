@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Soeurs de Basalte.md",
+                "file": "Prep/Session 0/Session 0 - Secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soeurs de Basalte"
+              "title": "Session 0 - Secrets"
+            }
+          },
+          {
+            "id": "8ad4938f15786d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Lieux/Le Monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lucius_Bonnefoi"
+              "title": "Backlinks for Le Monde"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Lieux/Le Monde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lucius_Bonnefoi"
+              "title": "Outgoing links from Le Monde"
             }
           },
           {
@@ -171,53 +186,54 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "dad382c31f93caef",
+  "active": "8ad4938f15786d1e",
   "lastOpenFiles": [
-    "Factions/Guildes/Guilde de Tsaln.md",
-    "Factions/Guildes/Guilde des Cîmes.md",
-    "Prep/Extras.md",
-    "Lieux/Naeth.md",
-    "Lieux/Mont Ulzan.md",
-    "Lieux/Vue Globale.md",
-    "Factions/Soeurs de Basalte.md",
-    "Factions/Synode des Exilés.md",
-    "Lieux/Villes/Lo-Kagthar.md",
+    "Lieux/Villes/Koruha.md",
+    "Sessions/Session 1/Introduction.md",
+    "Lieux/Villes/Dratholm.md",
+    "Lieux/Villes/Hyptis.md",
+    "Lieux/Villes/Ormeval.md",
+    "Lieux/Villes/Thalarym.md",
     "Lieux/Aiguille.md",
+    "Lieux/Mont Ulzan.md",
+    "Lieux/Naeth.md",
+    "Lieux/Selve Sélène.md",
+    "PNJ/Ennemis/Gardien de prison.md",
+    "PNJ/Ennemis/Gnoll.md",
+    "PNJ/Ennemis/Gnolls.png",
+    "PNJ/Personnages Importants/Pictures/Maro.png",
+    "PNJ/Personnages Importants/Kavaki.md",
+    "PNJ/Personnages Importants/Maro.md",
+    "Factions/Pacte des Initiés.md",
+    "PNJ/Personnages Importants/Pictures",
+    "Sessions/Session 1/Préparation.md",
+    "Sessions/Session 1/Notes de jeu.md",
+    "Sessions/Session 1/Menottes Runiques.md",
+    "Templates/statblock_template.md",
+    "Templates/creature_template.md",
+    "Templates/faction_template.md",
+    "Templates/lieu_template.md",
+    "Templates/objet_template.md",
+    "Templates/pnj_template.md",
+    "PNJ/Ennemis/Generated Image November 05, 2025 - 8_02PM.png",
+    "PNJ/Generated Image November 05, 2025 - 8_02PM.png",
+    "Untitled.canvas",
+    "PNJ/Personnages Importants/Kol'Darûn.md",
+    "PNJ/Personnages Importants/Mira Vanis.md",
+    "Prep/Session 0",
+    "chemin/vers",
+    "chemin",
+    "Concepts",
+    "PNJ/Personnages Importants",
+    "PNJ/Ennemis",
     "Factions/Guildes",
     "Lieux/Factions",
     "Lieux/Villes",
-    "Prep/Le Jeu des Vérités.md",
-    "Sessions/Session 1/Scène d'Exposition.md",
-    "Prep/Session 0.md",
-    "Sessions/Session 1",
-    "Sessions",
-    "Untitled.md",
-    "_Index.md",
-    "Idées.md",
-    "Prep/Secrets.md",
-    "Prep/Settings et Thèmes Possibles.md",
-    "PNJ/Gardien de prison.md",
-    "Prep/Fiche Aide Mémoire.md",
-    "Prep/Fuite.md",
-    "Prep/Guide du débutant.md",
-    "Lieux",
-    "DnD_Vault/Idées.md",
-    "DnD_Vault/_Index.md",
-    "DnD_Vault/Templates/objet_template.md",
-    "DnD_Vault/Templates/statblock_template.md",
-    "DnD_Vault/Templates",
-    "DnD_Vault/Résumé",
-    "DnD_Vault/Prep",
-    "DnD_Vault/PNJ",
     "Images/georgette.png",
     "DnD_Lucius/Images/Rodrick.png",
     "DnD_Lucius/Images/Sceau_de_Glastisbel.png",
     "DnD_Lucius/Images/Rat.webp",
     "DnD_Lucius/Images/Maeva.webp",
-    "DnD_Lucius/Images/Lucius.webp",
-    "DnD_Lucius/Images/Glatisbel.png",
-    "DnD_Lucius/Images/Lionel.webp",
-    "DnD_Lucius/Images/Georgette.png",
-    "DnD_Lucius/Images/Fongenoir.png"
+    "DnD_Lucius/Images/Lucius.webp"
   ]
 }

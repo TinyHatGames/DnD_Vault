@@ -1,0 +1,1 @@
+Gravir le [[Mont Ulzan]] est une tâche quasi impossible sans préparation, et bien des pèlerins font appel aux guides de la [[Confrérie des Cîmes]] pour tenter l'ascension. Un certain nombre de villages étapes et de temples sont sur la route jusqu'à environ la moitié de la montagne, passé ce niveau, la montagne est trop escarpée.

@@ -1,7 +1,7 @@
 ```statblock
 layout: Basic 5e Layout
 image: ""
-name: Théobald, garde de la prison
+name: Sentinel Gardien de Prison
 size: Medium
 type: humanoïde
 subtype:
