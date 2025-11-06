@@ -11,7 +11,7 @@ _“Voici le champ de ton dernier combat, peuple des pierres. Monte, et trouve t
 
 Alors les Goliaths descendirent du ciel des montagnes et foulèrent pour la première fois la terre chaude de Naeth. Le premier d’entre eux à atteindre le sommet du volcan fut **Ulzan**, et son nom fut donné à la montagne en signe d’honneur éternel.
 
-Autour de ce pic sacré, huit lignées s’élevèrent, chacune guidée par les descendants d'Ulzan et de ses compagnons. Ensemble, ils bâtirent **l’Aiguille**, la tour des vents et des serments, au cœur du cratère endormi. Et du haut de ses terrasses, les Huit jurèrent de garder l’équilibre du monde que leur dieu leur avait confié, et de régner sur leurs terres d'une main de fer.
+Autour de ce pic sacré, huit lignées s’élevèrent, chacune guidée par les descendants d'**Ulzan** et de ses compagnons. Ensemble, ils bâtirent **l’Aiguille**, la tour des vents et des serments, au cœur du cratère endormi. Et du haut de ses terrasses, les Huit jurèrent de garder l’équilibre du monde que leur dieu leur avait confié, et de régner sur leurs terres d'une main de fer.
 
 Les siècles passèrent.  
 Le feu du volcan s’assoupit, les forges se refroidirent, et de nouveaux peuples bâtirent leurs villes sous la protection des Huit. Naeth prospéra, et Kavaki se retira.

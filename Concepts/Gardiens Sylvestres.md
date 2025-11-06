@@ -1,1 +1,1 @@
-Membres de la [[Garde Sylvestre de Koruha]].
+Membres de la [[Garde Sylvestre de Koruha]]. Portent une tenue de cuir tintée d'un bleu profond, tout en boucles et en poches, et une grande capuche.

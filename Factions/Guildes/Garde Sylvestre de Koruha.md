@@ -11,3 +11,5 @@ Guerriers de la garde, les sentinels accompagnent les défricheurs et assurent l
 3. **Les Veilleurs**
 
 Groupe mystique de druides, ensorceleurs et magiciens érudits qui étudient la Selve et son histoire et la combattent grâce aux forces de la science et des arcanes.
+
+Traditionnellement, la garde était constituée d'elfes des bois uniquement. Mais cela a peu à peu changé, et aujourd'hui, on trouve des gardiens de toutes les espèces.

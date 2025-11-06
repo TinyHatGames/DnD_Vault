@@ -1,8 +1,12 @@
 # Prologue
 
-La séance débute dans une geôle sombre et humide. Le sol est en terre battue, et le plafond, qui semble fait de racines, est bas et arqué - des gouttes de condensation en tombent de temps à autre, créant un cliquetis qui résonne dans la pièce. L'air sent la fumée de poix et il fait nuit noire dehors, comme on peut le constater en jetant un oeil via l'unique fenêtre barrée, très en hauteur. 
+Notre histoire débute dans une geôle sombre et humide. Le sol est en terre battue, et le plafond, qui semble fait de branches et de racines, est bas et arqué - des gouttes de condensation en tombent de temps à autre, créant un cliquetis qui résonne dans la pièce. L'air sent la fumée de poix et il fait nuit noire dehors, comme on peut le constater en jetant un oeil via l'unique fenêtre barrée, très en hauteur. 
 
-La seule lumière, bleuté, provient d'une torche magique en face de la porte à barreaux de la cellule : elle dégage de la lumière mais pas de chaleur. On peut voir un couloir et les autres cellules en s'en approchant. Il semble y en avoir 6 dans cette portion de la prison : 5 individuelles, et la nôtre, collective. Une seule autre semble occupée, on ne voit que les pieds de l'individu qui y dort. 
+Les personnages ouvrent les yeux, étrangers complets, et se dévisagent. Leurs derniers souvenirs les placent dans des cages et en route vers [[Koruha]]. À leurs poignets, des bracelets métalliques parés de runes bleutées reliés d'une chaîne ([[Menottes Runiques]]). 
+
+**Description physique.**
+
+La seule lumière, bleue, provient d'une torche magique en face de la porte à barreaux de la cellule : elle dégage de la lumière mais pas de chaleur. On peut voir un couloir et les autres cellules en s'en approchant. Il semble y en avoir 6 dans cette portion de la prison : 5 individuelles, et la nôtre, collective. Une seule autre semble occupée, on ne voit que les pieds de l'individu qui y dort ([[Maro]]).
 
 En se positionnant directement le visage contre la porte, on peut apercevoir deux [[Gardien de prison]] assis sur des tabourets dans une petite alcove au bout du couloir. Sur la table, des dés, des tasses en métal et une bouteille en verre qui ne contient probablement pas de l'eau. Au mur, une cloche de cuivre pour sonner l'alerte si besoin.
 
@@ -35,7 +39,7 @@ Ils vont ensuite devoir décider quoi faire :
 - Terrasser les gardes à travers les barreaux après les avoir attirés, leur voler les clés
 	- Délicat, nécessite un plan très précis pour fonctionner, sinon les gardes sonnent l'alerte
 - Crochetage ou destruction de la porte de la cellule avec les moyens du bord.
-	- Gros jet de force (DC 15), fait du bruit et les deux gardes viennent voir. On a un laps de temps pour les immobiliser avant qu'ils retournent faire sonner la cloche. Ils peuvent crier ceci dit, on fait un jet pour voir s'ils sont entendus (DC 15). Si c'est le cas, un seul garde les entend et vient voir, il ne sonne la cloche que s'il voit quelque chose en arrivant, il prend **2 minutes** pour arriver.
+	- Gros jet de force (DC 15), peut faire du bruit et les deux gardes viennent voir (Perception du [[Gardien de prison]] vs Stealth des joueurs). On a un laps de temps pour les immobiliser avant qu'ils retournent faire sonner la cloche. Ils peuvent crier ceci dit, on fait un jet pour voir s'ils sont entendus (DC 13). Si c'est le cas, un seul garde les entend et vient voir, il ne sonne la cloche que s'il voit quelque chose en arrivant, il prend **2 minutes** pour arriver.
 	- Crochetage possible si les joueurs prennent le temps de façonner des outils de fortune avec leurs chaînes, du bois des murs...
 - Destruction / ouverture de la fenêtre - seuls les personnages petits peuvent y passer
 	- On peut imaginer que les petits joueurs sortent, organisent une diversion, et retournent à la prison pour faire sortir leurs camarades (découverte de l'effet de leurs **menottes** s'ils s'éloignent à plus de 10 mètres).
@@ -71,8 +75,10 @@ Si l'on parvient à s'enfuir, on a plusieurs options :
 
 ## L'attaque de [[Koruha]]
 
-Peu importe ce qui se passe avant cela, aux alentours de minuit, l'alerte générale sonne, on entend des cornes de brume qui proviennent des tours de garde à la lisière de la Selve. [[Koruha]] est attaquée.
+Peu importe ce qui se passe avant cela, l'alerte générale finit par sonner, on entend des cornes de brume qui proviennent des tours de garde à la lisière de la Selve. [[Koruha]] est attaquée. Le timing de l'attaque dépend des actions des joueurs, on va essayer de faire en sorte qu'elle arrive à un moment dramatique / intéressant.
 
 Toute la ville se met en branle bas de combat, le chaos est total. Les joueurs sont libres de faire ce qui leur semble le mieux, mais on va chercher un moyen de les mettre nez à nez avec un groupe de [[Gnoll]]s.
 
 Ils sont 2 de base, on peut éventuellement en faire intervenir un autre si le combat est un peu trop facile. Si au contraire, c'est un peu trop dur, on peut faire intervenir une sentinelle des [[Gardiens Sylvestres]] et même [[Maro]] s'il est avec les joueurs.
+
+Suite à l'attaque, les personnages sont orientés en direction de la Caserne des Sentinelles pour rencontre [[Mira Vanis]]. Elle leur explique qu'elle a besoin de leur aide en échange de leur liberté...
