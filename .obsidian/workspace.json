@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Monde/Hyptis.md",
-                "mode": "source",
-                "source": false
+                "file": "Public/Sessions/Session 1 - 061125.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Hyptis"
+              "title": "Session 1 - 061125"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Monde/Hyptis.md",
+                "file": "Public/Sessions/Session 1 - 061125.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hyptis"
+              "title": "Outgoing links from Session 1 - 061125"
             }
           },
           {
@@ -218,9 +218,9 @@
   },
   "active": "06443a50c446e460",
   "lastOpenFiles": [
+    "Public/Monde/Hyptis.md",
     "Public/Images/Naeth.jpg",
     "Public/Monde/Dratholm.md",
-    "Public/Monde/Hyptis.md",
     "Public/Monde/Koruha.md",
     "Public/Monde/Naeth.md",
     "Public/Monde/Ormeval.md",
