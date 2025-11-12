@@ -22,15 +22,15 @@ Autour de ce pic sacré, huit lignées s’élevèrent, chacune guidée par les 
 Les siècles passèrent.  
 Le feu du volcan s’assoupit, les forges se refroidirent, et de nouveaux peuples bâtirent leurs villes sous la protection des Huit. Naeth prospéra, et Kavaki se retira.
 
-Mais dans les profondeurs du [[Mont Urzal]], quelque chose continua de respirer.
+Mais dans les profondeurs du **Mont Urzal**, quelque chose continua de respirer.
 Dans les galeries creusées par les Duergars, sous les fondations de l’Aiguille, le cœur de la montagne battait encore, et la présence du dieu-bélier semblait toujours palpiter dans la pierre.
 
 Bientôt, la lune commença son deuil. On dit qu’elle pleura la chute des premiers héros, ceux qui avaient bâti l’Aiguille et s’étaient perdus dans son ombre. D’autres murmurent qu’elle pleura Kavaki lui-même, endormi à jamais sous le mont qu’il avait fait naître.
 
-De ses larmes d'argent, qui coulent encore à chaque pleine lune, naquit la [[Selve Sélène]], une jungle immense et mouvante, faite de sève et de songes, qui dévora peu à peu les frontières du monde connu.
+De ses larmes d'argent, qui coulent encore à chaque pleine lune, naquit la **Selve Sélène**, une jungle immense et mouvante, faite de sève et de songes, qui dévora peu à peu les frontières du monde connu.
 
 
-C’est à sa lisière que s’accroche aujourd’hui [[Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
+C’est à sa lisière que s’accroche aujourd’hui [[Public/Monde/Koruha|Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
 
 C'est ici que la **Garde Sylvestre** lutte chaque jour pour contenir la progression de la Selve. C'est aussi là que certains des criminels et des condamnés de Naeth subissent le **Jugement de la Selve**, offerts à la forêt pour apaiser sa faim.
 

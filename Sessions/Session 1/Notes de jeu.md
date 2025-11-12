@@ -3,7 +3,7 @@
 
 **Nyx** - Drow avec des dreadlocks noires et les cheveux rasés sur les côtés.
 **Zouk** - Gnome très charismatique, roux, avec les cheveux en arrière et un petit bouc.
-**Josué** - Humain - Peau burinée, cheveux gris, plus tout frais, usé, pas dégueu à voir. **Regard** dissipé.
+**Josué** - Humain. Peau burinée, cheveux gris, plus tout frais, usé, pas dégueu à voir. Regard dissipé.
 **Olra** - Halfling toute ronde, maman, rouquine, détendue et mignonne.
 
 ## Déroulé
@@ -24,3 +24,4 @@ Après un certain temps de discussion, les personnages décident de faire comme 
 
 Nyx n'est pas convaincue et les trouve ridicules mais bon...
 
+TBC

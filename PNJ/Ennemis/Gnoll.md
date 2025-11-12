@@ -1,4 +1,4 @@
-![[Gnolls.png]]
+![[PNJ/Ennemis/Gnolls.png]]
 
 ```statblock
 layout: Basic 5e Layout

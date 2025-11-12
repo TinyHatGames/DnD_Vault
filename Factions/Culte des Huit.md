@@ -8,7 +8,7 @@ La hiérarchie se divise ainsi :
 	- On peut donc parler d'un prêtre brun des [[Huit]].
 - Grands prêtres (chef de temple, un seul par ville, on parle du grand prêtre de [[Koruha]] par ex)
 - Les [[Huit]]
-	- Le chef suprême du culte est aussi le leader politique de [[Naeth]], le [[Prima]].
+	- Le chef suprême du culte est aussi le leader politique de [[Lieux/Naeth]], le [[Prima]].
 
 Les prêtres sont torse nu, les prêtresses ont la poitrine bandée. Ils portent des chaussures en bois surélevées pour atteindre une taille imposante et surplomber leurs assemblées de fidèles. 
 

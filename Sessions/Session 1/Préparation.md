@@ -6,7 +6,7 @@ Les personnages ouvrent les yeux, étrangers complets, et se dévisagent. Leurs 
 
 **Description physique.**
 
-La seule lumière, bleue, provient d'une torche magique en face de la porte à barreaux de la cellule : elle dégage de la lumière mais pas de chaleur. On peut voir un couloir et les autres cellules en s'en approchant. Il semble y en avoir 6 dans cette portion de la prison : 5 individuelles, et la nôtre, collective. Une seule autre semble occupée, on ne voit que les pieds de l'individu qui y dort ([[Maro]]).
+La seule lumière, bleue, provient d'une torche magique en face de la porte à barreaux de la cellule : elle dégage de la lumière mais pas de chaleur. On peut voir un couloir et les autres cellules en s'en approchant. Il semble y en avoir 6 dans cette portion de la prison : 5 individuelles, et la nôtre, collective. Une seule autre semble occupée, on ne voit que les pieds de l'individu qui y dort ([[PNJ/Personnages Importants/Maro]]).
 
 En se positionnant directement le visage contre la porte, on peut apercevoir deux [[Gardien de prison]] assis sur des tabourets dans une petite alcove au bout du couloir. Sur la table, des dés, des tasses en métal et une bouteille en verre qui ne contient probablement pas de l'eau. Au mur, une cloche de cuivre pour sonner l'alerte si besoin.
 
@@ -30,7 +30,7 @@ Ils vont ensuite devoir décider quoi faire :
 
 - S'évader ?
 - Rester dans la cellule jusqu'au matin et faire face au [[Jugement de la Selve]] ?
-- Demander une audience avec [[Mira Vanis]] pour tenter d'être libéré ?
+- Demander une audience avec [[PNJ/Personnages Importants/Mira Vanis]] pour tenter d'être libéré ?
 
 ## Options d'évasion
 
@@ -44,11 +44,11 @@ Ils vont ensuite devoir décider quoi faire :
 - Destruction / ouverture de la fenêtre - seuls les personnages petits peuvent y passer
 	- On peut imaginer que les petits joueurs sortent, organisent une diversion, et retournent à la prison pour faire sortir leurs camarades (découverte de l'effet de leurs **menottes** s'ils s'éloignent à plus de 10 mètres).
 - Les personnages ont un certain nombre de sorts qu'ils peuvent utiliser de manière créative. On encouragera les idées intéressantes en improvisant.
-- **IMPORTANT**: Si les joueurs veulent s'échapper mais peinent un peu à trouver une solution, au bout d'un moment, [[Maro]] se manifeste.
+- **IMPORTANT**: Si les joueurs veulent s'échapper mais peinent un peu à trouver une solution, au bout d'un moment, [[PNJ/Personnages Importants/Maro]] se manifeste.
 
 ## Maro
 
-[[Maro]], qui fait partie du [[Pacte des Initiés]], se fait passer pour un prisonnier. C'est le seul autre prisonnier de la petite prison dans laquelle se trouvent les héros. Il ne paye pas de mine, et dit qu'il s'est fait avoir pour trouble à l'ordre public. Si on le presse un peu, il avoue qu'il voulait surtout trouver un coin où dormir, et qu'il a donc juste fait un peu de grabuge dans une taverne proche de là.
+[[PNJ/Personnages Importants/Maro]], qui fait partie du [[Pacte des Initiés]], se fait passer pour un prisonnier. C'est le seul autre prisonnier de la petite prison dans laquelle se trouvent les héros. Il ne paye pas de mine, et dit qu'il s'est fait avoir pour trouble à l'ordre public. Si on le presse un peu, il avoue qu'il voulait surtout trouver un coin où dormir, et qu'il a donc juste fait un peu de grabuge dans une taverne proche de là.
 
 Il observe en réalité les héros pour le compte de son organisation et tente à la fois de les gauger et de gagner leur confiance afin de tenter de les recruter. Il n'aidera les héros que s'il constate qu'ils ont du mal à s'enfuir ou s'ils déclenchent l'alarme par exemple. Il va réagir en fonction de leur comportement, mais s'il est impressionné, il fera plus d'efforts pour s'attirer leurs bonnes grâces.
 
@@ -66,8 +66,8 @@ Si jamais les joueurs choisissent de ne pas s'enfuir, ils pourront récupérer t
 
 Si l'on parvient à s'enfuir, on a plusieurs options :
 
-1. On s'échappe grâce à l'aide d'un mystérieux inconnu ([[Maro]]), qui fait partie du [[Pacte des Initiés]]. Dans ce cas, on a un dialogue avec lui à la sortie. Il nous explique que [[Mira Vanis]] et les [[Gardiens Sylvestres]] veulent profiter d'eux, et de se méfier. Il les recontactera.
-2. On s'échappe mais on se fait choper par les gardes à l'extérieur, qui nous emmènent à la caserne pour s'entretenir avec [[Mira Vanis]]. 
+1. On s'échappe grâce à l'aide d'un mystérieux inconnu ([[PNJ/Personnages Importants/Maro]]), qui fait partie du [[Pacte des Initiés]]. Dans ce cas, on a un dialogue avec lui à la sortie. Il nous explique que [[PNJ/Personnages Importants/Mira Vanis]] et les [[Gardiens Sylvestres]] veulent profiter d'eux, et de se méfier. Il les recontactera.
+2. On s'échappe mais on se fait choper par les gardes à l'extérieur, qui nous emmènent à la caserne pour s'entretenir avec [[PNJ/Personnages Importants/Mira Vanis]]. 
 	1. Elle est impressionnée par le fait que les personnages se soient échappés si jamais ils n'ont tué personne. 
 		1. S'en suit un dialogue où elle leur expose son idée. Elle a entendu parler d'eux pour des raisons diverses, et a des raisons de penser qu'ils possèdent un très gros potentiel qu'il serait dommage de gâcher. Sa proposition : en échange de leur liberté, s'occuper d'une petite mission pour elle...
 	2. Sinon, elle ordonne qu'ils soient assommés, ligotés, et qu'on les ramène en prison jusqu'à l'aube.
@@ -79,6 +79,6 @@ Peu importe ce qui se passe avant cela, l'alerte générale finit par sonner, on
 
 Toute la ville se met en branle bas de combat, le chaos est total. Les joueurs sont libres de faire ce qui leur semble le mieux, mais on va chercher un moyen de les mettre nez à nez avec un groupe de [[Gnoll]]s.
 
-Ils sont 2 de base, on peut éventuellement en faire intervenir un autre si le combat est un peu trop facile. Si au contraire, c'est un peu trop dur, on peut faire intervenir une sentinelle des [[Gardiens Sylvestres]] et même [[Maro]] s'il est avec les joueurs.
+Ils sont 2 de base, on peut éventuellement en faire intervenir un autre si le combat est un peu trop facile. Si au contraire, c'est un peu trop dur, on peut faire intervenir une sentinelle des [[Gardiens Sylvestres]] et même [[PNJ/Personnages Importants/Maro]] s'il est avec les joueurs.
 
-Suite à l'attaque, les personnages sont orientés en direction de la Caserne des Sentinelles pour rencontre [[Mira Vanis]]. Elle leur explique qu'elle a besoin de leur aide en échange de leur liberté...
+Suite à l'attaque, les personnages sont orientés en direction de la Caserne des Sentinelles pour rencontre [[PNJ/Personnages Importants/Mira Vanis]]. Elle leur explique qu'elle a besoin de leur aide en échange de leur liberté...

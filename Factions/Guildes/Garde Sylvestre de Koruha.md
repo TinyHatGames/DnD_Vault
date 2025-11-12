@@ -1,4 +1,4 @@
-Menés par leur capitaine [[Mira Vanis]], les [[Gardiens Sylvestres]] défendent [[Koruha]] de la progression permanente de la [[Selve Sélène]]. Ils sont divisés en trois groupes :
+Menés par leur capitaine [[PNJ/Personnages Importants/Mira Vanis]], les [[Gardiens Sylvestres]] défendent [[Koruha]] de la progression permanente de la [[Selve Sélène]]. Ils sont divisés en trois groupes :
 
 1. **Les Défricheurs**
 
