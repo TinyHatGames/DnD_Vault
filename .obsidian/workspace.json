@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1/Notes de jeu.md",
-                "mode": "preview",
+                "file": "Public/Sessions/Session 1 - 061125.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes de jeu"
+              "title": "Session 1 - 061125"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1/Notes de jeu.md",
+                "file": "Public/Sessions/Session 1 - 061125.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes de jeu"
+              "title": "Outgoing links from Session 1 - 061125"
             }
           },
           {
@@ -218,6 +218,8 @@
   },
   "active": "06443a50c446e460",
   "lastOpenFiles": [
+    "Sessions/Session 1/Notes de jeu.md",
+    "Public/Sessions/Session 1 - 061125.md",
     "Public/index.md",
     "Public/Personnages/Mira Vanis.md",
     "Public/Personnages/Maro.md",
@@ -246,7 +248,6 @@
     "Sessions/Session 1/Préparation.md",
     "Lieux/Mont Urzal.md",
     "Garde Sylvestre.md",
-    "Sessions/Session 1/Notes de jeu.md",
     "Sessions/Session 1/Menottes Runiques.md",
     "Prep/Le Jeu des Vérités.md",
     "Prep/Guide du débutant.md",
