@@ -1,6 +1,6 @@
 Notre campagne se déroule sur l'île de [[Naeth]]. 
 
-En son centre se dresse le [[Mont Ulzan]], un massif colossal visible aux quatres coins de la contrée. À son sommet se trouve sa capitale politique et religieuse, [[Thalarym]].
+En son centre se dresse le [[Mont Urzal]], un massif colossal visible aux quatres coins de la contrée. À son sommet se trouve sa capitale politique et religieuse, [[Thalarym]].
 
 Quatre grandes cités entourent la montagne.
 

@@ -34,7 +34,7 @@ Ils vont ensuite devoir décider quoi faire :
 
 ## Options d'évasion
 
-- Négociation / influence des sentinels
+- Négociation / influence des sentinelles
 	- De très gros jets sont nécessaires ici, ou alors on récompense l'ingéniosité
 - Terrasser les gardes à travers les barreaux après les avoir attirés, leur voler les clés
 	- Délicat, nécessite un plan très précis pour fonctionner, sinon les gardes sonnent l'alerte
