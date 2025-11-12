@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dad382c31f93caef",
+            "id": "8ad4938f15786d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b382dcd983f8e85f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Extras.md",
+                "file": "Lieux/Le Monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Extras"
+              "title": "Backlinks for Le Monde"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1/Notes de jeu.md",
+                "file": "Lieux/Le Monde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes de jeu"
+              "title": "Outgoing links from Le Monde"
             }
           },
           {
@@ -151,28 +151,12 @@
               "title": "Outline of Lucius_Bonnefoi"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c6273cdb619c9f5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38c47c88f228db9e",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,52 +171,52 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "dad382c31f93caef",
+  "active": "8ad4938f15786d1e",
   "lastOpenFiles": [
-    "Sessions/Session 1/Préparation.md",
-    "Sessions/Session 1/Notes de jeu.md",
-    "Sessions/Session 1/Menottes Runiques.md",
-    "Sessions/Session 1/Introduction.md",
-    "Public/Accueil.md",
-    "Prep/Le Jeu des Vérités.md",
-    "Prep/Guide du débutant.md",
-    "Prep/Fiche Aide Mémoire.md",
-    "Prep/Session 0/Session 0 - Secrets.md",
-    "Prep/Session 0/Session 0.md",
-    "Factions/Clans Noirs.md",
-    "Idées.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
     "Untitled.base",
-    "Public/Personnages",
-    "Public/Monde",
-    "Public/Sessions",
-    "Public/Extras.md",
-    "Public/Personnages 1.md",
-    "Public/Personnages.md",
-    "PNJ/Personnages Importants/Kol'Darûn.md",
-    "PNJ/Personnages Importants/Images/Maro.png",
+    "Untitled 1.base",
+    "Sessions/Session 2/Préparation.md",
+    "Sessions/Session 2",
+    "Public/desktop.ini",
     "Public/Images/Mira Vanis.png",
     "Public/Images/Maro.png",
+    "Public/Accueil.md",
     "Public/Images",
-    "PNJ/Personnages Importants/Images/Mira Vanis.png",
-    "Sessions/Session 2/Préparation.md",
-    "Factions/Huit.md",
-    "Sessions/Session 2",
-    "Public/test.txt",
-    "Public/New Text Document.txt",
-    "Public/desktop.ini",
-    "PNJ/Personnages Importants/Mira Vanis.md",
-    "PNJ/Personnages Importants/Maro.md",
-    "PNJ/Personnages Importants/Kavaki.md",
+    "Public",
+    "Factions/Clans Noirs.md",
+    "Lieux/Mont Ulzan.md",
+    "Sessions/Session 1/Préparation.md",
     "PNJ/Ennemis/Gnoll.md",
     "PNJ/Ennemis/Gnolls.png",
+    "Sessions/Session 1/Notes de jeu.md",
+    "PNJ/Personnages Importants/Images/Maro.png",
+    "PNJ/Personnages Importants/Maro.md",
+    "PNJ/Ennemis/Gardien de prison.md",
+    "Concepts/Gardiens Sylvestres.md",
+    "Sessions/Session 1/Introduction.md",
+    "Garde Sylvestre.md",
+    "Lieux/Mont Urzal.md",
+    "Prep/Session 0/Session 0 - Secrets.md",
+    "PNJ/Personnages Importants/Mira Vanis.md",
+    "PNJ/Personnages Importants/Images/Mira Vanis.png",
+    "PNJ/Personnages Importants/Kol'Darûn.md",
+    "PNJ/Personnages Importants/Kavaki.md",
     "Factions/Guildes/Ordre de Tsaln.md",
     "Factions/Culte des Huit.md",
     "Factions/Frères de Basalte.md",
+    "Factions/Huit.md",
     "Factions/Pacte des Initiés.md",
+    "Factions/Synode des Exilés.md",
+    "Lieux/Villes/Dratholm.md",
+    "Lieux/Villes/Ormeval.md",
+    "PNJ/Personnages Importants/Images",
     "PNJ/Ennemis/Generated Image November 05, 2025 - 8_02PM.png",
     "PNJ/Generated Image November 05, 2025 - 8_02PM.png",
+    "Untitled.canvas",
+    "Prep/Session 0",
+    "chemin/vers",
+    "chemin",
+    "Concepts",
     "Images/georgette.png",
     "DnD_Lucius/Images/Rodrick.png",
     "DnD_Lucius/Images/Sceau_de_Glastisbel.png"
