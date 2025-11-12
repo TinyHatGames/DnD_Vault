@@ -1,3 +1,7 @@
+---
+title: Les Archives de Naeth
+---
+
 ![[MytheCréateur.png]]
 
 Il y a bien longtemps, à l’époque où le givre et le sang se mêlaient encore dans les mers brumeuses du nord du monde, on raconte que **Kavaki, le Dieu-Bélier**, chercha un nouveau défi pour ses enfants.
@@ -24,6 +28,7 @@ Dans les galeries creusées par les Duergars, sous les fondations de l’Aiguill
 Bientôt, la lune commença son deuil. On dit qu’elle pleura la chute des premiers héros, ceux qui avaient bâti l’Aiguille et s’étaient perdus dans son ombre. D’autres murmurent qu’elle pleura Kavaki lui-même, endormi à jamais sous le mont qu’il avait fait naître.
 
 De ses larmes d'argent, qui coulent encore à chaque pleine lune, naquit la [[Selve Sélène]], une jungle immense et mouvante, faite de sève et de songes, qui dévora peu à peu les frontières du monde connu.
+
 
 C’est à sa lisière que s’accroche aujourd’hui [[Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
 

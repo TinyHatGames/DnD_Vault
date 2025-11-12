@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Accueil.md",
-                "mode": "source",
-                "source": false
+                "file": "Public/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Accueil"
+              "title": "index"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Accueil.md",
+                "file": "Public/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Accueil"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -191,7 +191,7 @@
   "lastOpenFiles": [
     "Public/Images/MytheCréateur.png",
     "Public/Images/Mira Vanis.png",
-    "Public/Accueil.md",
+    "Public/index.md",
     "Sessions/Session 1/Introduction.md",
     "Sessions/Session 1/Préparation.md",
     "Lieux/Mont Urzal.md",
