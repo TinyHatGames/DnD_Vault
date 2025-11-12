@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Personnages.md",
+                "file": "Public/Personnages 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personnages"
+              "title": "Personnages 1"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Personnages.md",
+                "file": "Public/Personnages 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personnages"
+              "title": "Outgoing links from Personnages 1"
             }
           },
           {
@@ -189,8 +189,9 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
-    "Sessions/Session 2/Préparation.md",
     "Public/Personnages.md",
+    "Public/Personnages 1.md",
+    "Sessions/Session 2/Préparation.md",
     "Sessions/Session 1/Préparation.md",
     "Factions/Huit.md",
     "Sessions/Session 2",
@@ -225,7 +226,6 @@
     "Concepts/Gardiens Sylvestres.md",
     "chemin/vers/portrait.png.md",
     "Sessions/Session 1/Introduction.md",
-    "Lieux/Villes/Thalarym.md",
     "PNJ/Personnages Importants/Images",
     "PNJ/Ennemis/Generated Image November 05, 2025 - 8_02PM.png",
     "PNJ/Generated Image November 05, 2025 - 8_02PM.png",
