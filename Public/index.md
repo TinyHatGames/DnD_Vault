@@ -30,7 +30,7 @@ Bientôt, la lune commença son deuil. On dit qu’elle pleura la chute des prem
 De ses larmes d'argent, qui coulent encore à chaque pleine lune, naquit la **Selve Sélène**, une jungle immense et mouvante, faite de sève et de songes, qui dévora peu à peu les frontières du monde connu.
 
 
-C’est à sa lisière que s’accroche aujourd’hui [[Public/Monde/Koruha|Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
+C’est à sa lisière que s’accroche aujourd’hui [[Monde/Koruha|Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
 
 C'est ici que la **Garde Sylvestre** lutte chaque jour pour contenir la progression de la Selve. C'est aussi là que certains des criminels et des condamnés de Naeth subissent le **Jugement de la Selve**, offerts à la forêt pour apaiser sa faim.
 

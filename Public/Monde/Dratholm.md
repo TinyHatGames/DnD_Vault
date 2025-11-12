@@ -1,1 +1,1 @@
-Ville située à l'extrême nord de [[Public/Monde/Naeth|Naeth]]. Grise, salée et pauvre, c'est le dernier rempart de l'île contre les raids de l'archipel glacé avoisinant. 
+Ville située à l'extrême nord de [[Monde/Naeth|Naeth]]. Grise, salée et pauvre, c'est le dernier rempart de l'île contre les raids de l'archipel glacé avoisinant. 

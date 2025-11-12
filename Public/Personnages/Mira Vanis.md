@@ -1,3 +1,3 @@
-![[Public/Images/Mira Vanis.png]]
+![[Images/Mira Vanis.png]]
 
-Capitaine de la Garde Sylvestre de [[Public/Monde/Koruha|Koruha]].
+Capitaine de la Garde Sylvestre de [[Monde/Koruha|Koruha]].

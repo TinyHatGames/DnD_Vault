@@ -1,3 +1,3 @@
-![[Public/Images/Maro.png]]
+![[Images/Maro.png]]
 
-Prisonnier évadé lors de l'attaque nocturne de [[Public/Monde/Koruha|Koruha]].
+Prisonnier évadé lors de l'attaque nocturne de [[Monde/Koruha|Koruha]].

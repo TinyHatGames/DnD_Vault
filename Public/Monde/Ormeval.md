@@ -1,1 +1,1 @@
-Ville principale de l'est de [[Public/Monde/Naeth|Naeth]]. On y trouve les meilleurs artisans de l'île, le grand marché des bêtes, et de nombreuses auberges accueillantes.
+Ville principale de l'est de [[Monde/Naeth|Naeth]]. On y trouve les meilleurs artisans de l'île, le grand marché des bêtes, et de nombreuses auberges accueillantes.

@@ -1,1 +1,1 @@
-![[Public/Images/Gnolls.png]]
+![[Images/Gnolls.png]]
