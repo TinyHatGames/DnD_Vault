@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/index.md",
+                "file": "Public/Personnages 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Personnages 1"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/index.md",
+                "file": "Public/Personnages 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Personnages 1"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
-    "Public/Personnages 1.md",
     "Public/index.md",
+    "Public/Personnages 1.md",
     "Public/Personnages.md",
     "Sessions/Session 2/Préparation.md",
     "Sessions/Session 1/Préparation.md",
