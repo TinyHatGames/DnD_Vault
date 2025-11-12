@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Personnages 1.md",
+                "file": "Sessions/Session 1/Notes de jeu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personnages 1"
+              "title": "Notes de jeu"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Personnages 1.md",
+                "file": "Sessions/Session 1/Notes de jeu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personnages 1"
+              "title": "Outgoing links from Notes de jeu"
             }
           },
           {
@@ -189,28 +189,41 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
-    "Public/index.md",
+    "Sessions/Session 1/Préparation.md",
+    "Sessions/Session 1/Notes de jeu.md",
+    "Sessions/Session 1/Menottes Runiques.md",
+    "Sessions/Session 1/Introduction.md",
+    "Public/Accueil.md",
+    "Prep/Le Jeu des Vérités.md",
+    "Prep/Guide du débutant.md",
+    "Prep/Fiche Aide Mémoire.md",
+    "Prep/Session 0/Session 0 - Secrets.md",
+    "Prep/Session 0/Session 0.md",
+    "Factions/Clans Noirs.md",
+    "Idées.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Public/Personnages",
+    "Public/Monde",
+    "Public/Sessions",
+    "Public/Extras.md",
     "Public/Personnages 1.md",
     "Public/Personnages.md",
+    "PNJ/Personnages Importants/Kol'Darûn.md",
+    "PNJ/Personnages Importants/Images/Maro.png",
+    "Public/Images/Mira Vanis.png",
+    "Public/Images/Maro.png",
+    "Public/Images",
+    "PNJ/Personnages Importants/Images/Mira Vanis.png",
     "Sessions/Session 2/Préparation.md",
-    "Sessions/Session 1/Préparation.md",
     "Factions/Huit.md",
     "Sessions/Session 2",
-    "Public/Extras.md",
-    "Prep/Session 0/Session 0 - Secrets.md",
     "Public/test.txt",
     "Public/New Text Document.txt",
     "Public/desktop.ini",
-    "Public",
-    "New folder",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Sessions/Session 1/Notes de jeu.md",
     "PNJ/Personnages Importants/Mira Vanis.md",
     "PNJ/Personnages Importants/Maro.md",
-    "PNJ/Personnages Importants/Images/Maro.png",
-    "PNJ/Personnages Importants/Images/Mira Vanis.png",
-    "PNJ/Personnages Importants/Kol'Darûn.md",
     "PNJ/Personnages Importants/Kavaki.md",
     "PNJ/Ennemis/Gnoll.md",
     "PNJ/Ennemis/Gnolls.png",
@@ -218,22 +231,10 @@
     "Factions/Culte des Huit.md",
     "Factions/Frères de Basalte.md",
     "Factions/Pacte des Initiés.md",
-    "Factions/Synode des Exilés.md",
-    "Lieux/Villes/Dratholm.md",
-    "Lieux/Villes/Ormeval.md",
-    "Lieux/Villes/Koruha.md",
-    "Lieux/Villes/Hyptis.md",
-    "Factions/Guildes/Garde Sylvestre de Koruha.md",
-    "Concepts/Gardiens Sylvestres.md",
-    "chemin/vers/portrait.png.md",
-    "PNJ/Personnages Importants/Images",
     "PNJ/Ennemis/Generated Image November 05, 2025 - 8_02PM.png",
     "PNJ/Generated Image November 05, 2025 - 8_02PM.png",
-    "Untitled.canvas",
-    "Prep/Session 0",
     "Images/georgette.png",
     "DnD_Lucius/Images/Rodrick.png",
-    "DnD_Lucius/Images/Sceau_de_Glastisbel.png",
-    "DnD_Lucius/Images/Rat.webp"
+    "DnD_Lucius/Images/Sceau_de_Glastisbel.png"
   ]
 }

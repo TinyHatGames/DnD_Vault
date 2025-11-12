@@ -1,4 +1,4 @@
-![[Maro.png]]
+![[PNJ/Personnages Importants/Images/Maro.png]]
 
 Agent de [[Koruha]] du [[Pacte des Initiés]]. En charge de la surveillance et de l'accompagnement / recrutement des joueurs. Ils commence l'aventure en se faisant passer pour un prisonnier.
 

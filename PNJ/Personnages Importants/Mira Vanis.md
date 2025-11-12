@@ -1,4 +1,4 @@
-![[Mira Vanis.png]]
+![[PNJ/Personnages Importants/Images/Mira Vanis.png]]
 
 [[Mira Vanis]] est la capitaine de la [[Garde Sylvestre de Koruha]]. Elfe des bois d'âge mûr, sa peau est d'un violet pâle et ses cheveux d'un blanc nacré. Son oeil gauche, perdu au combat et balafré, a été remplacé par un oeil d'obsidienne enchanté qui lui donne des sens surnaturels.
 
