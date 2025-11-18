@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Sessions/Session 1 - 061125.md",
+                "file": "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 1 - 061125"
+              "title": "Chroniques de Naeth - Chapitre I"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Sessions/Session 1 - 061125.md",
+                "file": "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 1 - 061125"
+              "title": "Outgoing links from Chroniques de Naeth - Chapitre I"
             }
           },
           {
@@ -218,25 +218,36 @@
   },
   "active": "06443a50c446e460",
   "lastOpenFiles": [
-    "Public/Monde/Hyptis.md",
-    "Public/Images/Naeth.jpg",
-    "Public/Monde/Dratholm.md",
-    "Public/Monde/Koruha.md",
-    "Public/Monde/Naeth.md",
-    "Public/Monde/Ormeval.md",
-    "Public/Monde/Thalarym.md",
-    "Public/Monstres/Gnolls.md",
-    "Public/Personnages/Maro.md",
-    "Public/Personnages/Mira Vanis.md",
-    "Public/Sessions/Session 1 - 061125.md",
-    "Public/index.md",
-    "Public/Images/MytheCréateur.png",
-    "Sessions/Session 1/Notes de jeu.md",
+    "Public/Héros/Nyxara.md",
+    "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+    "Public/Images/Nyxara.png",
+    "Public/Images/Orla.png",
     "Public/Images/Gnolls.png",
+    "Public/Images/Josué.png",
+    "Public/Images/Zooki.png",
+    "Public/Personnages/Maro.md",
+    "Public/Sessions/Session 1 - Notes - 061125.md",
+    "Public/Images/Sessions/Prison.png",
+    "Public/Images/MytheCréateur.png",
+    "Public/Images/Sessions",
+    "Public/Héros/Josué.md",
+    "Public/Images/Naeth.jpg",
+    "Public/Héros/Orla.md",
+    "Public/Héros/Zooki.md",
+    "Public/Héros",
+    "Public/Monstres/Gnolls.md",
+    "Public/Personnages/Mira Vanis.md",
+    "Public/Images/Maro.png",
+    "Public/Monde/Dratholm.md",
+    "Public/Monde/Thalarym.md",
+    "Public/Monde/Ormeval.md",
+    "Public/Monde/Naeth.md",
+    "Public/Monde/Koruha.md",
+    "Public/Monde/Hyptis.md",
+    "Public/index.md",
+    "Sessions/Session 1/Notes de jeu.md",
     "PNJ/Ennemis/Gnolls.png",
     "Public/Monstres",
-    "Public/Images/Mira Vanis.png",
-    "Public/Images/Maro.png",
     "Lieux/Villes/Koruha.md",
     "Lieux/Naeth.md",
     "Lieux/Villes/Dratholm.md",
@@ -245,24 +256,13 @@
     "Lieux/Villes/Ormeval.md",
     "Lieux/Villes/Hyptis.md",
     "Sessions/Session 1/Introduction.md",
-    "Sessions/Session 1/Préparation.md",
-    "Lieux/Mont Urzal.md",
-    "Garde Sylvestre.md",
-    "Sessions/Session 1/Menottes Runiques.md",
-    "Prep/Le Jeu des Vérités.md",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
     "Public/Personnages",
     "Public/Monde",
     "Public/Sessions",
-    "PNJ/Personnages Importants/Images/Maro.png",
     "Public/Images",
-    "PNJ/Personnages Importants/Images/Mira Vanis.png",
-    "Sessions/Session 2",
-    "Public/test.txt",
-    "Public/New Text Document.txt",
-    "PNJ/Ennemis/Generated Image November 05, 2025 - 8_02PM.png",
-    "PNJ/Generated Image November 05, 2025 - 8_02PM.png"
+    "Sessions/Session 2"
   ]
 }
