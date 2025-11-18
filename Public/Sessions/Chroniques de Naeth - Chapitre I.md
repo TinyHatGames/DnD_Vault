@@ -68,5 +68,4 @@ Et dans la salle principale, debout malgré la fatigue, les attendait une femme 
 
 [[Personnages/Mira Vanis|Mira Vanis]], capitaine de la Garde Sylvestre.
 
-La nuit n’était pas encore terminée.  
-Et leur histoire ne faisait que commencer.
+La nuit n’était pas encore terminée. Et leur histoire ne faisait que commencer.
