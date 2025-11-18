@@ -42,8 +42,8 @@
               "type": "markdown",
               "state": {
                 "file": "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Chroniques de Naeth - Chapitre I"
@@ -218,16 +218,18 @@
   },
   "active": "06443a50c446e460",
   "lastOpenFiles": [
-    "Public/Héros/Nyxara.md",
+    "Public/Images/Sessions/1/OrlaCombat.png",
     "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+    "Public/Images/Gnolls.png",
+    "Public/Images/Sessions/1",
+    "Public/Héros/Nyxara.md",
     "Public/Images/Nyxara.png",
     "Public/Images/Orla.png",
-    "Public/Images/Gnolls.png",
     "Public/Images/Josué.png",
     "Public/Images/Zooki.png",
     "Public/Personnages/Maro.md",
     "Public/Sessions/Session 1 - Notes - 061125.md",
-    "Public/Images/Sessions/Prison.png",
+    "Public/Images/Sessions/1/Prison.png",
     "Public/Images/MytheCréateur.png",
     "Public/Images/Sessions",
     "Public/Héros/Josué.md",
@@ -246,7 +248,6 @@
     "Public/Monde/Hyptis.md",
     "Public/index.md",
     "Sessions/Session 1/Notes de jeu.md",
-    "PNJ/Ennemis/Gnolls.png",
     "Public/Monstres",
     "Lieux/Villes/Koruha.md",
     "Lieux/Naeth.md",
@@ -262,7 +263,6 @@
     "Public/Personnages",
     "Public/Monde",
     "Public/Sessions",
-    "Public/Images",
-    "Sessions/Session 2"
+    "Public/Images"
   ]
 }

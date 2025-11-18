@@ -50,6 +50,8 @@ Koruha brûlait. On voyait les lueurs rouges des torches et des flammes, les sil
 Deux d’entre eux surgirent d’entre les ombres, menaçants et affamés.  
 L’un avait la gueule d’une hyène, l’autre les traits félins et nerveux d’un lynx affamé.
 
+![[OrlaCombat.png]]
+
 Le combat fut bref et brutal.  
 Josué, s'interposant entre les bêtes et ses compagnons, manqua d’être déchiré, le souffle coupé, le sang chaud sur sa joue.
 Orla, le regard durci par une résolution presque maternelle, appela la magie des anciens bosquets. Son bâton devint un prolongement de la Selve, vibrant d’une force chuchotée : _shillelagh_. 
