@@ -1,0 +1,1 @@
+Jungle mouvante en constante progression qui recouvre la plus grande partie de la moitié ouest de [[Privé/Lieux/Naeth]]. Elle s'arrête à [[Privé/Lieux/Villes/Koruha]], où les [[Garde Sylvestre de Koruha]] combattent sa progression.

@@ -1,0 +1,1 @@
+Ville principale de l'est de [[Privé/Lieux/Naeth]]. On y trouve les meilleurs artisans de l'île, le grand marché des bêtes, et de nombreuses auberges accueillantes. Ville médiévale typique.

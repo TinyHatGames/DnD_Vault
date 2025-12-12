@@ -1,1 +1,0 @@
-Jungle mouvante en constante progression qui recouvre la plus grande partie de la moitié ouest de [[Lieux/Naeth]]. Elle s'arrête à [[Koruha]], où les [[Garde Sylvestre de Koruha]] combattent sa progression.

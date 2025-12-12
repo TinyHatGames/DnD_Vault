@@ -1,0 +1,1 @@
+Faction administratrice de [[Privé/Lieux/Villes/Thalarym|Thalarym]]. Le synode des exilés est issu de la diaspora des elfes sylvains qui vivaient dans la [[Selve Sélène]] avant son expansion ([[Royaume Sylvestre Occidental]]).

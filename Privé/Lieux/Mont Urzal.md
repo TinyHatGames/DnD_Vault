@@ -1,0 +1,3 @@
+Massif colossal central de [[Privé/Lieux/Naeth]], en sommet se situe [[Privé/Lieux/Villes/Thalarym]], capitale et centre du pouvoir de la contrée.
+
+Dans les profondeurs de la montagne vivent des clans matriarcaux Duergar, on les appelle les [[Clans Noirs]]. Exploités par les castes dominantes du sommet, ils extraient des minéraux et autres ressources du cœur de la montagne. Les extractions / exploitations créent des éboulements et secousses à la surface de la montagne. Certains clans sont rebelles et sont en conflit avec la capitale. Il y a de nombreuses légendes à propos des Duergar, qui ne sortent presque jamais - ils n'y sont pas autorisés et ne supportent pas la lumière.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+                "file": "Privé/Sessions/Session 2/Préparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chroniques de Naeth - Chapitre I"
+              "title": "Préparation"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Extras.md",
+                "file": "Privé/Sessions/Session 2/Préparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Extras"
+              "title": "Backlinks for Préparation"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+                "file": "Privé/Sessions/Session 2/Préparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chroniques de Naeth - Chapitre I"
+              "title": "Outgoing links from Préparation"
             }
           },
           {
@@ -180,8 +180,7 @@
               "title": "Outline of Lucius_Bonnefoi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c6273cdb619c9f5f",
@@ -201,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,51 +218,51 @@
   },
   "active": "06443a50c446e460",
   "lastOpenFiles": [
-    "Public/Images/Sessions/1/OrlaCombat.png",
-    "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+    "Privé/Sessions/Session 2/Sceau Divin.md",
+    "Privé/Sessions/Session 2/SceauDivin.png",
+    "Privé/Sessions/Session 2/Préparation.md",
+    "Privé/PNJ/Personnages Importants/Maro.md",
+    "Public/Personnages/Maro.md",
+    "Privé/Lieux/Selve Sélène.md",
+    "Privé/Factions/Huit.md",
+    "Privé/Factions/Pacte des Initiés.md",
+    "Privé/Factions/Synode des Exilés.md",
+    "Privé/Sessions/Session 1/Menottes Runiques.md",
+    "Privé/Lieux/Villes/Koruha.md",
+    "Privé/Concepts/Jugement de la Selve.md",
+    "Privé/Lieux/Le Monde.md",
+    "Privé/Lieux/Mont Urzal.md",
+    "Privé/Lieux/Naeth.md",
+    "Public/Monde/Naeth.md",
+    "Public/Monde/Thalarym.md",
+    "Public/Monde/Ormeval.md",
+    "Public/Monde/Dratholm.md",
+    "Privé/Lieux/Villes/Thalarym.md",
+    "Untitled.canvas",
+    "Privé/Templates/pnj_template.md",
+    "Privé/Templates/statblock_template.md",
+    "Privé/Templates/lieu_template.md",
+    "Privé/Templates/faction_template.md",
+    "Privé/Templates/objet_template.md",
+    "Privé/Templates/creature_template.md",
+    "Untitled.base",
+    "Privé",
+    "Untitled 1.base",
+    "Public/Héros/Zooki.epub",
+    "Public/Images/Mira Vanis.png",
     "Public/Images/Gnolls.png",
+    "Public/Images/Josué.png",
+    "Public/Images/Sessions/1/OrlaCombat.png",
     "Public/Images/Sessions/1",
-    "Public/Héros/Nyxara.md",
     "Public/Images/Nyxara.png",
     "Public/Images/Orla.png",
-    "Public/Images/Josué.png",
     "Public/Images/Zooki.png",
-    "Public/Personnages/Maro.md",
-    "Public/Sessions/Session 1 - Notes - 061125.md",
     "Public/Images/Sessions/1/Prison.png",
     "Public/Images/MytheCréateur.png",
     "Public/Images/Sessions",
-    "Public/Héros/Josué.md",
-    "Public/Images/Naeth.jpg",
-    "Public/Héros/Orla.md",
-    "Public/Héros/Zooki.md",
     "Public/Héros",
-    "Public/Monstres/Gnolls.md",
-    "Public/Personnages/Mira Vanis.md",
-    "Public/Images/Maro.png",
-    "Public/Monde/Dratholm.md",
-    "Public/Monde/Thalarym.md",
-    "Public/Monde/Ormeval.md",
-    "Public/Monde/Naeth.md",
-    "Public/Monde/Koruha.md",
-    "Public/Monde/Hyptis.md",
-    "Public/index.md",
-    "Sessions/Session 1/Notes de jeu.md",
     "Public/Monstres",
-    "Lieux/Villes/Koruha.md",
-    "Lieux/Naeth.md",
-    "Lieux/Villes/Dratholm.md",
-    "Lieux/Aiguille.md",
-    "Lieux/Villes/Thalarym.md",
-    "Lieux/Villes/Ormeval.md",
-    "Lieux/Villes/Hyptis.md",
-    "Sessions/Session 1/Introduction.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
     "Public/Personnages",
-    "Public/Monde",
-    "Public/Sessions",
-    "Public/Images"
+    "Public/Monde"
   ]
 }

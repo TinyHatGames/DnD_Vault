@@ -1,0 +1,2 @@
+- Cool factor
+	- On a vraiment besoin d'éléments féeriques, fantasy, des choses qui changent, des éléments vraiment uniques au monde. Même chose pour les personnages, ils doivent être typés et intéressants.

@@ -1,0 +1,1 @@
+On parle de la pluie magique qui tombe à chaque pleine lune en tant que [[Larmes de Lune]]. Les gens qui obtiennent des pouvoirs suite à une exposition prolongée à cette pluie sont "touchés par la lune", ou **Séléens** / **Séléennes**.
