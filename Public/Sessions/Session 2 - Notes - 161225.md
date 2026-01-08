@@ -1,24 +1,4 @@
-Karis Pax - gardien
-
-Contremaître Baros 
-
-- Josué corde 20m
-- Nyx épée longue
-- Bracelet chapelet vert cylindres
-- Zooki boucle d'oreille ronde montée sur une pièce d'argent qui a l'air vachement magique
-	- Il l'a porte et se sent super magique
-
-Lafel le guide
-
-Auberge des Guides
-25po pour le voyage
-
-Zooki fait un petit cube avec une source de lumière avec des petites ailes
-
-
---- 
-
-### Récapitulatif
+## Déroulé
 
 Notre histoire reprend donc dans la caserne de la Garde Sylvestre. Bâtiment le plus grand de toute la ville, la caserne est faite de bois variés. Sa forme rappelle celle d'un navire retourné strié et couvert de meurtrières. Des pieds massifs ancrent sa structure dans le sol.
 
@@ -78,4 +58,3 @@ Les héros s'aventurent enfin dans la Selve et constatent qu'aux abords de Koruh
 Le trajet continue et les héros finissent par arriver au temple alors que le soleil se couche. Le temple est déjà ouvert et des signes indiquent qu'il a été forcé. Des traces de griffes et des symboles (que les héros ne parviennent pas à identifier, mais sûrement Kobold) sont tout autour de la porte. Devant la porte se dresse un cerf qui porte des symboles peints sur sa fourrure et des traces de mutilation sur tout le corps - il semble avoir été corrompu. Il est attaché avec une chaîne à la porte, et ne voit pas encore les héros.
 
 Comment les héros parviendront ils à passer ? La suite au prochain épisode !
-
