@@ -81,11 +81,12 @@ En revanche, si les personnages recourent à la violence, les Chwingas disparais
 ### 1️⃣ Entrée du temple — Le Gardien asservi
 
 Les ruines du temple émergent de la Selve, à moitié englouties par les racines et les lianes.  
-L’entrée est gardée par un **grand cerf corrompu**, amaigri, entravé par des cordes gnolls et marqué de peintures rituelles.  
-L’animal est nerveux mais pas foncièrement hostile.  
-Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui.  
-Le tuer est possible, mais lourd de sens dans un temple de **Rillifane**.  
-Libérer ou apaiser la bête est perçu favorablement par le lieu.  
+L’entrée est gardée par un **grand cerf corrompu**, amaigri, entravé par des cordes gnolls et marqué de peintures rituelles.
+L’animal est nerveux mais pas foncièrement hostile.
+Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui.
+
+Le tuer est possible, mais lourd de sens dans un temple de **Rillifane**.
+Libérer ou apaiser la bête est perçu favorablement par le lieu.
 Des traces indiquent que les Gnolls passent régulièrement par ici.
 
 ---
@@ -151,13 +152,33 @@ L’autel réagit faiblement à la présence du sceau.
 
 ### 5️⃣ Activation de l’autel — Jugement de Rillifane
 
-En plaçant le sceau au bon endroit, le temple s’anime.  
-Racines et lianes se déplacent, la pierre se nettoie, la lumière revient.  
-Une **voix douce et ancienne**, celle de Rillifane, se fait entendre.  
+En plaçant le sceau au bon endroit, le temple s’anime.
+Racines et lianes se déplacent, la pierre se nettoie, la lumière revient.
+Une **voix douce et ancienne**, celle de Rillifane Rallathil, se fait entendre.
+
+S'ils n'ont pas été violents envers la nature...
+
+« Vous avez marché sans brutalité.
+Vous avez rendu ce qui n’était pas à vous.
+La forêt s’en souviendra. »
+
+ou sinon :
+
+« Vous avez avancé avec fracas.
+Vous avez pris ce qui ne se rendait pas encore.
+La forêt n’oublie pas cela. »
+
+puis :
+
+« La forêt ne marche pas seule.
+Quelqu’un la guide.
+Quelqu’un qui se souvient d’un royaume qui n’est plus.
+Et qui hait ceux qui ont façonné la pluie. »
+
 Il félicite les héros s’ils ont agi avec retenue et respect.  
 Ils reçoivent une **bénédiction de la nature** (avantage situationnel en Selve / apaisement des bêtes).  
 S’ils ont usé de violence contre les Chwingas, le temple est plus froid et moins généreux.  
-Rillifane révèle qu’un **elfe ancien guide la Selve** contre les cités.  
+**Rillifane** révèle qu’un **elfe ancien guide la Selve** contre les cités.  
 Il évoque aussi une **pluie détournée** et une haine envers les Goliaths.  
 Les héros repartent avec un rapport crucial pour Mira Vanis.
 

@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dad382c31f93caef",
+            "id": "8ad4938f15786d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Villes/Hyptis.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Hyptis"
-            }
-          },
-          {
-            "id": "88991fb446c872e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lieux/Villes/Koruha.md",
+                "file": "Privé/Sessions/Session 2/Préparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koruha"
-            }
-          },
-          {
-            "id": "06443a50c446e460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privé/Lieux/Villes/Koruha.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Koruha"
+              "title": "Préparation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "b382dcd983f8e85f",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privé/Sessions/Session 2/Préparation.md",
+                "file": "Lieux/Le Monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Préparation"
+              "title": "Backlinks for Le Monde"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privé/Sessions/Session 2/Préparation.md",
+                "file": "Lieux/Le Monde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Préparation"
+              "title": "Outgoing links from Le Monde"
             }
           },
           {
@@ -181,22 +152,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c6273cdb619c9f5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38c47c88f228db9e",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -216,54 +171,54 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "06443a50c446e460",
+  "active": "8ad4938f15786d1e",
   "lastOpenFiles": [
-    "Public/Images/Caserne_Koruha.jpeg",
-    "Public/Images/Kael.jpeg",
-    "Public/Kael.jpeg",
+    "Privé/Sessions/Session 2/Notes.md",
     "Privé/Sessions/Session 2/Préparation.md",
-    "Public/Images/Marché_Koruha.jpeg",
-    "Privé/PNJ/Personnages Importants/Kael - Aubergiste de la Canopée.md",
-    "Kael.jpeg",
-    "Privé/PNJ/Ennemis/Cerf Corrompu.md",
-    "Public/Images/Cerf_Temple.jpeg",
-    "Privé/PNJ/Ennemis/Gardien de prison.md",
-    "Privé/PNJ/Ennemis/Gnoll Alpha.md",
-    "Privé/PNJ/Ennemis/Aelwyn.md",
-    "Privé/PNJ/Ennemis/Gnoll.md",
-    "Privé/PNJ/Ennemis/Gnoll Sbire.md",
-    "Public/Images/GnollAlpha.jpg",
-    "Public/Images/Aelwyn.jpeg",
-    "Public/Images/Generated Image December 16, 2025 - 5_16PM.jpeg",
-    "Public/Images/Josué - Copy.png",
-    "Public/Images/Maro - Copy.png",
-    "Privé/PNJ/Ennemis/Capitaine Gnoll.md",
-    "Privé/Sessions/Session 1/Préparation.md",
     "Privé/Lieux/Villes/Koruha.md",
-    "Privé/Sessions/Session 2/Sceau.md",
-    "Privé/PNJ/Personnages Importants/Maro.md",
-    "Public/Personnages/Maro.md",
-    "Privé/Lieux/Selve Sélène.md",
-    "Privé/Factions/Huit.md",
+    "Privé/Prep/Idées.md",
     "Privé/Factions/Pacte des Initiés.md",
-    "Privé/Factions/Synode des Exilés.md",
-    "Privé/Sessions/Session 1/Menottes Runiques.md",
-    "Privé/Concepts/Jugement de la Selve.md",
-    "Privé/Lieux/Le Monde.md",
+    "Privé/PNJ/Personnages Importants/Kael - Aubergiste de la Canopée.md",
+    "Privé/Lieux/Villes/Hyptis.md",
+    "Privé/Prep/Session 0/Session 0 - Secrets.md",
+    "Privé/Prep/Session 0/Session 0.md",
+    "Privé/Prep/Fiche Aide Mémoire.md",
+    "Privé/Prep/Guide du débutant.md",
+    "Privé/Prep/Le Jeu des Vérités.md",
+    "Public/Héros/Zooki.md",
+    "Public/Images/Zooki.png",
+    "Public/Héros/Orla.md",
+    "Public/Héros/Josué.md",
+    "Public/Héros/Nyxara.md",
     "Privé/Lieux/Mont Urzal.md",
-    "Privé/Lieux/Naeth.md",
-    "Public/Monde/Naeth.md",
-    "Public/Monde/Thalarym.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Privé",
-    "Untitled 1.base",
-    "Public/Héros/Zooki.epub",
+    "Privé/Lieux/Le Monde.md",
+    "Privé/Lieux/Villes/Thalarym.md",
+    "Public/Images/Josué.png",
+    "Public/Images/Kael.jpeg",
+    "Public/Images/Marché_Koruha.jpeg",
+    "Privé/Sessions/Session 2/Sceau.png",
+    "Public/Images/Mira Vanis.png",
+    "Public/Images/Caserne_Koruha.jpeg",
+    "Public/Images/Chwingas.png",
+    "Public/Images/Naeth.jpg",
+    "Public/Images/MytheCréateur.png",
+    "Sessions/Session 1/Notes de jeu.md",
+    "Public/index.md",
+    "Public/Sessions/Session 1 - Notes - 061125.md",
+    "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+    "Public/Sessions",
+    "Public/Personnages/Mira Vanis.md",
+    "Public/Personnages/Maro.md",
+    "Public/Personnages",
+    "Public/Monstres/Gnolls.md",
+    "Public/Monstres",
+    "Public/Monde",
     "Public/Images/Sessions/1",
     "Public/Images/Sessions",
+    "Public/Héros/Zooki.epub",
     "Public/Héros",
-    "Public/Monstres",
-    "Public/Personnages",
-    "Public/Monde"
+    "Privé/PNJ/Personnages Importants/Images",
+    "Privé/Sessions/Session 2",
+    "Untitled.canvas"
   ]
 }
