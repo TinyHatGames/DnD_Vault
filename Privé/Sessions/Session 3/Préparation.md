@@ -8,7 +8,7 @@ _Un sceau elfique, arraché à un Kobold lors de l’attaque, désignait un temp
 
 _Sous la canopée suspendue d'une auberge haute perchée, les récits se mêlèrent à l’alcool, et c’est là que Maro, leur compagnon de gêole, reparut, porteur d’avertissements et de doutes. Il leur révéla la nature des menottes runiques et se présenta comme un allié, mais ses paroles semèrent le doute et la méfiance au sein du groupe, et il finit par repartir dans la nuit. Kael, l'aubergiste, leur fit part de sa crainte d'un groupe nébuleux gagnant en influence à Koruha, le Pacte des Initiés._
 
-_À l’aube, privés de réponses mais chargés d’un but, ils décidèrent de quitter Koruha, traversant son marché en premier lieu, et confièrent leur route à Lafel, guide trop frêle pour rassurer, mais assez audacieux et informé pour les mener à bon port._
+_À l’aube, ils décidèrent de quitter Koruha, profitant de son marché pour se préparer au voyage en premier lieu, et confièrent leur route à Lafel, guide trop frêle pour rassurer, mais assez audacieux et informé pour les mener à bon port._
 
 _La forêt nouvelle, d'abord clairsemée, se montra clémente sous le soleil, laissant passer les voyageurs et leur guide, et les gratifiant même d'une rencontre de bon augure avec ses esprits. Les progrès furent rapides, jusqu’à ce qu'à la tombée de la nuit, les pierres profanées du temple se dressent devant eux._
 
@@ -18,14 +18,28 @@ _Là, enchaîné à sa porte comme une offrande brisée, un cerf mutilé et corr
 
 ### 1️⃣ Entrée du temple — Le Gardien asservi
 
-Les ruines du temple émergent de la Selve, à moitié englouties par les racines et les lianes.  
-L’entrée est gardée par un [[Cerf Corrompu]], amaigri, entravé par des cordes gnolls et marqué de peintures rituelles.
+Les ruines du temple émergent de la Selve, à moitié englouties par les racines et les lianes. Ses pierres sont recouvertes de mousse et rongées par le temps. Le ciel est d'une teinte orangée et la nuit sera bientôt là.
+
+L’entrée est gardée par un [[Cerf Corrompu]], amaigri, mutilé, entravé par des cordes et marqué de peintures rituelles.
+
 L’animal est nerveux mais pas foncièrement hostile.
 Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui.
 
+S'ils communiquent, les paroles du cerf sont très simplifiées, animales, brusque et erratiques. Il a peur, souffre, et les met en garde de ne pas approcher. Il est victime d'une malédiction de compulsion, il doit être là, ne laisser passer personne, ne pas partir. 
+
+**On récompensera les idées originales et intéressantes pour tenter de le calmer / convaincre.**
+
+Ex: 
+
+- Josué peut utiliser les herbes qu'il a acheté au marché pour l'amadouer.
+- Un sort pourrait potentiellement l'aider ?
+
+Si on arrive à le calmer totalement, il nous indique que ses bourreaux gnolls sont entrés dans le temple et l'ont attaché là.
+
 Le tuer est possible, mais lourd de sens dans un temple de **Rillifane**.
 Libérer ou apaiser la bête est perçu favorablement par le lieu.
-Des traces indiquent que les Gnolls passent régulièrement par ici.
+
+Si les joueurs inspectent les alentours du temple, ils y trouvent de nombreuses traces du passage des gnolls : marques de griffes, peintures rouges sur le temple, feu de camp éteint, traces de pas...
 
 ---
 
@@ -36,8 +50,9 @@ Au centre, un bassin de pierre lisse contient un liquide brillant, dense et immo
 
 Sur la pierre, une inscription ancienne court en arc au-dessus du bassin. Elle est en elfique, il faut que les personnages le parlent pour le lire, ou sinon on demande à Lafel.
 
-À peine le groupe franchit-il le seuil que l’air change, plus frais, plus chargé d’odeurs de sève.  
-Et alors que Lafel passe derrière eux… une vibration sourde traverse la salle.
+À peine le groupe franchit-il le seuil que l’air change, plus frais, plus chargé d’odeurs de sève.
+
+Et alors que **Lafel** passe derrière eux… une vibration sourde traverse la salle.
 
 Une liane de lumière — ou peut-être un simple souffle de pollen — jaillit du bassin en un ruban élégant et le repousse sans violence, mais avec une autorité indiscutable. La pierre “claque”, et une membrane de ronces translucides se referme sur l’encadrement : Lafel se retrouve dehors, le nez à moitié écrasé contre la barrière, indignation muette.
 
@@ -52,7 +67,7 @@ Les personnages ne lisent pas l’elfique. Lafel, lui, le peut… mais il est re
 
 **Solutions possibles :**
 
-- **Copier / frottage** (papier + charbon/craie) puis montrer la feuille contre la barrière. _(Dex DD 10–12 si nécessaire)_
+- **Copier / frotter / empreinte** (papier + charbon/craie) puis montrer la feuille contre la barrière. _(Dex DD 10–12 si nécessaire)_
     
 - **Agrandir** : recopier sur un tissu/planche ou au sol pour qu’il lise de loin. _(Investigation ou Dex DD 12)_
     
@@ -167,7 +182,7 @@ Tout au fond, sur une estrade fendue, se dresse un autel : un bloc de marbre vei
 
 Un **gnoll immense en armure** se tient près de l’autel, il a une hache à la main. Il semble agité, impatient, et gesticule en rugissant. À ses côtés, deux gnolls maintiennent un **otage elfe**, blond, les cheveux fou et au visage blême. Ses mains tremblent et ses genoux semblent sur le point de céder.
 
-« Toi, elfe. Le Père Vert a dit ! Tu sais! Tu fais! Ou, tu saignes! »
+« Toi, elfe. Le Viridien a dit ! Tu sais! Tu fais! Ou, tu saignes! »
 « L'au.. L’autel ne répondra pas à la profanation. J... Je vous l'ai dit, avec tout mon respect, il vous manque la marque du serment... Je suis navré, monsieur, euh, Varkh, vraiment, mais euh...»
 
 Le gnoll rugit et frappe l'autel avec sa hache à répétition. Personne ne vous a vu pour le moment. Que faites-vous ?
@@ -180,27 +195,28 @@ Le gnoll rugit et frappe l'autel avec sa hache à répétition. Personne ne vous
     
 - Le capitaine menace, mais ne tue pas : il a besoin d’une action précise / d’un savoir / d’un geste que seul l’elfe peut faire **avec le sceau**.
 
-**PNJs
+**PNJs pour le Combat
 
 - **Capitaine gnoll : Varkh** 
-    Voix râpeuse, phrases courtes agrammaticales, colère contenue. Il parle d’un “Père Vert” sans le décrire. Il veut prouver sa valeur et ramener un signe, pas mourir ici.
-    
+    Voix râpeuse, phrases courtes agrammaticales, colère contenue. Il parle d’un “Viridien” sans le décrire. Il veut prouver sa valeur et ramener un signe, pas mourir ici.
+    Voir [[Gnoll Alpha]]
 - **Otage elfe : Aelwyn, Veilleur de Rillifane**  
     Terrorisé mais lucide. Il reconnaît les lieux, les glyphes, et peut aider ensuite (traduction, histoire du temple, avertissements). Il étudie le temple depuis un moment et a été capturé pendant l'attaque.
+    Voir [[Aelwyn]]
+- **Deux gardes gnoll**
+	Voir [[Gnoll]]
 
 **Ce que l’elfe peut offrir si libéré**
 
+- Il combat si le combat est encore en cours, il a tendance à rester à distance et à "aider", ce n'est pas un combattant mais un savant.
 - Il confirme l’origine du sceau (Royaume Sylvestre).
-    
-- Il reconnaît des marques kobolds/gnolls.
-    
+- Il reconnaît des marques gnolls.
 - Il sait comment placer le sceau correctement (sans “résoudre” tout tout seul : il guide, il n’exécute pas).
 
-**Indices “mythiques” sans trop révéler**
+**Indices
 
-- Le capitaine prononce “Père Vert” comme un titre, pas un nom.
-    
-- Il mentionne “la Selve qui veut” (interprétation gnoll), sans donner plus.
+- Le capitaine prononce “Viridien” comme un titre, pas un nom.
+- Aelwyn a entendu que les gnolls étaient envoyés par le “Viridien”.
 
 ---
 
