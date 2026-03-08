@@ -4,7 +4,7 @@ _Arrachés aux racines d’une prison vivante, entravés par des bracelets runiq
 
 _Conduits par les gardes au cœur de l'immense caserne de la Garde Sylvestre, encore imprégnée de cendres et de sang, ils furent reçus par Mira Vanis, dont le regard d’obsidienne semblait jauger non seulement leurs paroles, mais le sort que la Selve leur réservait. Elle leur offrit un marché : suivre une piste dangereuse en échange de leur liberté, et être soustraits au jugement sans appel de la forêt._
 
-_Un sceau elfique, arraché à un Kobold lors de l’attaque, désignait un temple oublié du Royaume Sylvestre. Orla en reconnut la marque sacrée.
+_Un sceau elfique, arraché à un Gnoll lors de l’attaque, désignait un temple oublié du Royaume Sylvestre. Orla en reconnut la marque sacrée.
 
 _Sous la canopée suspendue d'une auberge haute perchée, les récits se mêlèrent à l’alcool, et c’est là que Maro, leur compagnon de gêole, reparut, porteur d’avertissements et de doutes. Il leur révéla la nature des menottes runiques et se présenta comme un allié, mais ses paroles semèrent le doute et la méfiance au sein du groupe, et il finit par repartir dans la nuit. Kael, l'aubergiste, leur fit part de sa crainte d'un groupe nébuleux gagnant en influence à Koruha, le Pacte des Initiés._
 
@@ -20,12 +20,14 @@ _Là, enchaîné à sa porte comme une offrande brisée, un cerf mutilé et corr
 
 Les ruines du temple émergent de la Selve, à moitié englouties par les racines et les lianes. Ses pierres sont recouvertes de mousse et rongées par le temps. Le ciel est d'une teinte orangée et la nuit sera bientôt là.
 
-L’entrée est gardée par un [[Cerf Corrompu]], amaigri, mutilé, entravé par des cordes et marqué de peintures rituelles.
+L’entrée est gardée par un [[Cerf Corrompu]], amaigri, mutilé, entravé par une chaîne et marqué de peintures rituelles.
 
 L’animal est nerveux mais pas foncièrement hostile.
-Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui.
+Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui...
 
 S'ils communiquent, les paroles du cerf sont très simplifiées, animales, brusque et erratiques. Il a peur, souffre, et les met en garde de ne pas approcher. Il est victime d'une malédiction de compulsion, il doit être là, ne laisser passer personne, ne pas partir. 
+
+S'ils l'observent, ils peuvent voir des indices sur la malédiction. La chaine qui le retient est attachée à un piton luit rouge, elle est reliée à un collier qui est fixé au cerf via des pieux plantés dans sa peau. La peinture sur le cerf luit aussi légèrement dans la nuit, elle est magique. S'ils effacent des signes et rompent la corde, alors ils rompent la malédiction. Le cerf ne sera soigné qu'à la fin une fois le rite de la nef accompli ceci dit.
 
 **On récompensera les idées originales et intéressantes pour tenter de le calmer / convaincre.**
 
@@ -46,7 +48,7 @@ Si les joueurs inspectent les alentours du temple, ils y trouvent de nombreuses 
 ### 2️⃣ Antichambre — Le Bassin des Quatre Dons
 
 Une salle circulaire, basse de plafond, s’ouvre derrière la première porte. Ici, la pierre a été polie par des siècles d’humidité, et les gravures de feuilles et de branches semblent presque trop fines pour être réelles. Quatre colonnes se dressent aux points cardinaux, incrustées chacune d’une gemme terne, comme un œil fermé.  
-Au centre, un bassin de pierre lisse contient un liquide brillant, dense et immobile, dont la surface reflète la lumière avec un éclat vert-argent, comme une clairière au petit matin.
+Au centre, un bassin de pierre lisse contient un liquide brillant, dense et immobile, dont la surface reflète la lumière avec un éclat vert-argent, comme une l'eau de rivière.
 
 Sur la pierre, une inscription ancienne court en arc au-dessus du bassin. Elle est en elfique, il faut que les personnages le parlent pour le lire, ou sinon on demande à Lafel.
 
@@ -157,12 +159,12 @@ Un personnage capturé peut être libéré par ingéniosité, dégâts, magie ou
 
 **IMPORTANT**: Le personnage qui a le sceau n'est jamais attaqué, dans la pièce il se met à briller. S'il a la présence d'esprit de l'utiliser, les lianes reculent / relâchent ses alliés.
 
-| **Étape**                           | **Situation**                                    | **Jet demandé**                        | **Résultat**                                                             |
+| 2. Latte cassée / pied coincé       | PJ sur le pont                                   | **JS Force ou Dex DD 12**              | **Réussite** : on garde l'équilibre                                      |
 | ----------------------------------- | ------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------ |
+| **Étape**                           | **Situation**                                    | **Jet demandé**                        | **Résultat**                                                             |
 | Déclenchement                       | Mouvement brusque, course, combat, chute d’objet | —                                      | Les lianes s’activent, on lance 1d4                                      |
 | 1. Capture                          | PJ sur le pont                                   | **JS Force ou Dex DD 12**              | Réussite : aucun effet                                                   |
 |                                     |                                                  |                                        | Échec : capturé, effet "**entravé**"                                     |
-| 2. Latte cassée / pied coincé       | PJ sur le pont                                   | **JS Force ou Dex DD 12**              | **Réussite** : on garde l'équilibre                                      |
 |                                     |                                                  |                                        | **Échec** : jambe coincée dans l'interstice, désavantage au tour suivant |
 | 3. Fouet de liane                   | PJ sur le pont                                   | **JS Dextérité DD 13**                 | **Réussite** : aucun effet                                               |
 |                                     |                                                  |                                        | **Échec** : 1d4 dégâts slash                                             |
