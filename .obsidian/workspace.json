@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privé/Sessions/Session 4/Préparation - Objets.md",
+                "file": "Public/Sessions/Chroniques de Naeth - Chapitre III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Préparation - Objets"
+              "title": "Chroniques de Naeth - Chapitre III"
             }
           }
         ]
@@ -173,8 +173,14 @@
   },
   "active": "0bfce621b7a9ac2b",
   "lastOpenFiles": [
-    "Privé/PNJ/Personnages Importants/Thaelor.md",
+    "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
+    "Public/Sessions/Chroniques de Naeth - Chapitre II.md",
+    "Public/Images/Sessions/2/RencontreChwingas.png",
+    "Public/Sessions/Chroniques de Naeth - Chapitre III.md",
+    "Public/Images/Sessions/3/Temple_Combat.png",
+    "Public/Images/Sessions/3",
     "Privé/Sessions/Session 4/Préparation - Objets.md",
+    "Privé/PNJ/Personnages Importants/Thaelor.md",
     "Privé/PNJ/Personnages Importants/Images/Thaelor.png",
     "Privé/PNJ/Personnages Importants/Am'Hok Dun.md",
     "Privé/PNJ/Personnages Importants/Aelwyn.md",
@@ -197,20 +203,14 @@
     "Public/Sessions/Session 2 - Notes - 161225.md",
     "Public/Sessions/Session 1 - Notes - 061125.md",
     "Privé/Sessions/Session 3/Préparation.md",
-    "Public/Sessions/Chroniques de Naeth - Chapitre III.md",
     "Privé/Sessions/Session 4/Notes.md",
-    "Public/Sessions/Chroniques de Naeth - Chapitre I.md",
     "Privé/Sessions/Session 4",
-    "Public/Sessions/Chroniques de Naeth - Chapitre II.md",
     "Privé/PNJ/Personnages Importants/Maro.md",
     "Privé/Sessions/Session 2/Préparation.md",
-    "Public/Personnages/Maro.md",
     "Public/Images/Cerf_Temple.jpeg",
     "Public/Images/Chwingas.png",
     "Public/Images/Caserne_Koruha.jpeg",
-    "Public/Images/Aelwyn.jpeg",
     "Privé/Sessions/Session 3",
-    "Public/Images/Naeth.jpg",
     "Public/Sessions",
     "Public/Personnages",
     "Public/Monstres",
@@ -218,7 +218,6 @@
     "Public/Images/Sessions/1",
     "Public/Images/Sessions",
     "Public/Héros/Zooki.epub",
-    "Public/Héros",
     "Untitled.canvas"
   ]
 }

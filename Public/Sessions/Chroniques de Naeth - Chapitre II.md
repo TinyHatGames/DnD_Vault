@@ -1,5 +1,7 @@
 ## _Sous la Canopée des Mensonges_
 
+![[Caserne_Koruha.jpeg]]
+
 La caserne de la Garde Sylvestre dominait Koruha comme une épave échouée au cœur de la ville.  
 Un navire de bois retourné, bardé de meurtrières, ses piliers massifs enfoncés dans la terre comme des racines artificielles cherchant à rivaliser avec la Selve elle-même.
 
@@ -37,6 +39,8 @@ Un simple geste, entrouvrant sa robe, révélant une musculature massive et parf
 
 Déçu, il quitta l’auberge d’un bond spectaculaire, disparaissant dans la nuit comme une ombre moqueuse.
 
+![[Kael.jpeg]]
+
 Kael, resté en retrait, parla à son tour.  
 Ancien convoyeur des routes mobiles de Koruha, il avait vu la Selve reprendre trop de vies. Il respectait profondément Mira — et admit sans détour que leur présence ici était voulue. Le Jugement de la Selve faisait probablement partie du plan. Il évoqua le Pacte des Initiés, une faction montante et dangereuse, et leur conseilla la prudence.
 
@@ -51,6 +55,8 @@ Zooki se réveilla la tête lourde. Orla titubait encore dans les restes de la v
 Chez le contremaître Baros, débordé, ils ne purent choisir qu’un objet chacun dans une pile hétéroclite.  
 Une corde. Une épée. Un bracelet chapelet. Une boucle d’oreille étrange, que Zooki passa aussitôt… et qui le fit se sentir terriblement magique.
 
+![[Marché_Koruha.jpeg]]
+
 Le [[Privé/Lieux/Villes/Koruha#Grand Marché de Koruha|Grand Marché de Koruha]] s’éveillait comme une clairière en fleurs.  
 Entre faux artefacts elfes, racines comestibles et talismans douteux, chacun chercha ce dont il avait besoin. Des herbes, des doutes, un refus de vendre, et finalement des kits pour dormir suspendus dans les arbres. Un nom revint : **Lafel**, guide de la Selve.
 
@@ -64,9 +70,13 @@ Orla surprit alors une petite créature tentant de lui voler le sceau.
 Un Chwinga. Espiègle, inoffensif.  
 Zooki lui offrit une lumière ailée. Les esprits, ravis, laissèrent en échange une petite mangue violette, puis disparurent dans le feuillage.
 
+![[RencontreChwingas.png]]
+
 Le soleil déclinait lorsqu’ils atteignirent enfin le temple.  
 La porte était forcée. Des griffures marquaient la pierre. Des symboles inconnus — kobolds, sans doute — souillaient les murs.
 
 Et devant l’entrée, attaché par une chaîne, se tenait un cerf mutilé, couvert de symboles peints, respirant lentement. Corrompu.
+
+![[Cerf_Temple.jpeg]]
 
 La Selve les observait. Comment allaient-ils pouvoir pénétrer dans le temple ?

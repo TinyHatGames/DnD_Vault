@@ -6,6 +6,8 @@ Mais ce n’était pas l’état du sanctuaire qui retenait le regard.
 
 Devant la porte se tenait un cerf. Ses bois s’élevaient haut au-dessus de sa tête, mais son corps portait les marques d’une violence récente. Des symboles grossiers avaient été peints sur son flanc, et un collier de métal avait été fixé autour de son cou à l’aide de pieux plantés dans sa chair. Une lourde chaîne reliait ensuite ce collier à la porte du temple, transformant l’animal en un gardien malgré lui.
 
+![[Cerf_Temple.jpeg]]
+
 Pendant un moment, les voyageurs restèrent immobiles à la lisière des arbres, observant la créature blessée.
 
 Ils tentèrent d’abord de contourner la clairière en longeant la forêt, espérant trouver un accès discret vers le temple. Pourtant, plus ils progressaient, plus la végétation devenait impénétrable. La Selve semblait avoir décidé que l’entrée du sanctuaire ne se ferait que par ce chemin.
@@ -64,6 +66,8 @@ Lorsque Nyxara traversa finalement la salle à son tour, une grande partie des l
 
 Au-delà du pont s’ouvrait la nef du temple. La salle était vaste et haute, semblable à une clairière creusée dans la roche. Des arches brisées montaient vers un plafond éventré d’où pendaient encore des racines épaisses. Des rayons de lumière filtraient à travers les fissures et venaient éclairer l’autel de marbre qui dominait le fond de la pièce.
 
+![[GnollAlpha.jpg]]
+
 Mais le sanctuaire n’était pas vide : un gnoll gigantesque, couvert d’une armure grossière, frappait l’autel avec sa hache dans un accès de frustration. À ses côtés, deux autres gnolls maintenaient un elfe tremblant dont les explications semblaient les irriter davantage à chaque mot.
 
 Le chef de la meute, Varkh, exigeait que l’elfe fasse fonctionner l’autel.
@@ -73,6 +77,8 @@ Celui-ci insistait qu’il manquait un élément essentiel : la marque du sermen
 Les voyageurs échangèrent un regard et chuchotèrent un plan rapide, puis Orla bondit.
 
 La halfling surgit au milieu des gnolls et frappa le sol d’une secousse magique qui renversa l’un d’eux et transforma la pierre autour d’elle en terrain instable. Josué la rejoignit aussitôt, son épée flamboyante traçant des arcs de feu dans l’air tandis qu’ils combattaient dos à dos. À distance, Zooki lançait ses dagues avec précision tout en faisant résonner les notes martiales de sa flûte. Nyxara, quant à elle, martelait leurs ennemis de violentes éruptions d’acide.
+
+![[Temple_Combat.png]]
 
 La bataille fut brève mais féroce. Lorsque la poussière retomba, les gnolls gisaient au sol et leur chef était capturé.
 
@@ -100,4 +106,4 @@ Le bassin miroitait doucement. À sa surface reposaient leurs offrandes, revenue
 
 La forêt, elle, restait silencieuse.
 
-Mais quelque part dans ses profondeurs, un nom venait d’être prononcé. Le Viridien.
+Mais quelque part dans ses profondeurs, un nom venait d’être prononcé. Le **Viridien**.
