@@ -29,9 +29,10 @@
 ### Ce qui se passe
 
 - À la sortie, le cerf les attend dans la clairière.
-- Il n’est plus corrompu, mais marqué par ce qu’il a subi.
-- Il se présente comme **Thaelor**, cerf sacré / gardien libre du sanctuaire.
-- Il remercie les PJ.
+- Il n’est plus corrompu, il est complètement guéri et une légère lueur bleuté semble en émaner.
+- Il se présente dans la tête de Nyxara comme **Thaelor**, cerf sacré de Rillifane Rallathil et gardien libre du sanctuaire.
+- Il remercie les PJ et dit à Nyxara que si un jour elle ou ses compagnons ont besoin de lui, il leur suffira de l'appeler (note de GM: seule Nyxara peut l'appeler, seulement dans la Selve ou dans la nature, et uniquement si c'est approprié, urgence ou protection de la nature, sinon il ne reviendra plus).
+- Il s'enfuit dans la forêt après un dernier remerciement.
 
 ### Ton
 
@@ -58,6 +59,7 @@ Il peut alors :
 - Guider
 - Avertir
 - Intervenir ponctuellement
+- Combattre...
 - Servir de monture / renfort dans un moment fort
 
 ---
@@ -85,10 +87,12 @@ Option recommandée :
 
 ### Ce qu’Aelwyn peut apporter
 
-- Il était forcé par les gnolls.
-- Il connaissait le temple de réputation.
+- Il était forcé par les gnolls. Il a été kidnappé pendant l'attaque, ils savaient que l'histoire de la religion était sa spécialité.
+- Il connaissait le temple de réputation mais ne s'y était pas rendu, il s'aventure rarement dans la selve, c'est plutôt un rat de bibliothèque.
+- C'est un **veilleur** de la garde de Koruha.
 - Il sait que certains sanctuaires répondaient à des marques de serment.
-- Le nom du Viridien l’inquiète.
+- Le nom du **Viridien** l’inquiète. Il n'en sait pas plus, mais peut en apprendre plus aux joueurs concernant l'Histoire de la selve, sa désertion par les elfes (ses ancêtres), etc.
+- Il souhaiterait en apprendre plus sur les ruines de la selve...
 
 ### Questions utiles à laisser émerger
 
@@ -106,11 +110,30 @@ Option recommandée :
 ### Info clé à faire passer
 
 - C’est risqué.
-- Lafel déconseille clairement.
+- Lafel déconseille clairement. Aewyn a peur.
 
 ### Danger unique
 
 **Nuée d’araignées sylvestres**
+
+### Intro
+
+"Cela fait déjà plusieurs heures que vous marchez dans la Selve.
+La nuit a tout avalé autour de vous. Les troncs ne sont plus que des colonnes noires, les branches, de grandes mains immobiles au-dessus de vos têtes. Le sentier, quand il existe encore, n’est plus qu’une intuition entre les racines.
+
+Vos jambes sont lourdes. Vos vêtements accrochent la végétation humide. Chaque bruit paraît trop proche, ou trop lointain. Même vos voix ont changé : on parle plus bas, sans vraiment s’en rendre compte.
+
+Puis quelque chose se met à changer.
+
+D’abord, c’est presque rien. Une sensation qui vous effleure le visage. Puis une autre, un fil fin tendu entre deux branches. Puis d'autres fils, gluants, collés à une manche, à une botte, à une arme.
+
+Lafel s’arrête net. Dans l’obscurité, vous l’entendez inspirer brusquement.
+
+Puis un bruit sec, léger, innombrable se fait entendre. Comme une pluie minuscule sur l’écorce. Comme des ongles sur du bois mouillé.
+
+En levant les yeux, vous apercevez le mouvement : des dizaines, puis des centaines de petites formes velues qui courent sur les troncs, glissent sous les branches, descendent déjà le long des lianes dans votre direction.
+
+Vous comprenez immédiatement une chose : si vous restez ici, les tisseuses de la forêt vont vous engloutir."
 
 ### Idée
 
@@ -132,13 +155,44 @@ Option recommandée :
 - Nature
 - Magie / idées créatives
 
+### Structure exacte de la poursuite
+
+Le groupe s’arrête dès qu’il a :
+
+- **3 rounds réussis** → fuite réussie
+    
+- **3 échecs** → elles les rattrapent / gros prix à payer
+    
+
+On peut aussi s'arrêter avant si cela semble logique.
+
+Chaque round suit le même schéma :
+
+### À chaque round
+
+1. **Tu décris la situation qui empire**
+    
+2. **Chaque joueur annonce une action**
+    
+3. **Tu demandes des tests appropriés**
+    
+4. **Tu comptes la réussite ou l’échec**: si on a au moins 2 réussites, ça passe
+    
+5. **Tu racontes la conséquence immédiate**
+    
+6. **Tu passes au round suivant tant que nécessaire**
+    
+
+Important :
+
+- Une bonne idée peut donner **avantage**
+- Une idée absurde ou répétée peut donner **désavantage** ou être refusée
+- Évite que tout le monde fasse toujours Survie ou Athlétisme sans justification
+- Thaelor peut les aider, s'ils l'appellent, il peut détourner une partie de la nuée ailleurs, et invalider un échec. Si c'est en dernière chance, on peut sortir un petit Deus ex machina où il les aide à s'évader, mais ils ont tout de même une pénalité.
+
 ### Conséquences d’échec
 
-- Petits dégâts
-- Ralentissement
-- Entrave de toile
-- Panique de **Lafel**
-- Perte de matériel légère
+- Ils sont pris au piège, ils s'endorment et sont mis dans des cocons. Ils se réveillent plus tard dans une charette tirée par des gardes de Koruha. Ils perdent chacun un objet.
 
 ### Résultat
 
@@ -163,7 +217,7 @@ Option recommandée :
 
 - Un groupe de **défricheurs** attaqué récemment.
 - Des blessés / survivants.
-- Des prêtres ou auxiliaires des Huit sont déjà là, en train d’aider.
+- Des prêtres des Huit sont déjà là, en train d’aider. Ils accompagnent un groupe de **sentinels** de la Garde Sylvestre.
 - "La nuit dernière, nous étions encerclés et tout semblait perdu, mais soudain, un frissonnement s'est fait ressentir et nos agresseurs ont pris la fuite".
 
 ### Fonction de la scène
@@ -316,3 +370,209 @@ Il console un enfant qui semble avoir été fait orphelin par la dernière attaq
 - reconnaissance officielle,
 - protection politique liée à Mira,
 - libre à eux de les porter ou non.
+
+# Dîner chez Am’Hok Dun
+
+## Mise en place
+
+- Invitation cordiale d’Am’Hok pour le lendemain.
+    
+- Refuser serait mal vu politiquement.
+    
+- Mira demande officieusement :
+    
+    - observer Am’Hok,
+        
+    - identifier ses intentions,
+        
+    - voir qui gravite autour de lui,
+        
+    - comprendre ce qu’il sait déjà,
+        
+    - découvrir ce qu’il veut prendre ou contrôler.
+        
+- Mission secrète :
+    
+    - ne rien dire aux gardes,
+        
+    - ne pas éveiller les soupçons,
+        
+    - le culte des Huit est trop respecté pour être surveillé ouvertement.
+        
+
+## Objectif du dîner
+
+- Faire avancer la tension politique.
+    
+- Donner des hooks perso.
+    
+- Faire émerger une prochaine piste choisie par le groupe.
+    
+- Montrer qu’Am’Hok n’est pas là pour aider, mais pour asseoir l’autorité des Huit.
+    
+
+---
+
+# Ce qu’il faut observer
+
+- Qui est invité.
+    
+- Qui écoute Am’Hok avec respect ou crainte.
+    
+- Quels objets religieux ou précieux sont présents.
+    
+- S’il cherche à recruter, séduire, intimider ou récupérer.
+    
+- Ce qu’il dit de Mira, de Koruha, de la Selve, des anciens sanctuaires.
+    
+- Ce qu’il laisse entendre sur le pouvoir, l’ordre, la foi.
+    
+
+---
+
+# Hook Orla
+
+- Am’Hok sent quelque chose de minéral, froid, enfoui en elle.
+    
+- Phrase possible :
+    
+    - “Sous cette chaleur, il y a en vous la froideur de la pierre.”
+        
+    - “La terre vous a laissée revenir… mais pas seule.”
+        
+- Pistes possibles :
+    
+    - rites liés à la pierre,
+        
+    - corps que la terre ne rend pas,
+        
+    - lieu ancien / chambre souterraine / tombe / anomalie minérale.
+        
+
+# Hook Josué
+
+- Présence d’une statuette d’obsidienne dans la pièce.
+    
+- Am’Hok sent chez lui une dévotion anormale.
+    
+- Phrase possible :
+    
+    - “On sent parfois la foi. Chez vous, elle a déjà pris racine.”
+        
+    - “Vous avez la ferveur de ceux qui se sont déjà donnés.”
+        
+- Am’Hok propose de rejoindre le Culte des Huit.
+    
+- Pistes possibles :
+    
+    - trafic ou saisie d’objets d’obsidienne,
+        
+    - culte souterrain,
+        
+    - piste duergar,
+        
+    - matriarche religieuse.
+        
+
+# Hook Zooki
+
+- Présence d’un marchand riche / notable.
+    
+- Marchand mondain, poli, bien informé, potentiellement lié à des réseaux louches.
+    
+- Réagit à son faux pedigree ou à son aisance sociale.
+    
+- Pistes possibles :
+    
+    - réseau criminel,
+        
+    - contrebande,
+        
+    - circuit d’argent,
+        
+    - lien avec Thalarym,
+        
+    - opportunité d’infiltration ou de manipulation.
+        
+
+# Hook Nyxara
+
+- Allusions à des routes souterraines, disparitions, Duergars, esclavage.
+    
+- Am’Hok sent une marque laissée par ce qu’elle a traversé.
+    
+- Phrase possible :
+    
+    - “Vous avez survécu à quelque chose qui vous a laissée ouverte.”
+        
+    - “Certains reviennent des profondeurs avec plus que leurs cicatrices.”
+        
+- Pistes possibles :
+    
+    - activité duergar,
+        
+    - traces d’esclavage,
+        
+    - piste familiale,
+        
+    - convergence avec l’obsidienne.
+        
+
+---
+
+# Vérité sur Am’Hok
+
+- Pas là pour aider sincèrement Koruha.
+    
+- Là pour :
+    
+    - rappeler qui commande,
+        
+    - étendre l’influence des Huit,
+        
+    - encadrer le récit de la crise,
+        
+    - surveiller Mira,
+        
+    - récupérer personnes, objets et symboles utiles.
+        
+- Intention de fond :
+    
+    - faire comprendre que toute autorité légitime passe par les Huit.
+        
+
+---
+
+# Pistes de sortie du dîner
+
+## Marchand
+
+- mène vers trafic / réseau criminel / argent / Thalarym
+    
+
+## Statuette d’obsidienne
+
+- mène vers Duergars / culte souterrain / matriarche / objets interdits
+    
+
+## Pierre / profondeurs
+
+- mène vers lieu ancien / tombe / anomalie minérale / piste Orla
+    
+
+## Disparitions / Duergars
+
+- mène vers esclavage / galeries / piste Nyxara / convergence avec Josué
+    
+
+---
+
+# Direction de suite
+
+- Espionnage pour Mira pendant le dîner.
+    
+- Révélation des vraies intentions d’Am’Hok.
+    
+- Choix d’une piste par les PJ selon leurs intérêts personnels.
+    
+- Prochaine mission issue de la piste choisie, pas seulement d’un ordre de Mira.

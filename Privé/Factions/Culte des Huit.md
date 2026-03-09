@@ -16,6 +16,8 @@ Le physique est très important pour le culte, et la plupart des membres du cler
 
 Les grands préceptes de la religion sont un respect profond pour les Huit et leur "père" [[Kavaki]], le dépassement de soi-même, et une culture intense de la compétition.
 
+Les lieux de cultes sont d'immenses monolithes de pierre en forme d’obélisque. 
+
 Expressions courantes de fidèles et membres du clergé :
 
 "Loués soient les [[Huit]]"
