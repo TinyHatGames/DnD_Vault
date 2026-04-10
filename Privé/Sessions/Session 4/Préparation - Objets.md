@@ -48,5 +48,3 @@ Cette dague est plus sombre que l’acier ordinaire ; de fines veines vert profo
 Une fois par repos long, quand vous touchez une créature avec cette dague, vous pouvez choisir de ne pas infliger de dégâts, mais d’imposer à la cible un **trouble sylvestre** jusqu’au début de votre prochain tour. La cible est recouverte de sève et ne peut alors pas effectuer de réaction.
 
 Utilisée sur une surface et non une créature, crée une zone en forme de cercle de 1ft / 30cm collante. 
-
-En dehors du combat, la dague peut aussi servir à couper proprement lianes, racines, ronces ou plantes non magiques sans les abîmer inutilement.
