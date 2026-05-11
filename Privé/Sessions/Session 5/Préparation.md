@@ -127,10 +127,10 @@ Rien ne peut se faire avec un seul outil.
 	- Mais on ne sait pas forcément pourquoi, ils disent juste que c'est pour leurs fidèles, apporter la parole des Huits et leur aide à Koruha, qui en a bien besoin
 	- En vérité, les monolithes ne sont pas que des lieux de culte, mais des instruments de pouvoir...
 - [[Rethis Vael]] voit l'arrivée des prêtres comme une opportunité commerciale, il fait le nécessaire pour leur vendre des matériaux etc. Ils sont riches.
-- [[Torvik “Tori” Brûn]] est l'appat, il joue à l'idiot, comme si Mira avait envoyé un espion super nul
-- [[Public/Personnages/Maro|Maro]] reste surtout silencieux et écoute
-- [[Doran Pell]] est assez silencieux mais semble mépriser les prêtres, il respecte [[Elyra Thane]] énormément et lui parle à voix basse
-- [[Kael - Aubergiste de la Canopée]] est jovial et poli, il aime bien les héros, il les intègre, présente les convives
+- [[Torvik “Tori” Brûn]] est l'appât, il joue à l'idiot, comme si Mira avait envoyé un espion super nul. Il aide les héros au maximum en cas de problème.
+- [[Public/Personnages/Maro|Maro]], dans son déguisement, reste surtout silencieux et écoute.
+- [[Doran Pell]] est assez silencieux mais semble mépriser les prêtres, il respecte [[Elyra Thane]] énormément et lui parle à voix basse.
+- [[Kael - Aubergiste de la Canopée]] est jovial et poli, il aime bien les héros, il les intègre, présente les convives.
 - [[Am'Hok Dun]] est mystérieux, mais veut manipuler les héros, il veut des infos sur le temple, clairement, et ne s'en cache pas, mais il cherche aussi à les cerner, voir leurs objectifs persos, les diviser peut être, il peut essayer d'exploiter la ferveur de **Josué**.
 	- Il peut aussi donner des infos à Josué et Nyxara notamment, sur leurs secrets. Les statuettes de **Josué** réagissent.
 

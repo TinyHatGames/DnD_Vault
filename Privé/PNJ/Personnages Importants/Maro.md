@@ -4,6 +4,8 @@ Agent de [[Privé/Lieux/Villes/Koruha]] du [[Pacte des Initiés]]. En charge de 
 
 Maro est un halfling d'un âge avancé avec les cheveux longs et une grande barbe blanche. Il porte une longue robe en laine (soutane) attachée par une corde simple qui cache un physique très impressionnant (possibilité de le voir avec un bon jet de perception).
 
+Il est touché par la Lune. C'est un secret difficile à percer.
+
 
 ```statblock
 layout: Basic 5e Layout
