@@ -30,7 +30,7 @@ Am'Hok les accueille en personne :
 
 > “Vous voilà donc. Koruha parle beaucoup de votre retour.”
 
-> “Asseyez-vous. Ce soir, vous n’êtes ni prisonniers, ni soldats. Vous êtes des invités.”
+> “Asseyez-vous. Ce soir, vous n’êtes ni prisonniers, ni soldats. Vous êtes mes invités.”
 
 ## 3. Table d’honneur
 

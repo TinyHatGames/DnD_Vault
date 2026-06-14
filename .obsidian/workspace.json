@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -160,28 +160,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "1658789867c5d8a6",
   "lastOpenFiles": [
+    "Privé/Sessions/Session 6/Notes.md",
+    "Privé/Sessions/Session 6/Préparation.md",
+    "Privé/Héros/Zooki.md",
+    "Privé/PNJ/Personnages Importants/Rethis Vael.md",
+    "Privé/Factions/Guildes/Ordre de Tsaln.md",
+    "Privé/Factions/Culte des Huit.md",
+    "Privé/Factions/Huit.md",
+    "Pasted image 20260511201155.png",
+    "Privé/Sessions/Session 5/Préparation.md",
+    "Privé/Sessions/Session 5/Le Diner - Scènes.md",
     "Public/Images/Sessions/5/Ox.jpg",
     "Public/Images/Sessions/5/Generated Image April 13, 2026 - 5_34PM.jpg",
-    "Privé/Sessions/Session 5/Préparation.md",
-    "Privé/Sessions/Session 6/Préparation.md",
-    "Privé/Sessions/Session 6/Notes.md",
-    "Privé/Factions/Guildes/Ordre de Tsaln.md",
     "Privé/Factions/Les Treize.md",
     "Privé/Images/13.png",
-    "Privé/Héros/Zooki.md",
     "Privé/Lieux/Villes/Ormeval.md",
     "Privé/Lieux/Villes/Dratholm.md",
     "Viridien.md",
@@ -198,9 +203,6 @@
     "Josué.md",
     "Privé/Prep/Idées.md",
     "Privé/Prep/Le Jeu des Vérités.md",
-    "Privé/Factions/Guildes/Garde Sylvestre de Koruha.md",
-    "Privé/Factions/Guildes/Confrérie des Cîmes.md",
-    "Privé/Concepts/Prima.md",
     "Privé/Sessions/Session 6",
     "Public/Images/Sessions/4/Blesses_Selve.png",
     "Public/Images/Mira Vanis.png",
@@ -208,8 +210,6 @@
     "Public/Images/Torvik_Brun.jpg",
     "Public/Images/Sessions/5/Torvik_Brun.png",
     "Public/Images/Sessions/5/Rethis_Vael.png",
-    "Public/Images/Sessions/5/Kael.png",
-    "Public/Images/Sessions/5/Elyra_Thane.png",
     "Public/Images/Sessions/5",
     "Public/Images/Sessions/4",
     "Privé/Sessions/Session 5",
