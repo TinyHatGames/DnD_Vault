@@ -12,8 +12,8 @@ layout: Basic 5e Layout
 image: "[[Maro_Lushan.jpg]]"
 name: Mariel "Maro" Lushan
 size: Medium
-type: humanoïde
-subtype: humain
+type: humanoide
+subtype: halfling
 alignment: neutre bon
 ac: 15
 hp: 45
