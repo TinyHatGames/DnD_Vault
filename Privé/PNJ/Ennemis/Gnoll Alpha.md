@@ -1,4 +1,4 @@
-![[GnollAlpha.jpg]]
+![[Varkh.jpg]]
 
 ```statblock
 layout: Basic 5e Layout
