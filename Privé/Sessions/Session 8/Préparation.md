@@ -36,6 +36,50 @@
 
 ---
 
+## Avant le départ
+
+- Les héros récupèrent le contrat préparé par Am’Hok et confirment officiellement leur participation à l’expédition.
+- Ils retrouvent **Am’Serek Tal**, chargé de diriger la délégation, ainsi que Tori, Ox, les prêtres, les Veilleurs et les Défricheurs qui les accompagneront.
+- **Rétis Vael** tient sa promesse et les autorise à choisir chacun un équipement raisonnable pour le voyage :
+    - **Nyxara** : une cape de pisteur imperméable, légère et sombre, qui se confond facilement avec la végétation.
+    - **Zooki** : une lanterne sylvestre étanche, alimentée par de petits insectes lumineux et dont l’éclat peut être masqué instantanément.
+    - **Josué** : un solide nécessaire d’escalade comprenant harnais, pitons, marteau et cinquante pieds de corde.
+    - **Orla** : une sacoche d’herboriste de terrain contenant pansements, baumes, outils de récolte et deux doses d’antidote courant.
+- Le reste du convoi reçoit des rations, des outres, du matériel de bivouac, plusieurs cordes, des outils de défrichage et quelques caisses destinées à rapporter le Khar.
+- Ox examine une dernière fois la carte d’Am’Hok, marquée de plusieurs points d’interrogation au cœur de la Selve.
+- Tori rappelle discrètement aux héros qu’il est là pour observer l’expédition autant que pour la protéger.
+- Avant le départ, les prêtres accomplissent une courte bénédiction, tandis que les Défricheurs vérifient les chargements et que les animaux de bât sont harnachés.
+
+## Contrat d’expédition
+
+Le contrat est relativement standard et volontairement vague sur la destination exacte.
+
+- **Objet de la mission** : accompagner une délégation conduite par **Am’Serek Tal** dans la Selve Sélène, assurer sa protection et l’assister dans une mission diplomatique et commerciale.
+- **Destination** : un village forestier dont l’emplacement précis reste confidentiel. Le document ne mentionne ni le Khar ni le nom provisoire de **Sève-loin**.
+- **Durée prévue** : environ une semaine, avec possibilité de prolongation selon les conditions de voyage.
+- **Autorité sur place** : Am’Serek dirige officiellement l’expédition. **Ox** est reconnu comme guide, tandis que **Tori** représente la Garde Sylvestre.
+- **Obligations des héros** :
+    - contribuer à la protection du convoi ;
+    - suivre les consignes d’Am’Serek lorsqu’elles concernent la sécurité de l’expédition ;
+    - ne pas divulguer la destination ni l’objectif réel de la mission ;
+    - ne pas provoquer volontairement les habitants rencontrés.
+- **Équipement** : Rétis Vael fournit les rations et le matériel courant, ainsi qu’un objet raisonnable par héros. Tout équipement prêté doit être rendu s’il survit au voyage.
+- **Récompenses** : les engagements personnels négociés avec Am’Hok sont annexés séparément au contrat :
+    - recommandation d’Orla auprès de la Confrérie des Cimes ;
+    - assistance accordée à Josué pour accéder aux cavernes du Mont Urzal ;
+    - aide promise à Nyxara concernant ses recherches autour d’Hyptis ;
+    - une faveur future due à Zooki.
+- **Biens découverts** : les objets strictement liés à la mission ou appartenant au village doivent être remis à la délégation. Les trouvailles sans propriétaire identifiable pourront être réparties après le retour.
+- **Risques** : le contrat précise que la Selve constitue un environnement extrêmement dangereux et que ni le Culte des Huit ni Rétis Vael ne garantissent la survie des participants.
+- **Rupture du contrat** : abandonner volontairement la délégation sans motif grave annule les récompenses promises.
+- **Décès** : les effets personnels et la part de rémunération déjà acquise doivent être remis aux héritiers ou à la personne désignée par le participant.
+
+Am’Hok a signé au nom du Culte des Huit, Rétis Vael comme commanditaire matériel, et Am’Serek comme responsable de l’expédition. Chaque héros reçoit une copie portant leurs quatre noms et un sceau de cire sombre frappé des cornes des Huit.
+
+## Le départ de Koruha
+
+Le convoi quitte Koruha au rythme lent et solennel des tambours des Huit. Devant lui avancent les prêtres, couronnes de bois dressées au-dessus de la foule, suivis des Défricheurs, des Veilleurs, des bêtes chargées de matériel et des quatre héros. Leur passage attire immédiatement les regards. Les habitants se pressent le long du chemin, curieux de voir ceux dont les exploits circulent désormais dans les tavernes accompagner une délégation religieuse aussi importante. Certains les saluent ou les encouragent ; d’autres observent les bannières et les armes des prêtres avec une méfiance silencieuse. Personne ne semble réellement savoir où l’expédition se rend ni ce qu’elle espère ramener. Les rumeurs se contredisent déjà : nouvelle attaque contre les gnolls, pèlerinage, exploration de ruines, mission secrète des Huit. Peu à peu, les constructions mobiles de Koruha disparaissent derrière les arbres. Les tambours continuent quelque temps de résonner sous la canopée, jusqu’à ce que la Selve les absorbe entièrement.
+
 # Expédition vers le village de Khar — Structure de séance
 
 ## 1. La fleur carnivore
