@@ -2,6 +2,8 @@
 
 Les dernières notes de la **[[Complainte du Goupil]]** s’éteignirent dans la tente d’[[Am'Hok Dun|Am’Hok]], laissant derrière elles un silence que personne ne semblait pressé de rompre.
 
+![[Complainte_du_Goupil_Paroles.png|500]]
+
 Autour de la longue table, les convives se dévisageaient, interdits. La chanson n’avait rien du divertissement léger que l’on aurait pu attendre au milieu d’un dîner diplomatique. Une histoire de cendres, de vengeance et de fuite, interprétée avec une intensité qui avait suspendu jusqu’au bruit des couverts. [[Torvik “Tori” Brûn|Tori]] fut le premier à se lever. Il applaudit bruyamment, presque seul dans un premier temps, bientôt rejoint par les héros et quelques invités encore hésitants. [[Lola]], [[Rob]] et [[Bjorg]] saluèrent rapidement avant de disparaître par l’arrière de la tente.
 
 Am’Hok Dun ne semblait pas véritablement troublé. Une légère surprise avait traversé son visage, rien de plus.
@@ -118,11 +120,15 @@ Ils se précipitèrent entre les abris et découvrirent Lola prisonnière d’un
 
 Rob et Bjorg gisaient non loin, déjà morts.
 
+![[Lola_Ecorcheur.png]]
+
 L’homme voulait savoir d’où venait la chanson.
 
 Zooki usa de sa magie pour rendre courage à Lola. La chanteuse profita d’un instant d’inattention pour se dégager, et l’affrontement éclata.
 
 [[Moule]] fondit sur l’un des couteaux et l’emporta dans ses serres. Orla projeta l’agresseur en arrière d’une onde de tonnerre. Josué se jeta sur lui avec l’une de ses idoles, frappant avec toute la force de sa foi, mais reçut en retour un violent coup de lame. Nyxara usa de sa magie pour se protéger tandis qu’Orla martelait l’assassin de son bâton enchanté.
+
+![[Combat_Ecorcheur.png]]
 
 Très affaibli, l’homme finit par céder devant Zooki.
 

@@ -1,6 +1,6 @@
 # Naeth
 
-![[Naeth.jpg]]
+![[Naeth_Carte.jpg]]
 
 Île en forme d’ellipse où se déroule la campagne. Selon la tradition, [[Kavaki]] la fit jaillir de la mer pour offrir un nouveau défi aux goliaths.
 

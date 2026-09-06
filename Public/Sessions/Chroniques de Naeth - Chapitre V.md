@@ -26,6 +26,12 @@ Au matin, après une nuit sans incident et un petit-déjeuner offert par la mais
 
 **Zooki**, enfin, retourna à la caserne. **Mira** lui donna les noms de plusieurs invités probables : **[[Torvik “Tori” Brûn|Tori]]**, son bras droit demi-géant, qui la représenterait officiellement ; **[[Kael]]**, l’aubergiste de la Canopée ; **[[Rethis Vael]]**, patron de la guilde des marchands ; et sans doute **[[Elyra Thane]]**, cheffe des [[Veilleurs]]. Elle lui rappela que le dîner serait feutré, politique, religieux, et qu’il valait mieux y mesurer chaque geste. Puis Zooki demanda à voir **Varkh**. Dans les geôles, le gnoll blessé cracha quelques mots lourds de sens : les Huit avaient corrompu la pluie, et le **[[Le Viridien|Viridien]]** voulait sauver la forêt. Mira ne put confirmer la vérité de ces paroles, mais elles donnaient un nom et une direction aux soupçons qui rôdaient déjà.
 
+![[Doran_Pell.png|420]] ![[Elyra_Thane.png|420]]
+
+![[Kael.png|420]] ![[Ox.jpg|420]]
+
+![[Rethis_Vael.png|420]] ![[Torvik_Brun.png|420]]
+
 À midi, les héros se retrouvèrent à l’Auberge de la Canopée pour mettre leurs découvertes en commun. Le monolithe de bois, les infusions incomplètes, la tente d’Am’Hok, la présence annoncée de Tori, Kael, Rethis et Elyra, les paroles de Varkh sur la pluie corrompue : chaque indice ouvrait une nouvelle porte sans jamais refermer les précédentes. Ils parlèrent aussi avec **Kael**, qui confirma que les prêtres étaient pour l’instant bien vus par la population. Ils soignaient, reconstruisaient, aidaient ; et même si leurs intentions pouvaient être politiques, leurs actes soulageaient réellement Koruha. Mais lui aussi trouvait étrange qu’un sanctuaire fixe s’élève dans une ville mobile. Si les Huit bâtissaient ici un monolithe, quelqu’un devrait rester pour le garder.
 
 Le dîner approchait. Les héros avaient désormais des pistes : fouiller la tente d’Am’Hok, approcher les cuisines, jouer avec les infusions, consulter Elyra, s’appuyer sur Tori ou sur Kael. La veille encore, ils affrontaient les crocs et les lances dans un temple oublié. À présent, ils s’apprêtaient à entrer dans une autre forme de combat, menée à voix basse, entre les sourires, les silences et les vérités que chacun choisirait de dissimuler.

@@ -47,6 +47,8 @@ Et la Selve, si paisible quelques minutes plus tôt, se déchira sous l’assaut
 
 Koruha brûlait. On voyait les lueurs rouges des torches et des flammes, les silhouettes fuyantes, les cris. Une horde de [[Gnolls]] déferlait sur la lisière du bois.
 
+![[Koruha_Combat.jpeg]]
+
 Deux d’entre eux surgirent d’entre les ombres, menaçants et affamés.  
 L’un avait la gueule d’une hyène, l’autre les traits félins et nerveux d’un lynx affamé.
 

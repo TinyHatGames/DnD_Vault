@@ -16,6 +16,8 @@ La première journée se déroula sans incident. Ox avançait avec assurance et 
 
 Au matin, l’air était devenu lourd et étouffant. Une lumière rougeâtre traversait une immense membrane blanchâtre au-dessus d’eux et le sol humide s’inclinait légèrement vers le centre. Ils comprirent bientôt qu’ils n’avaient jamais dormi dans une véritable clairière : toute l’expédition se trouvait au cœur d’une [[Fleur carnivore colossale|fleur carnivore gigantesque]] dont les pétales s’étaient refermés pendant la nuit. Tori, un prêtre et un Défricheur étaient déjà prisonniers d’immenses pistils collants, tandis qu’une sève bouillonnante commençait à apparaître sous eux.
 
+![[Fleur.png]]
+
 Guillard remarqua le premier que leur meilleure chance de fuite se trouvait au sommet, là où les pétales se rejoignaient. Nyxara tenta de libérer Tori pendant que les prêtres venaient en aide aux autres captifs. Josué attacha une corde à sa javeline bénie par [[Rillifane Rallathil|Rillifane]] et chercha à la planter en hauteur. Après un premier échec, son second lancer atteignit parfaitement la jonction des pétales et permit aux premiers voyageurs de grimper vers l’extérieur. Orla utilisa Druidisme pour tenter de forcer la fleur à éclore ; l’effet resta faible mais confirma qu’il était possible de l’influencer. Lorsque la plante commença à se refermer davantage, Nyxara brûla une partie de la paroi tandis que Josué mobilisait les prêtres déjà sortis. Ceux-ci saisirent les pétales et les forcèrent à s’ouvrir jusqu’à ce que l’ensemble du convoi puisse s’échapper.
 
 L’incident révéla cependant les premières tensions de l’expédition. Les prêtres avaient réagi de manière très inégale et Am’Serek Tal n’avait pas réellement réussi à imposer son autorité pendant la crise. Ox, lui, se réveilla lorsque le danger était pratiquement passé et reprit tranquillement la marche comme si rien d’important ne venait de se produire.
@@ -30,9 +32,13 @@ Peu après, un craquement gigantesque traversa la forêt et le sol s’effondra 
 
 Les trois voyageurs chutèrent dans l’eau froide d’une cavité souterraine. C’est alors qu’ils découvrirent que le masque d’Ox s’était brisé pendant la chute. Sous le déguisement apparut le vieux halfling à la longue barbe blanche qu’ils avaient déjà rencontré dans les geôles de Koruha. Ox n’avait jamais existé : leur guide était [[Maro]].
 
+![[Ox_Maro.png]]
+
 Mis devant le fait accompli, il leur expliqua que le [[Pacte des Initiés]] avait décidé de s’impliquer directement dans l’expédition. Les ambitions des Huit risquaient de bouleverser suffisamment l’équilibre politique de [[Naeth]] pour que le Pacte ne puisse plus se contenter d’observer. Maro avait donc inventé l’identité d’un dissident de Tsaln afin de se placer au cœur de l’opération. Sa seconde confession se révéla plus inquiétante encore : il ne connaissait pas réellement l’emplacement de Sève-loin. Il avait recueilli quelques rumeurs auprès de Veilleurs puis utilisé les informations déjà détenues par les prêtres pour confirmer leurs propres suppositions. Chacun avait ainsi cru qu’Ox connaissait la route parce que ses renseignements correspondaient aux siens, alors que Maro ne possédait en réalité qu’une direction générale.
 
 La seule sortie de la caverne était occupée par un gigantesque crapaud couvert de mousse et de dépôts calcaires, surmonté d’un énorme champignon et si parfaitement intégré à une porte de pierre qu’il aurait pu passer pour une statue. Ses narines étaient presque entièrement obstruées. Nyxara y projeta de l’acide, dissolvant suffisamment de calcaire pour réveiller la créature. Toute la grotte trembla lorsque [[Buffo]] ouvrit enfin les yeux.
+
+![[Buffo.png]]
 
 Le gardien refusa d’abord de les laisser passer et exigea une preuve de leurs bonnes intentions. Nyxara et Zooki évoquèrent leur rencontre avec Rillifane, le temple restauré et [[Thaelor]], le cerf qu’ils avaient sauvé de la corruption. Buffo reconnut la marque de la divinité sur leurs armes et finit par leur ouvrir le passage. Nyxara, Zooki et Guillard traversèrent littéralement son corps pour rejoindre l’autre côté. Maro décida cependant de rester derrière eux. Il connaissait manifestement Buffo et souhaitait lui parler en privé. Malgré les protestations des héros, il leur promit qu’il les retrouverait plus tard.
 
