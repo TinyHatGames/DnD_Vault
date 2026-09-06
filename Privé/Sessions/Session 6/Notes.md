@@ -1,13 +1,13 @@
-Josué fait un petit symbole avec des os dans son assiette
+[[Josué]] fait un petit symbole avec des os dans son assiette
 	Il écoute ses os et médite dessus
 
-**Moule** le corbeau est parti à la recherche de Am'Hok et ne l'a pas encore trouvé.
+**[[Moule]]** le corbeau est parti à la recherche de [[Am'Hok Dun|Am'Hok]] et ne l'a pas encore trouvé.
 
-![[Pasted image 20260511201155.png]]
+<!-- Image d’origine absente du vault : Pasted image 20260511201155.png -->
 
-Les héros parlent de ce qui pourrait se tramer sous terre à Koruha.
+Les héros parlent de ce qui pourrait se tramer sous terre à [[Koruha]].
 
-Josué demande comment ils s'habillent ? Orla veut prêter des coliers, Nyxara ne veut pas dépenser, Zooki veut laisser parler son charisme.
+Josué demande comment ils s'habillent ? [[Orla]] veut prêter des coliers, [[Nyxara]] ne veut pas dépenser, [[Zooki]] veut laisser parler son charisme.
 
 ## Plans pour l'après-midi :
 
@@ -16,7 +16,7 @@ Josué demande comment ils s'habillent ? Orla veut prêter des coliers, Nyxara n
 - Josué : Veut explorer leur lieu de culte, il le prend mal, mais se sacrifie, essayer de voir s'ils ont prévu une
 - Zooki : Veut venir avec Josué. 
 
-Ils décident de se retrouver à la caserne en début de soirée avant l'heure de rendez-vous pour le debrief avec Mira Vanis.
+Ils décident de se retrouver à la caserne en début de soirée avant l'heure de rendez-vous pour le debrief avec [[Mira Vanis]].
 
 ## Orla et Nyxara
 
@@ -74,7 +74,7 @@ Il fait un 20
 
 Il pose son épée, il fait une petite tape ferme, mais souple, tout explose, et le coffre s'ouvre comme un oeuf en deux. 
 
-Il trouve un pochon en tissu, avec du Khar.
+Il trouve un pochon en tissu, avec du [[Khar]].
 
 Il goute. Jet de Constitution : 11, il passe tout juste.
 
@@ -88,9 +88,9 @@ Ils confient le Khar à Orla.
 
 Josué va voir un ouvrier qui bosse sur le sol au premier étage.
 
-Ils posent des questions. Sur la construction, sur l'objectif du monolithe. 
+Ils posent des questions. Sur la construction, sur l'objectif du [[Monolithe de Koruha|monolithe]]. 
 
-Zarik il s'appelle. Il leur dit qu'ils peuvent rentrer.
+[[Zarik]] il s'appelle. Il leur dit qu'ils peuvent rentrer.
 
 Josué et Zooki décident de rentrer, ils voient des gens prier autour du brasero.
 
@@ -98,7 +98,7 @@ Ils voient un mec qui se relève après avoir prié
 
 Zooki lui addresse la parole, c'est un vieux deffricheur avec une tonsure, marqué par la vie, en tenue de pauvre.
 
-Dolé, répond, mais il est complètement con.
+[[Dole|Dolé]], répond, mais il est complètement con.
 
 Zooki et Josué décident de monter les escaliers, ils parlent à un mec en haut des escaliers au 3e étage, qui leur dit qu'ils peuvent faire l'ascension à partir du moment où la tour est finie dans 5 jours et demi.
 
@@ -114,7 +114,7 @@ Moule se rapproche, et ne trouve pas la clé sur Am'Hok.
 
 ---
 
-Orla se met à côté de Kael et Zooki se met à côté de Tori.
+Orla se met à côté de [[Kael]] et Zooki se met à côté de [[Torvik “Tori” Brûn|Tori]].
 
 Tori et Zooki échangent quelques mots aimables.
 
@@ -124,7 +124,6 @@ Les autres en mangent sauf Nyx.
 
 Am'hok cuisine les invités, mais ils ne cèdent rien. Tori les sauve grossièrement.
 
-Lola et sa bande de musiciens finissent par arriver et donnent leur version de la "Complainte du Goupil".
-
+[[Lola]] et sa bande de musiciens finissent par arriver et donnent leur version de la "[[Complainte du Goupil]]".
 
 

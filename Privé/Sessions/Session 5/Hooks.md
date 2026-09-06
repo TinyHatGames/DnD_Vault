@@ -17,7 +17,7 @@ Une carte de la région… mais pas militaire.
 > _“Réveillés / Endormis / Irrécupérables”_
 
 💥 Twist :  
-Am’Hok **cartographie les sanctuaires naturels**, pas les villes.
+[[Am'Hok Dun|Am’Hok]] **cartographie les sanctuaires naturels**, pas les villes.
 
 ---
 
@@ -25,7 +25,7 @@ Am’Hok **cartographie les sanctuaires naturels**, pas les villes.
 
 Un petit coffret scellé contenant :
 
-- des feuilles de Khar **noires veinées d’argent**
+- des feuilles de [[Khar]] **noires veinées d’argent**
 - beaucoup plus instables
 
 👉 Si observé :
@@ -45,7 +45,7 @@ Une petite sculpture grossière :
 
 - forme humanoïde
 - **sans visage**
-- faite de bois de la Selve
+- faite de bois de [[Selve Sélène|la Selve]]
 
 👉 gravé :
 
@@ -63,7 +63,7 @@ Une petite sculpture grossière :
 
 Quelques noms… dont :
 
-👉 **Mira Vanis**
+👉 **[[Mira Vanis]]**
 
 Pas barrée. Pas cochée.
 
@@ -111,7 +111,7 @@ Moment discret :
 
 ## 💥 Ce qu’il sait
 
-- Le Khar vient de **l’Ordre de Tsaln**
+- Le Khar vient de **l’[[Ordre de Tsaln]]**
 - Mais :  
     👉 Am’Hok **l’utilise différemment**  
     👉 et surtout : **trop**
@@ -265,5 +265,5 @@ Tu obtiens :
 Choisis :
 
 - Fouille → info
-- Maro → intrigue
+- [[Maro]] → intrigue
 - Événement → climax

@@ -1,3 +1,5 @@
-Les [[Frères de Basalte]] sont une secte Duergar issue des profondeurs du Mont Ulzan. Exclusivement constituée de membres masculins, ils s'opposent à la fois à la société matriarcale traditionnelle des leurs dans la région et à la domination des [[Huit]].
+# Frères de Basalte
 
-Ils vivent dans des tunnels cachés sous la montagne et mène une guerilla contre les [[Huit]] et tentent de rallier les autres Duergars à leur cause.
+Secte duergar exclusivement masculine issue des profondeurs du [[Mont Urzal]]. Elle s’oppose à la société matriarcale des [[Clans Noirs]] comme à la domination des [[Huit]].
+
+Ses membres vivent dans des tunnels cachés, mènent une guérilla contre le pouvoir du sommet et cherchent à rallier les autres duergars.

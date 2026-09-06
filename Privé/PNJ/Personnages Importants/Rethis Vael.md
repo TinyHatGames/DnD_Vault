@@ -31,3 +31,9 @@ Pour lui, tout est une transaction.
 - cherchera à “acheter” les joueurs
 - s’adapte à leur discours
 - n’a aucune loyauté réelle
+
+## Rôle dans la campagne
+
+Chef de la guilde des marchands de [[Koruha]]. Invité au dîner d’[[Am'Hok Dun|Am’Hok Dun]], il finance une partie du matériel de l’expédition vers [[Sève-loin]] et a promis un équipement raisonnable à chaque héros.
+
+Il voit dans l’accès au [[Khar]] une transaction et une occasion de contourner l’[[Ordre de Tsaln]].

@@ -1,16 +1,16 @@
 ## Précédemment, dans **Chantier Louche et Amuse-Bouche**…
 
-_Après avoir partagé leurs découvertes à l’Auberge de la Canopée,_ **_Nyxara_**_,_ **_Zooki_**_,_ **_Josué_** _et_ **_Orla_** _décidèrent de consacrer leur dernier après-midi avant le dîner d’_**_Am’Hok Dun_** _à une enquête plus approfondie. Intrigués par le monolithe en construction et les préparatifs du dîner, c'était pourtant la présence du Culte des Huit à Koruha elle-même qui les questionnait le plus. Les paroles de_ **_Varkh_** _sur la pluie corrompue et le **Viridien** pointaient quand à elles plus profondément dans la Selve...
+_Après avoir partagé leurs découvertes à l’[[Auberge de la Canopée]],_ **_[[Nyxara]]_**_,_ **_[[Zooki]]_**_,_ **_[[Josué]]_** _et_ **_[[Orla]]_** _décidèrent de consacrer leur dernier après-midi avant le dîner d’_**_[[Am'Hok Dun|Am’Hok Dun]]_** _à une enquête plus approfondie. Intrigués par le [[Monolithe de Koruha|monolithe]] en construction et les préparatifs du dîner, c'était pourtant la présence du [[Culte des Huit]] à [[Koruha]] elle-même qui les questionnait le plus. Les paroles de_ **_[[Varkh]]_** _sur la pluie corrompue et le **[[Le Viridien|Viridien]]** pointaient quand à elles plus profondément dans [[Selve Sélène|la Selve]]...
 
 _Le groupe se sépara donc en deux._ **_Orla_**_, changée en rat, se cacha dans les vêtements de_ **_Nyxara_** _pour infiltrer la tente d’**Am’Hok**. À l’intérieur, elles trouvèrent une installation austère, presque vide, mais aussi un bureau étrangement désordonné. Sous les papiers, Nyxara découvrit une carte de la région. Le temple qu’ils avaient visité y était marqué d’une croix, mais un autre point, plus profond dans la Selve, au sud-ouest de Koruha, était entouré plusieurs fois d’un point d’interrogation. Orla trouva aussi un petit coffre dissimulé sous la paillasse. Les deux compagnes le dérobèrent et quittèrent la tente sans être vues._
 
-_Pendant ce temps,_ **_Josué_** _et_ **_Zooki_** _explorèrent le chantier du monolithe. Ils y rencontrèrent_ **_Zarik_**_, prêtre-artisan convaincu que l’édifice protégerait Koruha et incarnerait l’élévation promise par les Huit. Dans la salle basse, déjà ouverte aux fidèles, un immense brasero recevait les offrandes de ceux qui venaient prier. Un vieux défricheur pas très fin nommé_ **_Dolé_** _leur expliqua avoir jeté dans les flammes les cheveux de sa femme. Josué ressentit chez lui quelque chose de néfaste, sans parvenir à l’expliquer._
+_Pendant ce temps,_ **_Josué_** _et_ **_Zooki_** _explorèrent le chantier du monolithe. Ils y rencontrèrent_ **_[[Zarik]]_**_, prêtre-artisan convaincu que l’édifice protégerait Koruha et incarnerait l’élévation promise par les [[Huit]]. Dans la salle basse, déjà ouverte aux fidèles, un immense brasero recevait les offrandes de ceux qui venaient prier. Un vieux défricheur pas très fin nommé_ **_[[Dole|Dolé]]_** _leur expliqua avoir jeté dans les flammes les cheveux de sa femme. Josué ressentit chez lui quelque chose de néfaste, sans parvenir à l’expliquer._
 
-_Grâce à_ **_Moule_**_, le corbeau d’Orla, les héros virent ensuite Am’Hok revenir de la forêt, et s'approcher du chantier. Au brasero, le prêtre jeta un chapelet dans le feu et parla de renoncer aux attachements inutiles pour mieux servir les Huit. Il révéla surtout que le monolithe devait être achevé avant la prochaine pleine lune, afin d’appeler la protection du culte sur Koruha._
+_Grâce à_ **_[[Moule]]_**_, le corbeau d’Orla, les héros virent ensuite Am’Hok revenir de la forêt, et s'approcher du chantier. Au brasero, le prêtre jeta un chapelet dans le feu et parla de renoncer aux attachements inutiles pour mieux servir les Huit. Il révéla surtout que le monolithe devait être achevé avant la prochaine pleine lune, afin d’appeler la protection du culte sur Koruha._
 
-_De retour ensemble, les héros ouvrirent le coffre volé après plusieurs tentatives désastreuses de crochetage magique, finalement résolues par un coup d'épée parfait de Josué. À l’intérieur se trouvait un pochon de feuilles vert argenté : du_ **_Khar_**_. Josué en goûta une trace infime et se sentit aussitôt traversé par une euphorie étrange. Par prudence, le groupe confia la substance à Orla._
+_De retour ensemble, les héros ouvrirent le coffre volé après plusieurs tentatives désastreuses de crochetage magique, finalement résolues par un coup d'épée parfait de Josué. À l’intérieur se trouvait un pochon de feuilles vert argenté : du_ **_[[Khar]]_**_. Josué en goûta une trace infime et se sentit aussitôt traversé par une euphorie étrange. Par prudence, le groupe confia la substance à Orla._
 
-_Puis vint le dîner. Autour d’**Am’Hok** étaient réunis_ **_Tori_**_,_ **_Kael_**_,_ **_Rethis Vael_**_,_ **_Ox_** _de l’Ordre de Tsaln,_ **_Elyra Thane_** _et_ **_Doran Pell_**_. Am’Hok interrogea les héros sur le temple, mais ils minimisèrent leur rôle et évitèrent de parler de la bénédiction reçue. La tension monta, jusqu’à ce que Tori détourne brutalement la conversation. Après un temps d'adaptation plus ou moins réussi aux couverts traditionnels du Culte, la lumière se fit plus tamisée et les conversations céssèrent. **_Lola_**_,_ **_Rob_** _et_ **_Bjorg_** _entrèrent et commencèrent à jouer. Au lieu d’une chanson légère ou instrumentale, et à la sidération des convives, ils entonnèrent la_ **_Complainte du Goupil_** _: une chanson de sang, de cendre, et de vengeance...
+_Puis vint le dîner. Autour d’**Am’Hok** étaient réunis_ **_[[Torvik “Tori” Brûn|Tori]]_**_,_ **_[[Kael]]_**_,_ **_[[Rethis Vael]]_**_,_ **_[[Ox]]_** _de l’[[Ordre de Tsaln]],_ **_[[Elyra Thane]]_** _et_ **_[[Doran Pell]]_**_. Am’Hok interrogea les héros sur le temple, mais ils minimisèrent leur rôle et évitèrent de parler de la bénédiction reçue. La tension monta, jusqu’à ce que Tori détourne brutalement la conversation. Après un temps d'adaptation plus ou moins réussi aux couverts traditionnels du Culte, la lumière se fit plus tamisée et les conversations céssèrent. **_[[Lola]]_**_,_ **_[[Rob]]_** _et_ **_[[Bjorg]]_** _entrèrent et commencèrent à jouer. Au lieu d’une chanson légère ou instrumentale, et à la sidération des convives, ils entonnèrent la_ **_[[Complainte du Goupil]]_** _: une chanson de sang, de cendre, et de vengeance...
 
 ---
 
@@ -38,7 +38,7 @@ Les plats de résistance arrivent :
 
 **Elyra attaque le sujet :**
 
-> “Am’Hok. Les Veilleurs ont vu la Selve avaler des tours, des ponts et des villages. Comment un monolithe de bois est-il censé nous protéger ?”
+> “Am’Hok. Les [[Veilleurs]] ont vu la Selve avaler des tours, des ponts et des villages. Comment un monolithe de bois est-il censé nous protéger ?”
 
 **Réponse d’Am’Hok : discours religieux/politique.**
 
@@ -65,11 +65,11 @@ Les plats de résistance arrivent :
     
 - **Kael :** “Un lieu de rassemblement peut aider. S’il ne devient pas une ancre.”
     
-- **Rétis :** favorable, parle de stabilité et de confiance.
+- **Rethis :** favorable, parle de stabilité et de confiance.
     
 - **Doran :** pragmatique : “Le courage n’arrête pas les mandibules.”
     
-- **Ox/Maro :** silencieux, observe.
+- **Ox/[[Maro]] :** silencieux, observe.
     
 
 ---
@@ -104,7 +104,7 @@ Les PJ sont soudain pris d'étranges sensations fugaces, ils ont l'impression d'
 ### Impressions des PJ
 
 - **Nyxara: le sang**. Goût métallique du sang sur sa langue. Pendant un court instant ses pupilles se dilatent et une étincelle s'échappe de son index.
-- **Orla : la terre.** Forte odeur d'humus, de terre noire et humide. Une aiguille dans son coeur.
+- **Orla : la terre.** Forte odeur d'humus, de terre noire et humide. Une [[Aiguille|aiguille]] dans son coeur.
 - **Zooki: le feu**. Odeur de bois brûlé, nez et yeux qui piquent, et une larme qui semble poindre au coin de son oeil.
 - **Josué : la pierre.** Odeur de poussière minérale, l'humidité et l'obscurité d'une grotte, la ferveur d'un espoir.
 
@@ -128,7 +128,7 @@ On fait faire un lancer à Maro pour improviser le nom du village, on a ces opti
 10   Brume-Brume
 9    Le Hameau
 8    Feuille-sous-Feuille
-6+   Sève-loin
+6+   [[Sève-loin]]
 4+   La Clairière Discrète
 2+   Le Village du Khar, enfin, pas officiellement
 1    Racine-Mystère
@@ -204,7 +204,7 @@ Ou à Zooki :
 
 ### Nom de faction
 
-Nom public : **les Treize** (en référence / opposition aux Huit)
+Nom public : **[[Les Treize|les Treize]]** (en référence / opposition aux Huit)
 Symbole : croissant de lune barré de trois entailles.
 
 ---
@@ -219,7 +219,7 @@ Puis, des couteaux sortent de ses manches et se mettent à flotter, dirigés dro
 
 > “Mais vous, vous pouvez encore danser.”
 
-À la fin du tour de l’Écorcheur, chaque couteau encore actif peut se déplacer **jusqu’à 9 m** et faire une attaque. Lui, à la base, reste bloqué car il doit tenir Lola. 
+À la fin du tour de [[L’Écorcheur|l’Écorcheur]], chaque couteau encore actif peut se déplacer **jusqu’à 9 m** et faire une attaque. Lui, à la base, reste bloqué car il doit tenir Lola. 
 
 Il font un **test de force** à chaque tour pour voir si elle s'enfuit, si elle fail trop, elle se fait égorger. Si elle gagne, elle se libère d'elle même et se range avec les joueurs contre lui.
 

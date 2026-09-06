@@ -1,30 +1,30 @@
 ## Précédemment, dans **De Lames et de Cendres**...
 
-*Au cœur de la tente d’Am’Hok Dun, la dernière note de la Complainte du Goupil s’éteignit dans un silence de mort. Une chanson de flammes et de vengeance. L’histoire d’assassins aux mains noires, venus massacrer un village pour retrouver un enfant roux jouant de la flûte.*
+*Au cœur de la tente d’[[Am'Hok Dun|Am’Hok Dun]], la dernière note de la [[Complainte du Goupil]] s’éteignit dans un silence de mort. Une chanson de flammes et de vengeance. L’histoire d’assassins aux mains noires, venus massacrer un village pour retrouver un enfant roux jouant de la flûte.*
 
-*Autour de la table, personne ne semblait connaître cette obscure complainte venue du nord. Personne… sauf Zooki. Car derrière les mots du chant, le gnome reconnut chaque détail de son propre passé : son village incendié, les siens massacrés et sa fuite au milieu des cendres. Le Goupil de la chanson, c’était lui. Mais il choisit de garder le silence.*
+*Autour de la table, personne ne semblait connaître cette obscure complainte venue du nord. Personne… sauf [[Zooki]]. Car derrière les mots du chant, le gnome reconnut chaque détail de son propre passé : son village incendié, les siens massacrés et sa fuite au milieu des cendres. Le Goupil de la chanson, c’était lui. Mais il choisit de garder le silence.*
 
-*Le dîner reprit, et Am’Hok exposa ses ambitions. Le monolithe en construction devait devenir le symbole de la puissance des Huit et ancrer leur bénédiction à Koruha. La cité ne reculerait plus devant la Selve. Elle resterait sur place, quelles qu’en soient les conséquences.*
+*Le dîner reprit, et Am’Hok exposa ses ambitions. Le [[Monolithe de Koruha|monolithe]] en construction devait devenir le symbole de la puissance des [[Huit]] et ancrer leur bénédiction à [[Koruha]]. La cité ne reculerait plus devant [[Selve Sélène|la Selve]]. Elle resterait sur place, quelles qu’en soient les conséquences.*
 
 *Puis le prêtre révéla la véritable raison de son invitation.*
 
-*Un homme nommé Ox, dissident de l’Ordre de Tsaln, connaissait l’emplacement d’un village dissimulé dans la forêt, au sein duquel le Khar était cultivé. Une expédition devait s’y rendre afin de négocier un approvisionnement indépendant du monopole de l’Ordre.*
+*Un homme nommé [[Ox]], dissident de l’[[Ordre de Tsaln]], connaissait l’emplacement d’un village dissimulé dans la forêt, au sein duquel le [[Khar]] était cultivé. Une expédition devait s’y rendre afin de négocier un approvisionnement indépendant du monopole de l’Ordre.*
 
-*En échange de leur participation, les héros obtinrent chacun une promesse : une recommandation pour Orla, un accès aux cavernes du Mont Urzal pour Josué, une aide encore secrète pour Nyxara… et une faveur à réclamer plus tard pour Zooki.*
+*En échange de leur participation, les héros obtinrent chacun une promesse : une recommandation pour [[Orla]], un accès aux cavernes du [[Mont Urzal]] pour [[Josué]], une aide encore secrète pour [[Nyxara]]… et une faveur à réclamer plus tard pour Zooki.*
 
-*Le départ fut fixé au lendemain, sous le commandement d’Am’Serek Tal.*
+*Le départ fut fixé au lendemain, sous le commandement d’[[Am’Serek Tal]].*
 
 *Mais en quittant le dîner, un cri déchira le camp.*
 
-*Lola était retenue par un homme balafré aux mains tatouées de noir, entouré de couteaux flottant dans les airs. À ses pieds gisaient Rob et Bjorg.*
+*[[Lola]] était retenue par un homme balafré aux mains tatouées de noir, entouré de couteaux flottant dans les airs. À ses pieds gisaient [[Rob]] et [[Bjorg]].*
 
 *Les héros affrontèrent l’assassin et le forcèrent à se rendre.*
 
-*Il se nommait l’Écorcheur, l’un des Treize.*
+*Il se nommait [[L’Écorcheur|l’Écorcheur]], l’un des Treize.*
 
 *Il reconnut en Zooki l’enfant qui leur avait échappé autrefois.*
 
-*Lola révéla alors que la complainte lui venait de son ancien maître, disparu depuis longtemps et aperçu pour la dernière fois à Dratholm. Mais avant que l’Écorcheur ne puisse livrer davantage de réponses, elle lui plongea une lame dans le corps.*
+*Lola révéla alors que la complainte lui venait de son ancien maître, disparu depuis longtemps et aperçu pour la dernière fois à [[Dratholm]]. Mais avant que l’Écorcheur ne puisse livrer davantage de réponses, elle lui plongea une lame dans le corps.*
 
 *Une fois pour Rob.*
 
@@ -32,15 +32,15 @@
 
 *Lorsque les gardes arrivèrent, les héros choisirent de taire la vérité.*
 
-*À quelques heures d’une nouvelle expédition dans la Selve, Zooki venait de découvrir que les fantômes de son enfance étaient toujours à sa recherche. Désormais, Les Treize n’étaient cependant plus que douze.*
+*À quelques heures d’une nouvelle expédition dans la Selve, Zooki venait de découvrir que les fantômes de son enfance étaient toujours à sa recherche. Désormais, [[Les Treize]] n’étaient cependant plus que douze.*
 
 ---
 
 ## Avant le départ
 
 - Les héros récupèrent le contrat préparé par Am’Hok et confirment officiellement leur participation à l’expédition.
-- Ils retrouvent **Am’Serek Tal**, chargé de diriger la délégation, ainsi que Tori, Ox, les prêtres, les Veilleurs et les Défricheurs qui les accompagneront.
-- **Rétis Vael** tient sa promesse et les autorise à choisir chacun un équipement raisonnable pour le voyage :
+- Ils retrouvent **Am’Serek Tal**, chargé de diriger la délégation, ainsi que [[Torvik “Tori” Brûn|Tori]], Ox, les prêtres, les [[Veilleurs]] et les [[Défricheurs]] qui les accompagneront.
+- **[[Rethis Vael]]** tient sa promesse et les autorise à choisir chacun un équipement raisonnable pour le voyage :
     - **Nyxara** : une cape de pisteur imperméable, légère et sombre, qui se confond facilement avec la végétation.
     - **Zooki** : une lanterne sylvestre étanche, alimentée par de petits insectes lumineux et dont l’éclat peut être masqué instantanément.
     - **Josué** : un solide nécessaire d’escalade comprenant harnais, pitons, marteau et cinquante pieds de corde.
@@ -55,30 +55,30 @@
 Le contrat est relativement standard et volontairement vague sur la destination exacte.
 
 - **Objet de la mission** : accompagner une délégation conduite par **Am’Serek Tal** dans la Selve Sélène, assurer sa protection et l’assister dans une mission diplomatique et commerciale.
-- **Destination** : un village forestier dont l’emplacement précis reste confidentiel. Le document ne mentionne ni le Khar ni le nom provisoire de **Sève-loin**.
+- **Destination** : un village forestier dont l’emplacement précis reste confidentiel. Le document ne mentionne ni le Khar ni le nom provisoire de **[[Sève-loin]]**.
 - **Durée prévue** : environ une semaine, avec possibilité de prolongation selon les conditions de voyage.
-- **Autorité sur place** : Am’Serek dirige officiellement l’expédition. **Ox** est reconnu comme guide, tandis que **Tori** représente la Garde Sylvestre.
+- **Autorité sur place** : Am’Serek dirige officiellement l’expédition. **Ox** est reconnu comme guide, tandis que **Tori** représente la [[Garde Sylvestre de Koruha|Garde Sylvestre]].
 - **Obligations des héros** :
     - contribuer à la protection du convoi ;
     - suivre les consignes d’Am’Serek lorsqu’elles concernent la sécurité de l’expédition ;
     - ne pas divulguer la destination ni l’objectif réel de la mission ;
     - ne pas provoquer volontairement les habitants rencontrés.
-- **Équipement** : Rétis Vael fournit les rations et le matériel courant, ainsi qu’un objet raisonnable par héros. Tout équipement prêté doit être rendu s’il survit au voyage.
+- **Équipement** : Rethis Vael fournit les rations et le matériel courant, ainsi qu’un objet raisonnable par héros. Tout équipement prêté doit être rendu s’il survit au voyage.
 - **Récompenses** : les engagements personnels négociés avec Am’Hok sont annexés séparément au contrat :
     - recommandation d’Orla auprès de la Confrérie des Cimes ;
     - assistance accordée à Josué pour accéder aux cavernes du Mont Urzal ;
-    - aide promise à Nyxara concernant ses recherches autour d’Hyptis ;
+    - aide promise à Nyxara concernant ses recherches autour d’[[Hyptis]] ;
     - une faveur future due à Zooki.
 - **Biens découverts** : les objets strictement liés à la mission ou appartenant au village doivent être remis à la délégation. Les trouvailles sans propriétaire identifiable pourront être réparties après le retour.
-- **Risques** : le contrat précise que la Selve constitue un environnement extrêmement dangereux et que ni le Culte des Huit ni Rétis Vael ne garantissent la survie des participants.
+- **Risques** : le contrat précise que la Selve constitue un environnement extrêmement dangereux et que ni le [[Culte des Huit]] ni Rethis Vael ne garantissent la survie des participants.
 - **Rupture du contrat** : abandonner volontairement la délégation sans motif grave annule les récompenses promises.
 - **Décès** : les effets personnels et la part de rémunération déjà acquise doivent être remis aux héritiers ou à la personne désignée par le participant.
 
-Am’Hok a signé au nom du Culte des Huit, Rétis Vael comme commanditaire matériel, et Am’Serek comme responsable de l’expédition. Chaque héros reçoit une copie portant leurs quatre noms et un sceau de cire sombre frappé des cornes des Huit.
+Am’Hok a signé au nom du Culte des Huit, Rethis Vael comme commanditaire matériel, et Am’Serek comme responsable de l’expédition. Chaque héros reçoit une copie portant leurs quatre noms et un sceau de cire sombre frappé des cornes des Huit.
 
 ## Le départ de Koruha
 
-Le convoi quitte Koruha au rythme lent et solennel des tambours des Huit. Devant lui avancent les prêtres, couronnes de bois dressées au-dessus de la foule, suivis des Défricheurs, des Veilleurs, des bêtes chargées de matériel et des quatre héros. Leur passage attire immédiatement les regards. Les habitants se pressent le long du chemin, curieux de voir ceux dont les exploits circulent désormais dans les tavernes accompagner une délégation religieuse aussi importante. Certains les saluent ou les encouragent ; d’autres observent les bannières et les armes des prêtres avec une méfiance silencieuse. Personne ne semble réellement savoir où l’expédition se rend ni ce qu’elle espère ramener. Les rumeurs se contredisent déjà : nouvelle attaque contre les gnolls, pèlerinage, exploration de ruines, mission secrète des Huit. Peu à peu, les constructions mobiles de Koruha disparaissent derrière les arbres. Les tambours continuent quelque temps de résonner sous la canopée, jusqu’à ce que la Selve les absorbe entièrement.
+Le convoi quitte Koruha au rythme lent et solennel des tambours des Huit. Devant lui avancent les prêtres, couronnes de bois dressées au-dessus de la foule, suivis des Défricheurs, des Veilleurs, des bêtes chargées de matériel et des quatre héros. Leur passage attire immédiatement les regards. Les habitants se pressent le long du chemin, curieux de voir ceux dont les exploits circulent désormais dans les tavernes accompagner une délégation religieuse aussi importante. Certains les saluent ou les encouragent ; d’autres observent les bannières et les armes des prêtres avec une méfiance silencieuse. Personne ne semble réellement savoir où l’expédition se rend ni ce qu’elle espère ramener. Les rumeurs se contredisent déjà : nouvelle attaque contre les [[Gnolls|gnolls]], pèlerinage, exploration de ruines, mission secrète des Huit. Peu à peu, les constructions mobiles de Koruha disparaissent derrière les arbres. Les tambours continuent quelque temps de résonner sous la canopée, jusqu’à ce que la Selve les absorbe entièrement.
 
 # Expédition vers le village de Khar — Structure de séance
 
@@ -88,7 +88,7 @@ Le convoi quitte Koruha au rythme lent et solennel des tambours des Huit. Devant
 
 La première journée de voyage se déroule sans incident. Encore proche de Koruha, la Selve paraît presque familière et Ox conduit le convoi avec assurance. À la tombée de la nuit, l’expédition installe son camp dans une vaste clairière tapissée d’une mousse souple et agréablement tiède.
 
-Au réveil, l’air est devenu étouffant. Une lumière rougeâtre traverse un immense voile blanc tendu au-dessus du camp, semblable à une toile de parachute. Le sol est mou, humide et légèrement incliné vers le centre. Progressivement, les personnages comprennent qu’ils ne se trouvent plus dans une clairière : ils ont dormi au cœur d’une fleur carnivore gigantesque, dont les pétales se sont refermés durant la nuit.
+Au réveil, l’air est devenu étouffant. Une lumière rougeâtre traverse un immense voile blanc tendu au-dessus du camp, semblable à une toile de parachute. Le sol est mou, humide et légèrement incliné vers le centre. Progressivement, les personnages comprennent qu’ils ne se trouvent plus dans une clairière : ils ont dormi au cœur d’une [[Fleur carnivore colossale|fleur carnivore gigantesque]], dont les pétales se sont refermés durant la nuit.
 
 ### b) Tours de crise
 
@@ -187,7 +187,7 @@ L’endroit est entièrement obscur. Ils entendent des gouttes tomber, le ruisse
 
 La grotte apparaît alors : parois humides, roches couvertes de mousse, champignons pâles et vastes concrétions minérales.
 
-Et près d’eux se tient **Maro**.
+Et près d’eux se tient **[[Maro]]**.
 
 Son déguisement n’a pas survécu à la chute. Ox a disparu. À sa place se trouve le vieux halfling à la longue barbe blanche rencontré dans les geôles de Koruha, vêtu de sa robe simple et débarrassé de son faux visage.
 
@@ -201,7 +201,7 @@ La créature est gigantesque, couverte de mousse et de dépôts calcaires. Un é
 
 En l’observant, les héros peuvent remarquer que la pierre est tiède, que les champignons bougent au rythme de sa respiration et qu’une paupière se dissimule sous la mousse.
 
-Le crapaud s’appelle **Buffo**.
+Le crapaud s’appelle **[[Buffo]]**.
 
 ### d) Réveil et négociation
 
@@ -344,11 +344,11 @@ Les solutions possibles incluent notamment :
     
 - Les tambours du convoi.
     
-- Moule.
+- [[Moule]].
     
 - Les animaux interrogés par Orla.
     
-- Thaelor, appelé par Nyxara.
+- [[Thaelor]], appelé par Nyxara.
     
 - Les traces laissées pendant la poursuite.
     
@@ -365,6 +365,8 @@ Le groupe doit désormais poursuivre l’expédition sans Ox, à partir de ses s
 
 ### a) Ellipse
 
+https://link.deezer.com/s/34k9cAestzyeTYsUQnhcr
+
 Les jours suivants se confondent.
 
 Le convoi avance sans véritable certitude, suivant des souvenirs imprécis, des traces d’animaux et de rares signes de présence humaine. Les rations diminuent. Les repas deviennent plus petits, puis irréguliers. Certains membres de l’expédition commencent à cacher leurs réserves ou à compter les portions distribuées aux blessés.
@@ -375,27 +377,27 @@ Personne ne sait exactement combien de temps s’est écoulé.
 
 Les nuits semblent parfois durer quelques heures, parfois plusieurs jours. Le soleil apparaît à des endroits impossibles. Les personnages ont le sentiment d’avoir déjà traversé certains lieux, sans pouvoir se rappeler quand. Même les plantes et les blessures ne permettent plus de mesurer correctement le passage du temps.
 
-Épuisés, affamés et presque perdus, ils débouchent finalement dans une vaste clairière.
+Épuisés, affamés et presque perdus, vous débouchez finalement dans une vaste clairière.
 
 Le silence y est absolu.
 
-Au-dessus d’eux, les nuages s’écartent lentement et révèlent la pleine lune.
+Au-dessus de vous, les nuages s’écartent lentement et révèlent la pleine lune.
 
 Un premier craquement résonne.
 
 Puis un autre.
 
-Tous les arbres qui bordent la clairière commencent à s’incliner, leurs troncs se courbant comme s’ils saluaient l’arrivée d’un souverain. Entre leurs branches apparaît un elfe auquel il est impossible de donner un âge. Il marche pieds nus, un immense bâton à la main. Son long manteau vert semble composé de feuilles, de lianes et de végétaux vivants.
+Les arbres qui bordent la clairière craquent, puis commencent, lentement, à s’incliner, leurs troncs se courbant comme s’ils saluaient l’arrivée d’un souverain. Entre leurs branches émerge un elfe auquel il est impossible de donner un âge. Il marche pieds nus, un immense bâton à la main. Son long manteau vert semble composé de feuilles, de lianes et de végétaux vivants.
 
 Partout où il pose le pied, les fleurs s’ouvrent et la végétation jaillit du sol.
 
-Le **Viridien**.
+Le **[[Le Viridien|Viridien]]**.
 
 ## Dialogue du Viridien
 
 Le Viridien descend lentement entre les arbres inclinés. Son regard se pose d’abord sur Am’Serek Tal.
 
-— **Am’Serek Tal.**
+— **Am’Serek .**
 
 Am’Serek attaque. Les racines jaillissent et le plaquent au sol.
 
@@ -403,13 +405,13 @@ Am’Serek attaque. Les racines jaillissent et le plaquent au sol.
 
 Il observe le reste du convoi.
 
-— **Le village que vous cherchez n’est ni un comptoir, ni une réserve, ni une marche de plus sous l’ombre de l’Aiguille. Il existait avant vos cartes. Il survivra après vos temples.**
+— **Le village que vous cherchez n’est ni un comptoir, ni une réserve, ni une marche de plus sous l’ombre de l’[[Aiguille]]. Il existait avant vos cartes. Il survivra après vos temples.**
 
 — **Je restaure ce que vos maîtres ont détruit. Je protège ce qu’ils voudraient posséder. Et je ne laisserai pas leurs prêtres planter leurs cornes dans une terre qui n'est pas la leur.**
 
 Son regard se tourne vers les héros.
 
-— **Quant à vous… je sens sur vous la marque d’un ancien sanctuaire. L’odeur de l'imposteur, Rillifane. Il semble que vous m'ayez devancé à son temple.**
+— **Quant à vous… je sens sur vous la marque d’un ancien sanctuaire. L’odeur de l'imposteur, [[Rillifane Rallathil|Rillifane]]. Il semble que vous m'ayez devancé à son temple.**
 
 — **Je ne vous confonds pourtant pas encore avec ceux que vous accompagnez.**
 
@@ -467,7 +469,7 @@ Le Viridien observe le crapaud sans paraître surpris.
 
 Le tonnerre éclate.
 
-Les premières Larmes de Lune tombent sur la clairière.
+Les premières [[Larmes de Lune]] tombent sur la clairière.
 
 Au même instant, des hordes de gnolls surgissent entre les arbres et déferlent de toutes parts. Les prêtres tentent de former une ligne de défense, les Défricheurs se dispersent et les blessés sont renversés.
 
@@ -516,42 +518,7 @@ Fin de la séance.
 
 # Lycanthropie séléenne de Nyxara
 
-## Règles communes
+Les anciennes règles provisoires sont remplacées par :
 
-Lorsqu’elle se transforme, Nyxara prend la forme d’une **louve séléenne** pendant une minute.
-
-Elle conserve son Intelligence, sa Sagesse, son Charisme, ses souvenirs et la capacité de reconnaître ses alliés, sauf indication contraire.
-
-Profil simplifié :
-
-- **CA :** 12 + bonus de maîtrise.
-    
-- **PV temporaires :** 4 × niveau de Nyxara.
-    
-- **Vitesse :** 12 mètres.
-    
-- **Odorat et ouïe aiguisés :** avantage aux tests de Perception correspondants.
-    
-- **Morsure :** bonus de maîtrise + Force ou Dextérité ; dégâts 1d6 + même modificateur.
-    
-- **Tactique de meute :** avantage si un allié conscient se trouve près de la cible.
-    
-- Elle ne peut ni parler ni lancer de sorts.
-    
-- La transformation prend fin après une minute ou lorsque les PV temporaires sont épuisés.
-    
-
-Le résultat du d8 détermine la forme permanente prise par sa malédiction.
-
-## Table d8
-
-|d8|Manifestation|
-|--:|---|
-|**1**|**Goût du sang** — Si Nyxara goûte du sang frais, elle se transforme immédiatement. Si elle voit du sang, elle lance 1d4 ; sur 1, elle se transforme. Sous forme de louve, elle doit réussir un jet de Sagesse DD 12 pour s’éloigner volontairement d’une créature qui saigne.|
-|**2**|**Premier sang** — La première créature blessée dans une scène devient sa proie. Nyxara lance 1d4 ; sur 1, elle se transforme. Sa première morsure réussie à chaque tour inflige 1d4 dégâts supplémentaires à cette proie.|
-|**3**|**Sang protecteur** — Lorsqu’un allié visible est blessé, Nyxara lance 1d4 ; sur 1, elle se transforme. Si un allié tombe à 0 PV, la transformation est automatique. Elle a avantage contre les ennemis proches de cet allié.|
-|**4**|**Sang propre** — Nyxara se transforme automatiquement lorsqu’elle tombe sous la moitié de ses PV. Ses PV temporaires deviennent égaux à 5 × son niveau, mais elle ne peut reprendre sa forme normale avant la fin de la minute.|
-|**5**|**Sang volé** — Lorsqu’elle blesse une créature qui saigne déjà, Nyxara lance 1d4 ; sur 1, elle se transforme. Sous forme de louve, une morsure réussie contre une cible blessée lui rend des PV temporaires égaux à son bonus de maîtrise, une fois par tour.|
-|**6**|**Meute rouge** — Si au moins deux de ses alliés sont sous la moitié de leurs PV, Nyxara se transforme automatiquement. Sa Tactique de meute fonctionne tant qu’un allié se trouve à 3 mètres de sa cible, même s’il ne la menace pas directement.|
-|**7**|**Louve d’ombre** — Voir du sang déclenche le jet de 1d4 habituel. Sous forme de louve, Nyxara peut, une fois par tour en action bonus, traverser jusqu’à 3 mètres d’ombre pour réapparaître plus près d’une créature blessée.|
-|**8**|**Louve du chaos** — Le sang déclenche la transformation normalement. À chaque transformation, lancer 1d4 : **1)** vitesse augmentée de 3 mètres ; **2)** morsure infligeant 1d4 dégâts supplémentaires ; **3)** corps de brume permettant de traverser une créature ; **4)** hurlement utilisable une fois, imposant un jet de Sagesse aux ennemis proches ou l’état Effrayé jusqu’à la fin de leur prochain tour.|
+- [[Vision de Nyxara]] pour le choix de l’instinct ;
+- [[Nyxara - Forme lupine séléenne]] pour la fiche complète et les capacités.

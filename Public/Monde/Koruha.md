@@ -1,9 +1,24 @@
-Située à la lisière de la **Selve Sélène**, **Koruha** s'apparente désormais plus à un camp de fortune gigantesque et mobile qu'à une véritable ville.
+# Koruha
+
+Située à la lisière de la [[Selve Sélène]], Koruha s’apparente désormais plus à un camp de fortune gigantesque et mobile qu’à une véritable ville.
 
 Au fil des générations, les efforts pour maintenir des habitations permanentes ont fini par céder la place à la fabrication d'ingénieuses bâtisses de bois mobiles. Certaines sont pourvues de roues et sont tirées par des attelages, d'autres sont démontables, et certaines sont mêmes déplacées par des druides via de puissantes incantations.
 
-Jadis, Koruha était le joyau du **Royaume Sylvestre Occidental**, vaste contrée indépendante contrôlée par les Elfes des bois. Elle se situait alors bien plus à l'ouest. Suite au grand schisme, le royaume fut scindé entre le groupe ayant décidé de quitter la région et qui constitue maintenant le **Synode des Exilés**, et ceux qui sont restés sur place.
+Jadis, Koruha était le joyau du [[Royaume Sylvestre Occidental]]. Après le grand schisme, les elfes partis formèrent le [[Synode des Exilés]], tandis que d’autres restèrent dans la forêt.
 
-Aujourd'hui, bien que plus de la moitié des habitants soient toujours des Elfes ou d'origine elfique, des aventuriers des quatre coins de [[Monde/Naeth|Naeth]] y vivent également. Certains travaillent pour la Garde Sylvestre de Koruha, dont la vocation est d'empêcher la progression de la Selve Sélène par tous le moyens possibles. D'autres profitent des besoins de la population locale pour commercer. Enfin, certains habitants s'aventurent au péril de leurs vies dans la Selve elle-même pour en cueillir les fruits : plantes rares, ruines riches en artefacts, et bien plus encore.
+Aujourd’hui, plus de la moitié des habitants sont encore elfes ou d’origine elfique, mais des aventuriers de tout [[Naeth]] y vivent. Certains travaillent pour la [[Garde Sylvestre de Koruha]], d’autres commercent ou s’aventurent dans la Selve à la recherche de plantes et d’artefacts.
 
-Une des coutumes de [[Monde/Naeth|Naeth]] veut que ses criminels, au lieu de pourrir en prison ou d'être exécutés, soient lâchés dans les profondeurs de la Selve sans équipement ni vivres. Véritable rite mystique, on l'appelle le **Jugement de la Selve**. Si les criminels reviennent sains et saufs, on leur rend leur liberté et leurs possessions. Cela n'arrive presque jamais, mais certains personnages illustres ont réussi l'épreuve. C'est le cas de **Mira Vanis**, capitaine de la **Garde Sylvestre de Koruha**.
+Le [[Jugement de la Selve]] y remplace parfois l’emprisonnement ou l’exécution. [[Mira Vanis]], capitaine de la Garde, y a autrefois survécu.
+
+## Lieux notables
+
+- [[Caserne de Koruha]]
+- [[Prison racinaire de Koruha]]
+- [[Auberge de la Canopée]]
+- [[Auberge des Guides]]
+- [[Grand Marché de Koruha]]
+- [[Monolithe de Koruha]]
+
+## Situation actuelle
+
+Après des attaques coordonnées de [[Gnolls]], le [[Culte des Huit]] est venu porter secours à la population. [[Am'Hok Dun|Am’Hok Dun]] fait construire un monolithe fixe et a annoncé que la ville ne reculerait plus devant la Selve.

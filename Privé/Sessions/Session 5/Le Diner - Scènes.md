@@ -1,6 +1,6 @@
 # 🏕️ 1. Installation à table
 
-Les prêtres vous désignent vos places d’un simple geste de la main. Les coussins sont fermes, presque rigides, et la position qu’ils imposent n’a rien de confortable. Autour de vous, chacun est déjà assis, dos droit, parfaitement immobile. Devant vous, une table basse de bois brut, marquée par l’usage, sur laquelle reposent des plats simples… et deux ustensiles de métal sombre. Une pince rigide. Et une fine aiguille.
+Les prêtres vous désignent vos places d’un simple geste de la main. Les coussins sont fermes, presque rigides, et la position qu’ils imposent n’a rien de confortable. Autour de vous, chacun est déjà assis, dos droit, parfaitement immobile. Devant vous, une table basse de bois brut, marquée par l’usage, sur laquelle reposent des plats simples… et deux ustensiles de métal sombre. Une pince rigide. Et une fine [[Aiguille|aiguille]].
 
 Personne ne commence à manger.
 
@@ -40,7 +40,7 @@ Comme s’ils n’avaient jamais été là.
 
 Il n’y a pas d’annonce.
 
-Simplement, à un moment donné, quelque chose change. Les conversations s’atténuent légèrement, les épaules se redressent, les gestes se ralentissent encore. Et lorsque vous relevez les yeux, **Am’Hok** est là.
+Simplement, à un moment donné, quelque chose change. Les conversations s’atténuent légèrement, les épaules se redressent, les gestes se ralentissent encore. Et lorsque vous relevez les yeux, **[[Am'Hok Dun|Am’Hok]]** est là.
 
 Debout. Ou déjà assis.
 
@@ -50,7 +50,7 @@ Mais sa présence semble stabiliser l’espace autour de lui, comme si même la 
 
 ---
 
-# 🌿 6. Am’Hok prépare le Khar
+# 🌿 6. Am’Hok prépare le [[Khar]]
 
 Sans un mot, Am’Hok sort une petite boîte de métal sombre et la pose devant lui. Il l’ouvre avec soin, révélant quelques feuilles fines, argentées. Ses gestes sont lents, précis, presque méditatifs. 
 
@@ -147,7 +147,7 @@ On dirait un espace très utilitaire.
 
 ### 🎭 RP rapide
 
-- **Fort joueur** → Tori devient sérieux
+- **Fort joueur** → [[Torvik “Tori” Brûn|Tori]] devient sérieux
 - **Faible joueur** → Tori joue cool, encourage
 - **Victoire joueur** → respect immédiat
 - **Défaite** → respect quand même
@@ -168,7 +168,7 @@ On dirait un espace très utilitaire.
 
 # 🏁 14. Fin de scène / sortie du dîner
 
-Lorsque vous quittez la tente, l’air de la Selve vous paraît presque plus léger. Derrière vous, la lumière et les voix s’estompent, avalées par la toile et les braises. Le monde extérieur reprend ses droits — instable, mouvant, imprévisible.
+Lorsque vous quittez la tente, l’air de [[Selve Sélène|la Selve]] vous paraît presque plus léger. Derrière vous, la lumière et les voix s’estompent, avalées par la toile et les braises. Le monde extérieur reprend ses droits — instable, mouvant, imprévisible.
 
 Mais ce que vous venez de vivre, lui, reste.
 

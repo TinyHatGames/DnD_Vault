@@ -1,6 +1,6 @@
-Effets liés à la bénédiction de **Rillifane Rallathil**, ils sont perdus si la bénédiction prend fin.
+Effets liés à la bénédiction de **[[Rillifane Rallathil]]**, ils sont perdus si la bénédiction prend fin.
 
-## Javelot du Saule
+## [[Javelot du Saule]]
 
 Objet merveilleux (arme), commun+
 
@@ -12,7 +12,7 @@ De plus, si le javelot touche un arbre, un tronc, une racine épaisse ou un sol 
 
 ---
 
-## Flèche de Mousseronce
+## [[Flèche de Mousseronce]]
 
 Objet merveilleux (munition), commun+
 
@@ -27,7 +27,7 @@ La flèche n’est pas consommée si son pouvoir est utilisé : après l’effet
 
 ---
 
-## Dague du Bourgeon
+## [[Dague du Bourgeon]]
 
 Objet merveilleux (arme), commun+
 
@@ -39,7 +39,7 @@ Si vous utilisez cet effet hors combat sur une surface de bois, de lierre ou de 
 
 ---
 
-## Dague de Sève
+## [[Dague de Sève]]
 
 Objet merveilleux (arme), commun+
 

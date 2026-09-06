@@ -1,14 +1,14 @@
 ## Précédemment, dans **la Canopée des Mensonges**…
 
-_Arrachés aux racines d’une prison vivante, entravés par des bracelets runiques et survivants d’une nuit où Koruha brûla sous l’assaut des Gnolls, nos héros se retrouvèrent liés par un destin qu’aucun n’avait choisi._
+_Arrachés aux racines d’une prison vivante, entravés par des bracelets runiques et survivants d’une nuit où [[Koruha]] brûla sous l’assaut des [[Gnolls]], nos héros se retrouvèrent liés par un destin qu’aucun n’avait choisi._
 
-_Conduits par les gardes au cœur de l'immense caserne de la Garde Sylvestre, encore imprégnée de cendres et de sang, ils furent reçus par Mira Vanis, dont le regard d’obsidienne semblait jauger non seulement leurs paroles, mais le sort que la Selve leur réservait. Elle leur offrit un marché : suivre une piste dangereuse en échange de leur liberté, et être soustraits au jugement sans appel de la forêt._
+_Conduits par les gardes au cœur de l'immense caserne de la [[Garde Sylvestre de Koruha|Garde Sylvestre]], encore imprégnée de cendres et de sang, ils furent reçus par [[Mira Vanis]], dont le regard d’obsidienne semblait jauger non seulement leurs paroles, mais le sort que [[Selve Sélène|la Selve]] leur réservait. Elle leur offrit un marché : suivre une piste dangereuse en échange de leur liberté, et être soustraits au jugement sans appel de la forêt._
 
-_Un sceau elfique, arraché à un Gnoll lors de l’attaque, désignait un temple oublié du Royaume Sylvestre. Orla en reconnut la marque sacrée.
+_Un [[Marque du Serment|sceau elfique]], arraché à un Gnoll lors de l’attaque, désignait un temple oublié du [[Royaume Sylvestre Occidental|Royaume Sylvestre]]. [[Orla]] en reconnut la marque sacrée.
 
-_Sous la canopée suspendue d'une auberge haute perchée, les récits se mêlèrent à l’alcool, et c’est là que Maro, leur compagnon de gêole, reparut, porteur d’avertissements et de doutes. Il leur révéla la nature des menottes runiques et se présenta comme un allié, mais ses paroles semèrent le doute et la méfiance au sein du groupe, et il finit par repartir dans la nuit. Kael, l'aubergiste, leur fit part de sa crainte d'un groupe nébuleux gagnant en influence à Koruha, le Pacte des Initiés._
+_Sous la canopée suspendue d'une auberge haute perchée, les récits se mêlèrent à l’alcool, et c’est là que [[Maro]], leur compagnon de gêole, reparut, porteur d’avertissements et de doutes. Il leur révéla la nature des [[Menottes runiques|menottes runiques]] et se présenta comme un allié, mais ses paroles semèrent le doute et la méfiance au sein du groupe, et il finit par repartir dans la nuit. [[Kael]], l'aubergiste, leur fit part de sa crainte d'un groupe nébuleux gagnant en influence à Koruha, le [[Pacte des Initiés]]._
 
-_À l’aube, ils décidèrent de quitter Koruha, profitant de son marché pour se préparer au voyage en premier lieu, et confièrent leur route à Lafel, guide trop frêle pour rassurer, mais assez audacieux et informé pour les mener à bon port._
+_À l’aube, ils décidèrent de quitter Koruha, profitant de son marché pour se préparer au voyage en premier lieu, et confièrent leur route à [[Lafel]], guide trop frêle pour rassurer, mais assez audacieux et informé pour les mener à bon port._
 
 _La forêt nouvelle, d'abord clairsemée, se montra clémente sous le soleil, laissant passer les voyageurs et leur guide, et les gratifiant même d'une rencontre de bon augure avec ses esprits. Les progrès furent rapides, jusqu’à ce qu'à la tombée de la nuit, les pierres profanées du temple se dressent devant eux._
 
@@ -33,12 +33,12 @@ S'ils l'observent, ils peuvent voir des indices sur la malédiction. La chaine q
 
 Ex: 
 
-- Josué peut utiliser les herbes qu'il a acheté au marché pour l'amadouer.
+- [[Josué]] peut utiliser les herbes qu'il a acheté au marché pour l'amadouer.
 - Un sort pourrait potentiellement l'aider ?
 
 Si on arrive à le calmer totalement, il nous indique que ses bourreaux gnolls sont entrés dans le temple et l'ont attaché là.
 
-Le tuer est possible, mais lourd de sens dans un temple de **Rillifane**.
+Le tuer est possible, mais lourd de sens dans un temple de **[[Rillifane Rallathil|Rillifane]]**.
 Libérer ou apaiser la bête est perçu favorablement par le lieu.
 
 Si les joueurs inspectent les alentours du temple, ils y trouvent de nombreuses traces du passage des gnolls : marques de griffes, peintures rouges sur le temple, feu de camp éteint, traces de pas...
@@ -125,10 +125,10 @@ Si un personnage jette un caillou au hasard ou tente une offrande manifestement 
     
 - **Un souvenir matériel** (morceau de tissu, petite amulette, plume conservée).
     
-- **Un “geste d’art”** (Zooki peut offrir une anche, un petit objet musical, un ruban noué autour d’un souvenir).
+- **Un “geste d’art”** ([[Zooki]] peut offrir une anche, un petit objet musical, un ruban noué autour d’un souvenir).
     
 
-> Astuce : si tu sens qu’ils hésitent trop, fais réagir le sceau (tiédeur/vibration) quand une offrande est “bonne”, et rien quand elle ne l’est pas. Ça guide sans expliquer.
+> Astuce : si tu sens qu’ils hésitent trop, fais réagir le [[Marque du Serment|sceau]] (tiédeur/vibration) quand une offrande est “bonne”, et rien quand elle ne l’est pas. Ça guide sans expliquer.
 
 ---
 
@@ -184,8 +184,8 @@ Tout au fond, sur une estrade fendue, se dresse un autel : un bloc de marbre vei
 
 Un **gnoll immense en armure** se tient près de l’autel, il a une hache à la main. Il semble agité, impatient, et gesticule en rugissant. À ses côtés, deux gnolls maintiennent un **otage elfe**, blond, les cheveux fou et au visage blême. Ses mains tremblent et ses genoux semblent sur le point de céder.
 
-« Toi, elfe. Le Viridien a dit ! Tu sais! Tu fais! Ou, tu saignes! »
-« L'au.. L’autel ne répondra pas à la profanation. J... Je vous l'ai dit, avec tout mon respect, il vous manque la marque du serment... Je suis navré, monsieur, euh, Varkh, vraiment, mais euh...»
+« Toi, elfe. [[Le Viridien]] a dit ! Tu sais! Tu fais! Ou, tu saignes! »
+« L'au.. L’autel ne répondra pas à la profanation. J... Je vous l'ai dit, avec tout mon respect, il vous manque la marque du serment... Je suis navré, monsieur, euh, [[Varkh]], vraiment, mais euh...»
 
 Le gnoll rugit et frappe l'autel avec sa hache à répétition. Personne ne vous a vu pour le moment. Que faites-vous ?
 
@@ -267,7 +267,7 @@ S'ils essayent de lui parler, il leur offre la réponse à une seule question.
 « Votre détermination mérite réponse. 
 Une réponse unique vous receverez, parlez. »
 
-**Rillifane** révèle qu’un **elfe ancien guide la Selve** contre les cités de Naeth. 
+**Rillifane** révèle qu’un **elfe ancien guide la Selve** contre les cités de [[Naeth]]. 
 Il évoque aussi une **pluie détournée** et une haine envers les Goliaths.  
 
 Il n'en dira pas plus sur les détails, mais les personnages repartent avec de quoi donner un rapport intéressant à Mira Vanis.

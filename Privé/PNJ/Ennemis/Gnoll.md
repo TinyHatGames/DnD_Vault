@@ -1,9 +1,9 @@
-![[Privé/PNJ/Ennemis/Gnolls.png]]
+![[Gnolls.png]]
 
 ```statblock
 layout: Basic 5e Layout
-image: "Gnoll.png"
-name: Gnoll de la Selve
+image: "[[Gnolls|Gnoll]].png"
+name: Gnoll de [[Selve Sélène|la Selve]]
 size: Medium
 type: humanoïde
 subtype: gnoll

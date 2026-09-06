@@ -1,5 +1,7 @@
-Seigneurs divins de [[Privé/Lieux/Naeth]], les [[Huit]] sont les leaders des huit maisons goliath vivant dans l'[[Aiguille]] dominant le [[Mont Urzal]]. Ils ne sont que très rarement visibles en public, et leur nom est toujours murmuré avec révérence. Une aura mystique les entoure, et beaucoup leur prêtent l'immortalité et de nombreux pouvoirs divins.
+Seigneurs divins de [[Naeth]], les Huit sont les chefs des huit maisons goliaths vivant dans l’[[Aiguille]] au sommet du [[Mont Urzal]]. Ils ne sont que très rarement visibles en public. Une aura mystique les entoure, et beaucoup leur prêtent l’immortalité et de nombreux pouvoirs.
 
-La hiérarchie des [[Huit]] est définie par une série d'épreuves tous les 10 ans. Chaque maison doit choisir 4 champions qui participent à trois épreuves successives, avec des champions éliminés (parfois tués) à chacune. Les épreuves montrent que la maison a le soutient de [[Kavaki]], le Seigneur-Bélier, dieu des goliaths et créateur de [[Privé/Lieux/Naeth]].
+La hiérarchie est redéfinie tous les dix ans par une série d’épreuves. Chaque maison choisit quatre champions qui affrontent trois épreuves successives, parfois mortelles. La victoire est interprétée comme le soutien de [[Kavaki]], dieu-bélier et créateur de Naeth.
 
-Le chef de la maison dominante s'appelle le ou la **[[Prima]]**.
+Le chef de la maison dominante porte le titre de [[Prima]]. La maison actuelle est celle des [[Lo-Kag]]. Leur autorité politique et religieuse s’exerce par le [[Culte des Huit]] et les [[Monolithes des Huit]].
+
+[[Le Viridien]] les accuse d’avoir détourné ou corrompu les [[Larmes de Lune]].

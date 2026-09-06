@@ -3,7 +3,7 @@
 ```statblock
 layout: Basic 5e Layout
 image: "Corrupted_Stag.png"
-name: Cerf Corrompu de la Selve
+name: Cerf Corrompu de [[Selve Sélène|la Selve]]
 size: Large
 type: bête
 subtype: —

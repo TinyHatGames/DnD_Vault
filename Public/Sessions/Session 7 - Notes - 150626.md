@@ -1,6 +1,6 @@
 ## Point de départ
 
-La séance reprend immédiatement après la **Complainte du Goupil**, interprétée par Lola et ses deux compagnons au beau milieu du dîner organisé dans la tente d’**Am’Hok Dun**.
+La séance reprend immédiatement après la **[[Complainte du Goupil]]**, interprétée par [[Lola]] et ses deux compagnons au beau milieu du dîner organisé dans la tente d’**[[Am'Hok Dun|Am’Hok Dun]]**.
 
 La chanson, particulièrement sombre et violente pour une soirée censée célébrer la concorde, semble raconter l’attaque violente d’un village.
 
@@ -10,7 +10,7 @@ La chanson, particulièrement sombre et violente pour une soirée censée célé
 
 Lorsque la dernière note s’éteint, un silence stupéfait tombe sur la tente. Les convives échangent quelques murmures, partagés entre l’admiration et l’incompréhension.
 
-**Tori** est le premier à se lever et à applaudir bruyamment. Les héros l’accompagnent, bientôt suivis par quelques autres invités. Lola, Rob et son second compagnon saluent rapidement avant de quitter la tente par l’arrière.
+**[[Torvik “Tori” Brûn|Tori]]** est le premier à se lever et à applaudir bruyamment. Les héros l’accompagnent, bientôt suivis par quelques autres invités. Lola, [[Rob]] et son second compagnon saluent rapidement avant de quitter la tente par l’arrière.
 
 Am’Hok ne paraît que légèrement surpris. Il qualifie la complainte de choix singulier pour accompagner un repas de concorde, tout en reconnaissant la grande qualité de l’interprétation.
 
@@ -18,12 +18,12 @@ Personne autour de la table ne semble véritablement connaître cette version de
 
 - Tori ne l’a jamais entendue.
     
-- Kael trouve la mélodie vaguement familière, mais explique que les paroles des chansons populaires changent souvent selon les bardes.
+- [[Kael]] trouve la mélodie vaguement familière, mais explique que les paroles des chansons populaires changent souvent selon les bardes.
     
-- Certains supposent qu’elle évoque un événement obscur survenu dans le nord de Naeth.
+- Certains supposent qu’elle évoque un événement obscur survenu dans le nord de [[Naeth]].
     
 
-Un excellent jet d’Histoire permet cependant à **Zooki de comprendre précisément à quel événement la chanson fait référence**. Il garde cette information pour lui et ne révèle pas encore aux autres qu’elle raconte manifestement une partie de son propre passé.
+Un excellent jet d’Histoire permet cependant à **[[Zooki]] de comprendre précisément à quel événement la chanson fait référence**. Il garde cette information pour lui et ne révèle pas encore aux autres qu’elle raconte manifestement une partie de son propre passé.
 
 ---
 
@@ -31,7 +31,7 @@ Un excellent jet d’Histoire permet cependant à **Zooki de comprendre précis�
 
 La conversation reprend autour du dîner.
 
-Am’Hok explique qu’il a été envoyé à Koruha pour apporter l’aide officielle du Culte des Huit :
+Am’Hok explique qu’il a été envoyé à [[Koruha]] pour apporter l’aide officielle du [[Culte des Huit]] :
 
 - soins aux blessés et aux plus démunis ;
     
@@ -39,22 +39,22 @@ Am’Hok explique qu’il a été envoyé à Koruha pour apporter l’aide offic
     
 - accompagnement spirituel de la population ;
     
-- diffusion de la parole des Huit dans une ville qui en était jusqu’ici largement dépourvue.
+- diffusion de la parole des [[Huit]] dans une ville qui en était jusqu’ici largement dépourvue.
     
 
-Il affirme également que la bénédiction du Prima et la présence du culte permettront de contenir la progression de la Selve.
+Il affirme également que la bénédiction du [[Prima]] et la présence du culte permettront de contenir la progression de [[Selve Sélène|la Selve]].
 
-Lorsque Nyxara lui demande s’il pense réellement pouvoir arrêter la forêt, il répond simplement :
+Lorsque [[Nyxara]] lui demande s’il pense réellement pouvoir arrêter la forêt, il répond simplement :
 
 > « Lorsqu’on croit, on peut. »
 
 Am’Hok profite ensuite de la conversation pour sonder les convictions des héros.
 
-Il renouvelle notamment sa proposition à **Josué de rejoindre le Culte des Huit**, évoquant sa spiritualité et les échos de son entraînement avec les adeptes. Il le complimente de manière assez paternaliste, en soulignant qu’il aurait presque atteint le niveau de l’un des plus jeunes initiés.
+Il renouvelle notamment sa proposition à **[[Josué]] de rejoindre le Culte des Huit**, évoquant sa spiritualité et les échos de son entraînement avec les adeptes. Il le complimente de manière assez paternaliste, en soulignant qu’il aurait presque atteint le niveau de l’un des plus jeunes initiés.
 
-Il tente également d’amener **Orla** à considérer son instinct et son rapport à la nature comme une forme de foi qui pourrait être dirigée vers les Huit. Orla refuse poliment, expliquant qu’elle suit pour l’instant un chemin personnel.
+Il tente également d’amener **[[Orla]]** à considérer son instinct et son rapport à la nature comme une forme de foi qui pourrait être dirigée vers les Huit. Orla refuse poliment, expliquant qu’elle suit pour l’instant un chemin personnel.
 
-Lorsque celle-ci défend son artisanat fondé sur des matériaux naturels, **Elyra Tann** l’interroge sèchement sur la contradiction consistant à se rapprocher de la nature en lui prélevant des morceaux. Orla se lance dans une longue explication sur le cycle des matières, leur sublimation et leur retour à la terre. Elyra finit par décrocher complètement de la conversation, laissant refroidir son repas.
+Lorsque celle-ci défend son artisanat fondé sur des matériaux naturels, **[[Elyra Thane]]** l’interroge sèchement sur la contradiction consistant à se rapprocher de la nature en lui prélevant des morceaux. Orla se lance dans une longue explication sur le cycle des matières, leur sublimation et leur retour à la terre. Elyra finit par décrocher complètement de la conversation, laissant refroidir son repas.
 
 ---
 
@@ -62,7 +62,7 @@ Lorsque celle-ci défend son artisanat fondé sur des matériaux naturels, **Ely
 
 Les héros évoquent ensuite le cerf découvert dans le temple : ses yeux injectés de sang, son comportement furieux et les pieux plantés dans son corps.
 
-Am’Hok estime qu’il s’agissait probablement d’une corruption magique provoquée par les gnolls. Il affirme que les prêtres des Huit auraient également été capables de purifier une créature atteinte de cette manière.
+Am’Hok estime qu’il s’agissait probablement d’une corruption magique provoquée par les [[Gnolls|gnolls]]. Il affirme que les prêtres des Huit auraient également été capables de purifier une créature atteinte de cette manière.
 
 Il paraît néanmoins sincèrement surpris que l’animal ait survécu après le retrait des pieux. Son manque apparent de soulagement interpelle Nyxara, qui lui fait remarquer qu’il ne semble pas particulièrement heureux de savoir le cerf encore vivant.
 
@@ -82,7 +82,7 @@ Am’Hok demande ensuite aux héros s’ils accepteraient de retourner dans la S
 
 Orla rappelle que la proximité des gnolls rend la région particulièrement dangereuse. Zooki minimise au contraire les difficultés rencontrées pendant leur première expédition, qu’il présente presque comme une promenade.
 
-**Doran Pell** intervient pour rappeler que le travail des Défricheurs est extrêmement dangereux et que les héros ont probablement simplement eu beaucoup de chance. Il renouvelle néanmoins sa gratitude pour l’aide apportée à son fils et à lui-même.
+**[[Doran Pell]]** intervient pour rappeler que le travail des [[Défricheurs]] est extrêmement dangereux et que les héros ont probablement simplement eu beaucoup de chance. Il renouvelle néanmoins sa gratitude pour l’aide apportée à son fils et à lui-même.
 
 Am’Hok ne révèle pas immédiatement la raison de ses questions. Il semble manifestement préparer le terrain pour une proposition plus importante.
 
@@ -92,9 +92,9 @@ Le plat principal est alors servi : du gibier porcin rôti aux braises, accompag
 
 ## Le débat autour du monolithe
 
-La conversation revient sur le monolithe en construction.
+La conversation revient sur le [[Monolithe de Koruha|monolithe]] en construction.
 
-Tori confronte directement Am’Hok. Les Veilleurs ont déjà vu la Selve engloutir des tours, des villages et des fortifications entières : il ne comprend donc pas comment une structure de bois pourrait protéger Koruha.
+Tori confronte directement Am’Hok. Les [[Veilleurs]] ont déjà vu la Selve engloutir des tours, des villages et des fortifications entières : il ne comprend donc pas comment une structure de bois pourrait protéger Koruha.
 
 Am’Hok répond que le monolithe n’est pas seulement une construction physique. Il doit devenir :
 
@@ -109,13 +109,13 @@ Am’Hok répond que le monolithe n’est pas seulement une construction physiqu
 
 Il annonce surtout que **Koruha ne sera plus déplacée jusqu’à nouvel ordre**. Le culte compte établir une position permanente et arrêter la Selve plutôt que continuer à lui céder du terrain.
 
-Tori lui reproche le confort de cette décision, prise depuis les hauteurs de Thalarym par des dirigeants qui ne vivent pas quotidiennement sous la menace de la forêt. Am’Hok évite l’affrontement ouvert, mais maintient sa position.
+Tori lui reproche le confort de cette décision, prise depuis les hauteurs de [[Thalarym]] par des dirigeants qui ne vivent pas quotidiennement sous la menace de la forêt. Am’Hok évite l’affrontement ouvert, mais maintient sa position.
 
-Il affirme que toutes les grandes villes de Naeth possèdent un monolithe, et que Koruha est la seule à ne plus en avoir. Il finit cependant par admettre qu’un ancien monolithe de Koruha pourrait encore exister, beaucoup plus profondément dans la Selve, à l’emplacement historique du Royaume Sylvestre Occidental.
+Il affirme que toutes les grandes villes de Naeth possèdent un monolithe, et que Koruha est la seule à ne plus en avoir. Il finit cependant par admettre qu’un ancien monolithe de Koruha pourrait encore exister, beaucoup plus profondément dans la Selve, à l’emplacement historique du [[Royaume Sylvestre Occidental]].
 
 Cette information pourrait correspondre au point entouré plusieurs fois sur la carte volée dans la tente d’Am’Hok, mais aucun lien explicite n’est établi pendant la séance.
 
-Orla raconte qu’à Ormeval, le monolithe sert surtout à procurer de l’ombre, à faire sécher certaines productions et à soutenir diverses installations pratiques. Cette vision particulièrement prosaïque du monument semble agacer Am’Hok.
+Orla raconte qu’à [[Ormeval]], le monolithe sert surtout à procurer de l’ombre, à faire sécher certaines productions et à soutenir diverses installations pratiques. Cette vision particulièrement prosaïque du monument semble agacer Am’Hok.
 
 ---
 
@@ -123,9 +123,9 @@ Orla raconte qu’à Ormeval, le monolithe sert surtout à procurer de l’ombre
 
 La discussion prend ensuite un caractère plus secret.
 
-Les convives jugés non essentiels quittent progressivement la tente. Restent principalement les héros, Am’Hok, Tori, Ox et plusieurs représentants influents de Koruha.
+Les convives jugés non essentiels quittent progressivement la tente. Restent principalement les héros, Am’Hok, Tori, [[Ox]] et plusieurs représentants influents de Koruha.
 
-**Ox** est présenté comme un membre dissident de l’Ordre de Tsaln. Il connaît l’emplacement d’un village situé au cœur de la Selve, nommé **Sève-loin**, où le Khar serait directement cultivé ou produit.
+**Ox** est présenté comme un membre dissident de l’[[Ordre de Tsaln]]. Il connaît l’emplacement d’un village situé au cœur de la Selve, nommé **[[Sève-loin]]**, où le [[Khar]] serait directement cultivé ou produit.
 
 L’objectif de l’expédition est de rejoindre ce village et de négocier un approvisionnement direct en Khar, sans passer par le monopole de l’Ordre de Tsaln.
 
@@ -184,9 +184,9 @@ Il ajoute cependant que **tous les membres de l’expédition ne reviendront pas
 
 ## Mira, Tori et les différentes factions
 
-Tori fait comprendre discrètement aux héros que **Mira est déjà informée de l’expédition**.
+Tori fait comprendre discrètement aux héros que **[[Mira Vanis|Mira]] est déjà informée de l’expédition**.
 
-Elle se méfie du Culte des Huit, mais également du Pacte des Initiés et de l’ensemble des jeux d’influence qui se mettent en place autour de Koruha. Elle a donc choisi de ne pas participer elle-même et envoie Tori pour observer le déroulement des opérations et représenter ses intérêts.
+Elle se méfie du Culte des Huit, mais également du [[Pacte des Initiés]] et de l’ensemble des jeux d’influence qui se mettent en place autour de Koruha. Elle a donc choisi de ne pas participer elle-même et envoie Tori pour observer le déroulement des opérations et représenter ses intérêts.
 
 L’expédition doit rassembler des représentants des principales forces de Koruha, chacun surveillant probablement les autres.
 
@@ -196,11 +196,11 @@ L’expédition doit rassembler des représentants des principales forces de Kor
 
 Am’Hok invite les héros à demander une récompense en échange de leur participation.
 
-**Orla** demande une recommandation auprès de la **Confrérie des Cîmes**, qu’elle rêve de rejoindre. Am’Hok promet de parler en sa faveur, sans pouvoir garantir son admission.
+**Orla** demande une recommandation auprès de la **[[Confrérie des Cîmes]]**, qu’elle rêve de rejoindre. Am’Hok promet de parler en sa faveur, sans pouvoir garantir son admission.
 
-**Josué** demande à pouvoir entrer dans les cavernes des Duergars sous le Mont Urzal afin de poursuivre sa quête. Am’Hok affirme pouvoir lui garantir l’accès à l’une de ces entrées.
+**Josué** demande à pouvoir entrer dans les cavernes des Duergars sous le [[Mont Urzal]] afin de poursuivre sa quête. Am’Hok affirme pouvoir lui garantir l’accès à l’une de ces entrées.
 
-**Nyxara** explique qu’elle aurait besoin d’aide pour approcher un groupe influent lié à la région d’Hyptis. Elle préfère cependant exposer les détails de sa demande en privé.
+**Nyxara** explique qu’elle aurait besoin d’aide pour approcher un groupe influent lié à la région d’[[Hyptis]]. Elle préfère cependant exposer les détails de sa demande en privé.
 
 **Zooki** demande qu’Am’Hok lui accorde un service à une date ultérieure, sans encore préciser sa nature.
 
@@ -214,20 +214,20 @@ Am’Hok ne participera pas personnellement au voyage, car il doit superviser la
 
 L’expédition comprendra environ quinze personnes :
 
-- **Am’Serekh**, un prêtre déjà rencontré par les héros, en sera le responsable officiel pour le Culte des Huit ;
+- **[[Am’Serek Tal]]**, un prêtre déjà rencontré par les héros, en sera le responsable officiel pour le Culte des Huit ;
     
 - **Ox** servira de guide jusqu’à Sève-loin ;
     
-- **Tori** représentera Mira et la Garde Sylvestre ;
+- **Tori** représentera Mira et la [[Garde Sylvestre de Koruha|Garde Sylvestre]] ;
     
-- plusieurs prêtres accompagneront Am’Serekh ;
+- plusieurs prêtres accompagneront Am’Serek Tal ;
     
 - des représentants des Veilleurs et des Défricheurs compléteront le groupe ;
     
 - les quatre héros participeront également à l’opération.
     
 
-**Rétis Vael** finance ou sponsorise une partie de l’expédition. Les héros peuvent remettre une liste de matériel raisonnable, qui sera préparé avant leur départ. Les vivres seront fournis, mais chacun devra gérer son équipement personnel.
+**[[Rethis Vael]]** finance ou sponsorise une partie de l’expédition. Les héros peuvent remettre une liste de matériel raisonnable, qui sera préparé avant leur départ. Les vivres seront fournis, mais chacun devra gérer son équipement personnel.
 
 Le départ est prévu **le lendemain, vers midi**, à proximité du chantier du monolithe.
 
@@ -245,7 +245,7 @@ Ils découvrent **Lola retenue en otage par un homme balafré**, âgé d’une c
 
 Ses avant-bras et ses mains sont couverts de tatouages noirs. Son visage porte de profondes cicatrices évoquant des brûlures ou les traces d’un liquide corrosif.
 
-Les deux compagnons de Lola, **Rob et Bjorg**, semblent avoir déjà été tués.
+Les deux compagnons de Lola, **Rob et [[Bjorg]]**, semblent avoir déjà été tués.
 
 L’agresseur ordonne aux héros de rester à distance. Il s’intéresse particulièrement à la chanson interprétée pendant le dîner.
 
@@ -259,9 +259,9 @@ Zooki inspire magiquement Lola, ce qui lui donne le courage et l’occasion néc
 
 Plusieurs actions marquent le combat :
 
-- **Moule**, le corbeau d’Orla, saisit l’un des couteaux en vol et l’emporte, neutralisant temporairement une des armes.
+- **[[Moule]]**, le corbeau d’Orla, saisit l’un des couteaux en vol et l’emporte, neutralisant temporairement une des armes.
     
-- **Josué** tire une flèche qui passe au-dessus de la tête de l’Écorcheur.
+- **Josué** tire une flèche qui passe au-dessus de la tête de [[L’Écorcheur|l’Écorcheur]].
     
 - **Orla** se glisse à proximité de l’ennemi et déclenche une onde de tonnerre. L’Écorcheur est projeté en arrière et perd son arme principale.
     
@@ -282,7 +282,7 @@ Les couteaux encore suspendus tombent au sol. L’Écorcheur s’effondre à gen
 
 Pendant l’affrontement puis l’interrogatoire, l’homme révèle appartenir à un groupe connu sous le nom des **Treize**. Il est lui-même surnommé **l’Écorcheur**.
 
-La Complainte du Goupil raconte effectivement une opération menée autrefois par les Treize.
+La Complainte du Goupil raconte effectivement une opération menée autrefois par [[Les Treize|les Treize]].
 
 Ils avaient attaqué un village et massacré ses habitants afin de retrouver un enfant roux qui jouait de la flûte. Cet enfant devait mourir avec les autres, mais il leur avait échappé.
 
@@ -306,7 +306,7 @@ En voyant Zooki jouer de la flûte et en remarquant certains détails de son app
 
 Elle n’avait évidemment pas prévu que cette interprétation attirerait immédiatement un assassin.
 
-Lola a perdu le contact avec son maître. Aux dernières nouvelles, il se produisait dans la grande ville portuaire du nord, vraisemblablement **Dratholm**.
+Lola a perdu le contact avec son maître. Aux dernières nouvelles, il se produisait dans la grande ville portuaire du nord, vraisemblablement **[[Dratholm]]**.
 
 ---
 
@@ -328,11 +328,11 @@ Les Treize ne sont désormais plus que douze.
 
 ## Conséquences immédiates
 
-En examinant le corps de l’Écorcheur, les héros constatent que ses cicatrices et ses pouvoirs pourraient provenir d’une exposition aux **Larmes de Lune**. Sa capacité à manipuler les couteaux était probablement un pouvoir acquis après avoir été touché par la lune.
+En examinant le corps de l’Écorcheur, les héros constatent que ses cicatrices et ses pouvoirs pourraient provenir d’une exposition aux **[[Larmes de Lune]]**. Sa capacité à manipuler les couteaux était probablement un pouvoir acquis après avoir été touché par la lune.
 
 Ils ne trouvent rien de particulièrement utile sur lui en dehors de ses armes et de ses tatouages.
 
-Des prêtres et des sentinelles arrivent peu après.
+Des prêtres et des [[Sentinelles|sentinelles]] arrivent peu après.
 
 Les héros choisissent de ne révéler ni le lien entre la chanson et Zooki, ni l’existence des Treize. Ils présentent simplement l’homme comme un bandit ayant attaqué Lola et ses compagnons.
 
@@ -367,20 +367,8 @@ La séance s’achève alors que les autorités prennent le contrôle de la scè
 - Les héros ont caché aux autorités la véritable nature de l’affrontement.
     
 
-## Secret MJ / information hors personnage
+## Questions encore ouvertes
 
-**Ox est Maro déguisé.** Cette identité n’a pas été révélée aux personnages pendant la séance.
-
-# Points à confirmer
-
-1. **Am’Serekh** : le transcript donne successivement « Amserek », « Am Serectag » et d’autres variantes. J’ai retenu Am’Serekh comme forme provisoire.
-    
-2. **Bjorg ou Diorg** : le nom du second compagnon de Lola varie dans la transcription. « Bjorg » semble être prononcé au moment de sa vengeance.
-    
-3. **Dratholm** : le nom de la ville où se trouverait le maître de Lola est très mal transcrit, mais la description correspond clairement au grand port du nord.
-    
-4. **Durée du voyage** : le transcript semble indiquer deux ou trois jours pour des membres expérimentés de l’Ordre de Tsaln, et probablement autour de cinq jours pour la grande expédition.
-    
-5. **Prise de conscience de Zooki** : son jet d’Histoire indique qu’il comprend très tôt que la chanson raconte son passé, mais il faudrait confirmer s’il reconnaît immédiatement tous les détails ou seulement le fait qu’elle lui est liée.
-    
-6. **Lien entre l’ancien monolithe et la carte d’Am’Hok** : il est très plausible que le point entouré au sud-ouest corresponde à cet ancien monument, mais cela n’a pas été explicitement confirmé en jeu.
+- Pourquoi [[Les Treize]] cherchaient-ils [[Zooki]] lorsqu’il était enfant ?
+- Où se trouve aujourd’hui l’ancien maître de [[Lola]] ?
+- L’ancien monolithe du [[Royaume Sylvestre Occidental]] est-il lié au point marqué sur la carte d’[[Am'Hok Dun|Am’Hok]] ? Cette hypothèse n’a pas été confirmée.

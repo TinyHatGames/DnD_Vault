@@ -1,7 +1,9 @@
-Bande de bandits aux mains tatouées entièrement noires.
+Bande d’assassins et de bandits aux mains tatouées entièrement noires. Leur emblème est un croissant noir barré de trois traits.
 
-Ce sont eux que [[Zooki]] recherche, et particulièrement leur leader. [[Maro]] aussi, on ne sait pas pourquoi.
+Ils ont incendié le village de [[Zooki]] afin de tuer l’enfant roux qui jouait de la flûte. Le motif reste inconnu. Zooki recherche particulièrement leur chef ; [[Maro]] enquête lui aussi sur eux et a rejoint le [[Pacte des Initiés]] en partie pour obtenir des informations.
 
-Le [[Viridien]] est un ancien membre, la bande s'est séparée il y a des années. Il a conservé le symbole de la Lune en retirant les trois traits en travers.
+[[Le Viridien]] est un ancien membre. Lors de la séparation du groupe, il a conservé le symbole lunaire en retirant les trois traits.
+
+[[L’Écorcheur]], l’un des Treize, a retrouvé Zooki grâce à la [[Complainte du Goupil]]. Il a été tué par [[Lola]] après avoir assassiné [[Rob]] et [[Bjorg]]. Les Treize ne sont désormais plus que douze.
 
 ![[13.png]]

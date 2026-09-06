@@ -3,7 +3,7 @@
 ```statblock
 layout: Basic 5e Layout
 image: "Elf_Watcher.png"
-name: Aelwyn, Veilleur de Rillifane
+name: Aelwyn, [[Veilleurs|Veilleur]] de Rillifane
 size: Medium
 type: humanoïde
 subtype: elfe
@@ -41,3 +41,9 @@ actions:
     desc: "Attaque de mêlée : +4 pour toucher, allonge 5 ft., une cible. Touché : 3 (1d6) dégâts contondants."
 
 ```
+
+## Rôle dans la campagne
+
+Veilleur de [[Rillifane Rallathil]] qui étudiait le [[Temple de Rillifane]] avant d’être capturé par les [[Gnolls|gnolls]] de [[Varkh]]. Terrorisé mais lucide, il connaissait les glyphes et l’histoire du sanctuaire. Une fois libéré, il a aidé les héros à activer l’autel avec la [[Marque du Serment]].
+
+Après la restauration du temple, il a immédiatement sympathisé avec [[Lafel]].

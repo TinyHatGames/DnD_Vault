@@ -1,1 +1,5 @@
-Gravir le [[Mont Urzal]] est une tâche quasi impossible sans préparation, et bien des pèlerins font appel aux guides de la [[Confrérie des Cîmes]] pour tenter l'ascension. Un certain nombre de villages étapes et de temples sont sur la route jusqu'à environ la moitié de la montagne, passé ce niveau, la montagne est trop escarpée.
+# Confrérie des Cîmes
+
+Guilde de guides spécialisés dans l’ascension du [[Mont Urzal]]. Les pèlerins traversent avec eux des villages-étapes et des temples jusqu’à mi-hauteur ; au-delà, la montagne devient extrêmement escarpée.
+
+[[Orla]] a négocié avec [[Am'Hok Dun|Am’Hok Dun]] une recommandation auprès de la Confrérie en échange de sa participation à l’expédition vers [[Sève-loin]].

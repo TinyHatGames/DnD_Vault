@@ -1,6 +1,14 @@
+# Zooki
+
 ![[Zooki.png]]
 
+Gnome barde roux, flûtiste, improvisateur et négociateur du groupe. Son village du nord de [[Naeth]] a été incendié par [[Les Treize]], qui cherchaient à le tuer lorsqu’il était enfant. Il ignore toujours pourquoi.
+
+Il a adopté le petit singe [[Guillard]] et s’est lié aux musiciens [[Lola]], [[Rob]] et [[Bjorg]]. La mort des deux derniers et les aveux de [[L’Écorcheur]] ont confirmé que les Treize le recherchent encore.
+
 ## La Complainte du Goupil
+
+Voir aussi [[Complainte du Goupil]].
 
 Un soir de brume, au seuil des blés,  
 La fumée s'envola avec l'aurore.  

@@ -1,6 +1,6 @@
 ## Précédemment, dans **_La Nuit des Racines et du Sang_**…
 
-*Dans les profondeurs d’une prison façonnée par la forêt, quatre voyageurs s’éveillèrent parmi les racines palpitantes d’un étrange sanctuaire vivant. Nyxara, l’ombre silencieuse ; Zooki, le gnome charmeur à la flûte fidèle ; Orla, la petite mère au cœur vaste comme un bosquet ; et Josué, l’homme au fardeau de pierre.*
+*Dans les profondeurs d’une prison façonnée par la forêt, quatre voyageurs s’éveillèrent parmi les racines palpitantes d’un étrange sanctuaire vivant. [[Nyxara]], l’ombre silencieuse ; [[Zooki]], le gnome charmeur à la flûte fidèle ; [[Orla]], la petite mère au cœur vaste comme un bosquet ; et [[Josué]], l’homme au fardeau de pierre.*
 
 *Un halfling au regard ancien, Maro, partageait leur geôle… et un destin encore voilé.*
 
@@ -8,11 +8,11 @@
 
 *Mais à la lisière de la Selve, la terre gronda.*
 *Une corne funeste fractura le silence.*  
-*Koruha brûlait.*
+*[[Koruha]] brûlait.*
 
-*Une horde de Gnolls jaillit des ombres, et deux des créatures les frappèrent d'un assaut brutal et soudain. Leur courage désespéré eut raison des bêtes, mais la forêt avait perdu sa paix.*
+*Une horde de [[Gnolls]] jaillit des ombres, et deux des créatures les frappèrent d'un assaut brutal et soudain. Leur courage désespéré eut raison des bêtes, mais la forêt avait perdu sa paix.*
 
-*Escortés par les gardes à travers une ville blessée, ils furent menés devant Mira Vanis, capitaine aux cheveux de lune et à l’œil d’obsidienne.*
+*Escortés par les gardes à travers une ville blessée, ils furent menés devant [[Mira Vanis]], capitaine aux cheveux de lune et à l’œil d’obsidienne.*
 
 *La nuit tenait encore son souffle. L’histoire, elle, ne faisait que commencer.*
 
@@ -20,7 +20,7 @@
 
 ## Discussion avec Mira
 
-Notre histoire reprend donc dans la caserne de la Garde Sylvestre. Bâtiment le plus grand de toute la ville, la caserne est faite de bois variés. Sa forme rappelle celle d'un navire retourné strié et couvert de meurtrières. Des pieds massifs ancrent sa structure dans le sol.
+Notre histoire reprend donc dans la caserne de la [[Garde Sylvestre de Koruha|Garde Sylvestre]]. Bâtiment le plus grand de toute la ville, la caserne est faite de bois variés. Sa forme rappelle celle d'un navire retourné strié et couvert de meurtrières. Des pieds massifs ancrent sa structure dans le sol.
 
 À l'intérieur, un gigantesque hall constitué d'une esplanade intérieure surélevée dans le fond et de plateformes clairsemées accessibles via un dédale d'escaliers. Sur les côtés, des couloirs symétriques bardés de portes mènent aux dortoirs, aux salles d'eau et aux latrines. 
 
@@ -34,7 +34,7 @@ Elle s'adresse aux gardes qui vous entourent.
 
 Les gardes s'exécutent, tapent du poing sur leurs poitrines, et sortent de la salle.
 
-Le capitaine se retourne. C'est une elfe d'environ 1m80, ridée, aux cheveux blancs nacrés et à la peau violette. Âgée, mais au physique toujours saillant et d'une prestance qui force le respect. Vêtue de la même armure de cuir bleu râpée que ses sentinelles, tachée de sang, elle porte sur son visage cet air de confiance absolue qui attend de tous ses interlocuteurs une déférence absolue.
+Le capitaine se retourne. C'est une elfe d'environ 1m80, ridée, aux cheveux blancs nacrés et à la peau violette. Âgée, mais au physique toujours saillant et d'une prestance qui force le respect. Vêtue de la même armure de cuir bleu râpée que ses [[Sentinelles|sentinelles]], tachée de sang, elle porte sur son visage cet air de confiance absolue qui attend de tous ses interlocuteurs une déférence absolue.
 
 Ses yeux sondent un à un chaque membre du groupe, puis finissent par se poser sur Zooki.
 
@@ -42,12 +42,12 @@ Ses yeux sondent un à un chaque membre du groupe, puis finissent par se poser s
 
 S'en suit une discussion avec les protagonistes. Mira Vanis est dure et directive, mais juste.
 
-- L'objectif de Mira est d'envoyer le groupe dans la [[Selve Sélène]] pour enquêter suite à la découverte d'un sceau divin elfique sur l'un des Kobolds ayant participé à l'attaque. Les veilleurs ont identifié le sceau, qui semble provenir d'un ancien temple du Royaume Sylvestre. Les indications de direction sont assez vagues, les ruines du royaume les plus proches connues sont au nord-ouest.
+- L'objectif de Mira est d'envoyer le groupe dans la [[Selve Sélène]] pour enquêter suite à la découverte d'un [[Marque du Serment|sceau]] divin elfique sur l'un des Kobolds ayant participé à l'attaque. Les [[Veilleurs|veilleurs]] ont identifié le sceau, qui semble provenir d'un ancien temple du [[Royaume Sylvestre Occidental|Royaume Sylvestre]]. Les indications de direction sont assez vagues, les ruines du royaume les plus proches connues sont au nord-ouest.
 - Elle légitime l'emploi des nouveaux arrivants en prétextant qu'elle veut leur "laisser une chance de faire leurs preuves". Mais elle a besoin d'une garantie, ils garderont donc leurs bracelets runiques.
 - La marge de négociation est assez restreinte. Les héros sont littéralement dans la caserne de la garde... Ils peuvent poser des questions sur la ville, sur la forêt. Mira est assez ouverte, sauf dès qu'il s'agit des détails concernant les attaques, leur origine, etc.
 - Si on parle de [[Maro]], elle se montre très intéressée et intriguée. Elle prend des notes et pose des questions sur lui.
 
-Une fois la discussion terminée, Mira congédie les héros et leur dit qu'ils peuvent dormir à l'[[Privé/Lieux/Villes/Koruha#Auberge de la Canopée|Auberge de la Canopée]] (ils peuvent avoir un prix s'ils disent venir de sa part) ou trouver un coin dans la caserne s'ils ont "peur du vide" (elle ricanne). Elle leur conseille cependant de partir dès le lendemain matin pour maximiser le temps d'ensoleillement et éviter les dangers de la nuit...
+Une fois la discussion terminée, Mira congédie les héros et leur dit qu'ils peuvent dormir à l'[[Auberge de la Canopée]] (ils peuvent avoir un prix s'ils disent venir de sa part) ou trouver un coin dans la caserne s'ils ont "peur du vide" (elle ricanne). Elle leur conseille cependant de partir dès le lendemain matin pour maximiser le temps d'ensoleillement et éviter les dangers de la nuit...
 
 ## Auberge de la Canopée
 
@@ -58,18 +58,18 @@ Une fois arrivés à la canopée, les héros s'aperçoivent que l'auberge est da
 - Au bar, un thiefling d'une quarantaine d'années les accoste :
 	- "Bienvenue à la canopée ! Installez-vous, j'arrive tout de suite."
 - Les joueurs ont le temps de se poser avant de commander tandis que l'aubergiste s'affaire derrière son comptoir. Il finit par apporter une soupe et une bière à l'individu du fond de la pièce (les joueurs peuvent ou non s'en apercevoir en fonction du contexte). Il vient ensuite voir les joueurs :
-	- Qu'est-ce que je peux faire pour vous, en ce bon soir de raid Gnoll ? J'espère que les bestioles ne vous ont pas trop causé de tord ?
+	- Qu'est-ce que je peux faire pour vous, en ce bon soir de raid [[Gnoll]] ? J'espère que les bestioles ne vous ont pas trop causé de tord ?
 	- Les héros peuvent commander de la soupe de baies et de racines et de la bière forestière. S'ils parlent de Mira, ils ont tout à moitié prix (5pc la nuit, 1pc la soupe). L'aubergiste n'a pas grand chose à vendre, mais suggère le grand marché le lendemain matin si les héros veulent acheter des choses.
-- Une fois la discussion terminée, [[Privé/PNJ/Personnages Importants/Maro|Maro]] vient les voir. Il retire sa capuche et demande aux joueurs s'il peut s'assoir.
+- Une fois la discussion terminée, [[Maro]] vient les voir. Il retire sa capuche et demande aux joueurs s'il peut s'assoir.
 	- Après quelques banalités, il souhaite leur parler et obtenir des infos sur la mission que Mira leur a donné. Libre aux joueurs d'accepter ou non. Il est prêt à les suivre si les joueurs en font la suggestion, mais il préfère les laisser faire si possible. Il récupère surtout des infos. Si les joueurs le questionnent, il finit par admettre son appartenance à un "groupe d'influence qui leur veut du bien", mais reste vague et s'enfuit, prétextant la fatigue s'ils le pressent trop. S'ils l'observent bien, ils peuvent s'apercevoir une fois encore de l'encoche dans son oreille et de son physique extrêmement musclé pour son âge.
 
-Le lendemain matin, les héros peuvent aller au [[Privé/Lieux/Villes/Koruha#Grand Marché de Koruha|Grand Marché de Koruha]], ou s'élancer dans la selve. S'ils vont au marché, on improvise en gardant en tête la nature du marché - la ville est pauvre et les étals assez vides, les arnaques sont nombreuses mais les gens avenants.
+Le lendemain matin, les héros peuvent aller au [[Grand Marché de Koruha]], ou s'élancer dans la selve. S'ils vont au marché, on improvise en gardant en tête la nature du marché - la ville est pauvre et les étals assez vides, les arnaques sont nombreuses mais les gens avenants.
 
 ## Trajet vers le Temple
 
 Les joueurs sont libres d'appréhender le trajet comme ils le désirent. Ils peuvent trouver un guide par ex, ou simplement s'élancer vers le temple. Au bout de quelques heures, ils comprennent que le feuillage de l'arbre du sceau s'éclaire lorsqu'il est pointé dans une certaine direction.
 
-Sur le trajet vers le temple, après avoir contourné un tronc colossal, le groupe est attiré hors du sentier par de petites silhouettes masquées : des **Chwingas**, esprits farceurs de la Selve. L’un d’eux subtilise le sceau et s’enfuit, provoquant volontairement les aventuriers. Les Chwingas ne cherchent ni à fuir loin, ni à se cacher totalement : ils veulent être suivis et observés.
+Sur le trajet vers le temple, après avoir contourné un tronc colossal, le groupe est attiré hors du sentier par de petites silhouettes masquées : des **[[Chwingas]]**, esprits farceurs de la Selve. L’un d’eux subtilise le sceau et s’enfuit, provoquant volontairement les aventuriers. Les Chwingas ne cherchent ni à fuir loin, ni à se cacher totalement : ils veulent être suivis et observés.
 
 Si les personnages s’arrêtent, jouent, offrent quelque chose ou s’adressent respectueusement à la Selve, les Chwingas rendent le sceau sans résistance, parfois accompagnés d’un petit signe de faveur (**une mangue violette qui rend 1d4 PV** - DC10 pour l'identifier, jet de nature).
 Si les personnages tentent de les piéger intelligemment, les Chwingas acceptent la défaite avec amusement.
@@ -81,11 +81,11 @@ En revanche, si les personnages recourent à la violence, les Chwingas disparais
 ### 1️⃣ Entrée du temple — Le Gardien asservi
 
 Les ruines du temple émergent de la Selve, à moitié englouties par les racines et les lianes.  
-L’entrée est gardée par un **grand cerf corrompu**, amaigri, entravé par des cordes gnolls et marqué de peintures rituelles.
+L’entrée est gardée par un **grand [[Cerf Corrompu|cerf corrompu]]**, amaigri, entravé par des cordes gnolls et marqué de peintures rituelles.
 L’animal est nerveux mais pas foncièrement hostile.
 Les personnages peuvent l’affronter, le nourrir, le calmer ou tenter de communiquer avec lui.
 
-Le tuer est possible, mais lourd de sens dans un temple de **Rillifane**.
+Le tuer est possible, mais lourd de sens dans un temple de **[[Rillifane Rallathil|Rillifane]]**.
 Libérer ou apaiser la bête est perçu favorablement par le lieu.
 Des traces indiquent que les Gnolls passent régulièrement par ici.
 

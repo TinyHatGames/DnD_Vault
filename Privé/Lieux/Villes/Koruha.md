@@ -1,6 +1,6 @@
 ## Géographie
 
-Située à la lisière de la [[Selve Sélène]], [[Privé/Lieux/Villes/Koruha|Koruha]] s'apparente désormais plus à un camp de fortune gigantesque et mobile qu'à une véritable ville.
+Située à la lisière de la [[Selve Sélène]], Koruha s'apparente désormais plus à un camp de fortune gigantesque et mobile qu'à une véritable ville.
 
 Au fil des générations, les efforts pour maintenir des habitations permanentes ont fini par céder la place à la fabrication d'ingénieuses bâtisses de bois mobiles. Certaines sont pourvues de roues et sont tirées par des attelages, d'autres sont démontables, et certaines sont mêmes déplacées par des druides via de puissantes incantations.
 
@@ -10,20 +10,20 @@ Jadis, Koruha était le joyau du [[Royaume Sylvestre Occidental]], vaste contré
 
 ## Population
 
-Aujourd'hui, bien que plus de la moitié des habitants soient toujours des Elfes ou d'origine elfique, des aventuriers des quatre coins de [[Privé/Lieux/Naeth|Naeth]] y vivent également. Certains travaillent pour la [[Garde Sylvestre de Koruha]], dont la vocation est d'empêcher la progression de la [[Selve Sélène]] par tous le moyens possibles. D'autres profitent des besoins de la population locale pour commercer. Enfin, certains habitants s'aventurent au péril de leurs vies dans la Selve elle-même pour en cueillir les fruits : plantes rares, ruines riches en artefacts, et bien plus encore.
+Aujourd'hui, bien que plus de la moitié des habitants soient toujours des Elfes ou d'origine elfique, des aventuriers des quatre coins de [[Naeth]] y vivent également. Certains travaillent pour la [[Garde Sylvestre de Koruha]], dont la vocation est d'empêcher la progression de la [[Selve Sélène]] par tous le moyens possibles. D'autres profitent des besoins de la population locale pour commercer. Enfin, certains habitants s'aventurent au péril de leurs vies dans la Selve elle-même pour en cueillir les fruits : plantes rares, ruines riches en artefacts, et bien plus encore.
 
 ## Jugement de la Selve
 
-Une des coutumes de [[Privé/Lieux/Naeth|Naeth]] veut que ses pires criminels, au lieu de pourrir en prison ou d'être exécutés, soient lâchés dans les profondeurs de la Selve sans équipement ni vivres. Véritable rite mystique, on l'appelle le [[Jugement de la Selve]]. Si les criminels reviennent sains et saufs, on leur rend leur liberté et leurs possessions. Cela n'arrive presque jamais, mais certains personnages illustres ont réussi l'épreuve. C'est le cas de [[Privé/PNJ/Personnages Importants/Mira Vanis|Mira Vanis]], capitaine de la [[Garde Sylvestre de Koruha]].
+Une des coutumes de [[Naeth]] veut que ses pires criminels, au lieu de pourrir en prison ou d'être exécutés, soient lâchés dans les profondeurs de la Selve sans équipement ni vivres. Véritable rite mystique, on l'appelle le [[Jugement de la Selve]]. Si les criminels reviennent sains et saufs, on leur rend leur liberté et leurs possessions. Cela n'arrive presque jamais, mais certains personnages illustres ont réussi l'épreuve. C'est le cas de [[Mira Vanis]], capitaine de la [[Garde Sylvestre de Koruha]].
 
 ## Coutumes 
 
 À Koruha :
 - Il est fréquent de voir des **colibris** dont émane une faible lueur bleuté voler dans les rues et même rentrer dans les logis. Ce sont des messagers, ils travaillent en échange d'eau sucrée. Touchés par la lune, ils peuvent communiquer avec les humains et vivent en symbiose avec les résidents.
-- Les modes de transport des bâtiments où vivent les *Koruhates* sont variés, et incluent toutes sortes de bêtes (chevaux, crapauds géants, araignées géantes, blaireaux géants...). Les plupart des bâtiments sont pourvus de roues en bois, mais certains sont pourvus de systèmes ingénieux de pattes mécaniques, inventés par les gnomes faisant partie des veilleurs de la [[Garde Sylvestre de Koruha]].
+- Les modes de transport des bâtiments où vivent les *Koruhates* sont variés, et incluent toutes sortes de bêtes (chevaux, crapauds géants, araignées géantes, blaireaux géants...). Les plupart des bâtiments sont pourvus de roues en bois, mais certains sont pourvus de systèmes ingénieux de pattes mécaniques, inventés par les gnomes faisant partie des [[Veilleurs|veilleurs]] de la [[Garde Sylvestre de Koruha]].
 - Au levé du jour, les structures repliées pour la nuit s'ouvrent comme des fleurs. Des étals colorés font leur apparition, des volets mousseux se déploient, les toiles se déroulent, et la vie reprend son cours.
 
-## Auberge de la Canopée
+## [[Auberge de la Canopée]]
 
 L’Auberge de la Canopée est l’un des rares lieux de Koruha à ne pas toucher le sol.
 Suspendue au cœur des feuillages, elle est maintenue par un réseau de lianes vivantes qui l’arriment aux arbres environnants.
@@ -37,7 +37,7 @@ On y entend la Selve respirer la nuit, sans hostilité — comme une présence a
 La Canopée a la réputation d’être protégée, respectée par la forêt autant que par ceux qui la défient.
 [[Mira Vanis]] la considère comme un refuge sûr avant toute expédition dans la Selve.
 
-## Grand Marché de Koruha
+## [[Grand Marché de Koruha]]
 
 ![[Marché_Koruha.jpeg]]
 
@@ -48,3 +48,16 @@ Malgré des marchandises parfois maigres, l’ambiance est bruyante, rieuse, obs
 
 Le marché de Koruha est un acte de défi quotidien :  
 peu importe ce que la Selve reprend, la ville **refleurit chaque matin**.
+
+## Lieux notables
+
+- La [[Caserne de Koruha]], quartier général de la Garde.
+- La [[Prison racinaire de Koruha]], où commence la campagne.
+- L’[[Auberge des Guides]], où fut engagé [[Lafel]].
+- Le [[Monolithe de Koruha]], chantier fixe du [[Culte des Huit]].
+
+## Situation actuelle
+
+Les attaques de [[Gnolls]] sont devenues plus coordonnées sous l’influence du [[Le Viridien|Viridien]]. Après une incursion nocturne, [[Am'Hok Dun|Am’Hok Dun]] et une délégation des [[Huit]] sont venus porter secours à la population tout en renforçant l’autorité du culte.
+
+Le projet de monolithe remet en cause la stratégie fondamentale de la ville : Am’Hok a annoncé que Koruha ne serait plus déplacée, alors que la cité survit depuis des générations en reculant devant la Selve.

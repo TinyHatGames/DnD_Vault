@@ -1,3 +1,7 @@
-Capitale et centre du pouvoir de [[Privé/Lieux/Naeth]]. Dominée par une classe aristocratique de goliaths vivant en quasi autarcie sur son plus haut pic, l'[[Aiguille]]. Autrefois, ils furent les premiers à gravir la montagne et à s'installer à son sommet. Les maisons dynastiques qui contrôlent encore la ville aujourd'hui sont les descendants de ces explorateurs. On dit qu'ils ont trouvé une magie puissante au sommet de la montagne et qu'elle leur donne une vie extrêmement longue pour des goliaths. Le chef suprême de la cité est le leader de la maison dominante, le [[Prima]].
+# Thalarym
 
-Les dirigeants goliath sont secondés par le [[Synode des Exilés]]. Caste dominante de la capitale, ils contrôlent la politique et le commerce de la cité. Ils sont extrêmement xénophobes et traitent les autres espèces comme des citoyens de seconde zone. Autrefois, les elfes vivaient dans des cités somptueuses à l'ouest de l'île avant que leur royaume (Royaume Sylvestre Occidental) ne soit dévoré par la jungle. Aujourd'hui ils ne sont plus aussi nombreux, mais ils sont toujours très influents.
+Capitale de [[Naeth]], installée au sommet du [[Mont Urzal]] et dominée par l’[[Aiguille]]. Les maisons dynastiques goliaths descendent des premiers explorateurs du massif. On dit qu’une magie découverte au sommet leur confère une longévité exceptionnelle.
+
+Le chef de la maison dominante parmi les [[Huit]] porte le titre de [[Prima]] ; le titulaire actuel est [[Kol'Darûn]], de la maison [[Lo-Kag]]. Thalarym est aussi le centre du [[Culte des Huit]] et le modèle religieux des [[Monolithes des Huit]].
+
+Les dirigeants goliaths sont secondés par le [[Synode des Exilés]], caste elfique influente qui contrôle une grande part de la politique et du commerce. Cette élite traite les autres peuples comme des citoyens de seconde zone.

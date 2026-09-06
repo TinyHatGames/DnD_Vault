@@ -1,6 +1,6 @@
 ## Précédemment, dans **le Serment de Rillifane**…
 
-*À la demande de **Mira Vanis**, capitaine de la Garde Sylvestre de Koruha, Nyx, Zouk, Josué et Orla s’aventurèrent dans la Selve afin d’enquêter sur un seau récupéré lors de l'attaque de la ville, qui semblait provenir d'un temple englouti par la Selve. Accompagnés de leur guide **Lafel**, ils quittèrent les abords de la cité et s’enfoncèrent dans la forêt profonde, là où les racines épaisses soulevaient la terre et où la lumière du jour se perdait sous la canopée.*
+*À la demande de **[[Mira Vanis]]**, capitaine de la [[Garde Sylvestre de Koruha]], [[Nyxara|Nyx]], [[Zooki|Zouk]], [[Josué]] et [[Orla]] s’aventurèrent dans [[Selve Sélène|la Selve]] afin d’enquêter sur un seau récupéré lors de l'attaque de la ville, qui semblait provenir d'un temple englouti par la Selve. Accompagnés de leur guide **[[Lafel]]**, ils quittèrent les abords de la cité et s’enfoncèrent dans la forêt profonde, là où les racines épaisses soulevaient la terre et où la lumière du jour se perdait sous la canopée.*
 
 *Après plusieurs heures de marche à travers la végétation dense, ils atteignirent finalement une clairière oubliée au cœur de la jungle, à la tombée du jour. Là se dressait le temple, ancien sanctuaire elfique lentement repris par la Selve. Mais l’entrée n’était pas abandonnée : un cerf imposant, mutilé et enchaîné, gardait la porte malgré lui. Les compagnons parvinrent à apaiser l’animal et à lui ôter son collier cruel, dissipant peu à peu la magie sombre qui l’entravait, et lui rendant ainsi sa liberté.*
 
@@ -8,13 +8,13 @@
 
 *Plus loin, un pont fragile enjambait un gouffre envahi de **lianes vivantes** qui tentèrent d’agripper les intrus. Après une traversée périlleuse, les compagnons atteignirent enfin la nef principale.*
 
-*Là, ils découvrirent la source de la profanation : un groupe de **gnolls**, mené par le brutal **Varkh**, tentait de contraindre un elfe captif nommé **Aelwyn** à activer l’autel du sanctuaire. Le combat qui suivit fut violent, mais les gnolls furent vaincus et l’elfe libéré.*
+*Là, ils découvrirent la source de la profanation : un groupe de **[[Gnolls|gnolls]]**, mené par le brutal **[[Varkh]]**, tentait de contraindre un elfe captif nommé **[[Aelwyn]]** à activer l’autel du sanctuaire. Le combat qui suivit fut violent, mais les gnolls furent vaincus et l’elfe libéré.*
 
-*Guidés par Aelwyn, les aventuriers placèrent alors la **marque du serment** dans l’autel ancien. Le temple s’éveilla aussitôt, purifiant les souillures laissées par les gnolls et restaurant la majesté du sanctuaire.*
+*Guidés par Aelwyn, les aventuriers placèrent alors la **[[Marque du Serment|marque du serment]]** dans l’autel ancien. Le temple s’éveilla aussitôt, purifiant les souillures laissées par les gnolls et restaurant la majesté du sanctuaire.*
 
-*Dans la lumière renaissante s’éleva alors la voix de **Rillifane Rallathil**, seigneur de la Selve. Le dieu bénit leurs actes et leur révéla deux informations importantes : des détails sur **Maro**, agent du mystérieux **Pacte des Initiés**, et surtout l’ombre grandissante d’un elfe ancien nommé **le Viridien**, qui guidait désormais la Selve contre les cités de Naeth.*
+*Dans la lumière renaissante s’éleva alors la voix de **[[Rillifane Rallathil]]**, seigneur de la Selve. Le dieu bénit leurs actes et leur révéla deux informations importantes : des détails sur **[[Maro]]**, agent du mystérieux **[[Pacte des Initiés]]**, et surtout l’ombre grandissante d’un elfe ancien nommé **[[Le Viridien|le Viridien]]**, qui guidait désormais la Selve contre les cités de [[Naeth]].*
 
-*Les compagnons étaient désormais en possessions d'informations précieuses, mais qu'allaient-ils en faire à leur retour à Koruha ?*
+*Les compagnons étaient désormais en possessions d'informations précieuses, mais qu'allaient-ils en faire à leur retour à [[Koruha]] ?*
 
 ---
 
@@ -30,7 +30,7 @@
 
 - À la sortie, le cerf les attend dans la clairière.
 - Il n’est plus corrompu, il est complètement guéri et une légère lueur bleuté semble en émaner.
-- Il se présente dans la tête de Nyxara comme **Thaelor**, cerf sacré de Rillifane Rallathil et gardien libre du sanctuaire.
+- Il se présente dans la tête de Nyxara comme **[[Thaelor]]**, cerf sacré de Rillifane Rallathil et gardien libre du sanctuaire.
 - Il remercie les PJ et dit à Nyxara que si un jour elle ou ses compagnons ont besoin de lui, il leur suffira de l'appeler (note de GM: seule Nyxara peut l'appeler, seulement dans la Selve ou dans la nature, et uniquement si c'est approprié, urgence ou protection de la nature, sinon il ne reviendra plus).
 - Il s'enfuit dans la forêt après un dernier remerciement.
 
@@ -211,11 +211,11 @@ Important :
 
 ### Événement de retour
 
-**Scène de secours sur la route par les prêtres des Huit**
+**Scène de secours sur la route par les prêtres des [[Huit]]**
 
 ### Ce qu’ils trouvent
 
-- Un groupe de **défricheurs** attaqué récemment.
+- Un groupe de **[[Défricheurs|défricheurs]]** attaqué récemment.
 - Des blessés / survivants.
 - Des prêtres des Huit sont déjà là, en train d’aider. Ils accompagnent un groupe de **sentinels** de la Garde Sylvestre.
 - "La nuit dernière, nous étions encerclés et tout semblait perdu, mais soudain, un frissonnement s'est fait ressentir et nos agresseurs ont pris la fuite".
@@ -224,7 +224,7 @@ Important :
 
 - Montrer que les Huit agissent déjà dans la région.
 - Faire sentir l'impact de la restauration du temple.
-- Introduire le nom d’Am’Hok avant la ville.
+- Introduire le nom d’[[Am'Hok Dun|Am’Hok]] avant la ville.
 - Préparer sa présence comme quelque chose de réel et efficace.
 
 ### Détails importants
@@ -274,7 +274,7 @@ Il console un enfant qui semble avoir été fait orphelin par la dernière attaq
 
 ### Répliques possibles
 
-- “Ainsi donc, vous êtes revenus. Le jugement de la Selve est plus clément qu'on ne me l'avait dit. Loués soit les Huits.”
+- “Ainsi donc, vous êtes revenus. Le [[Jugement de la Selve|jugement de la Selve]] est plus clément qu'on ne me l'avait dit. Loués soit les Huits.”
 
 ---
 
@@ -397,7 +397,7 @@ Il console un enfant qui semble avoir été fait orphelin par la dernière attaq
         
     - ne pas éveiller les soupçons,
         
-    - le culte des Huit est trop respecté pour être surveillé ouvertement.
+    - le [[Culte des Huit|culte des Huit]] est trop respecté pour être surveillé ouvertement.
         
 
 ## Objectif du dîner
@@ -490,7 +490,7 @@ Il console un enfant qui semble avoir été fait orphelin par la dernière attaq
         
     - circuit d’argent,
         
-    - lien avec Thalarym,
+    - lien avec [[Thalarym]],
         
     - opportunité d’infiltration ou de manipulation.
         

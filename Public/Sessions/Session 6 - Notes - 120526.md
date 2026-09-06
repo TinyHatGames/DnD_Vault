@@ -1,10 +1,10 @@
 ## Situation initiale
 
-La séance reprend à l’Auberge de la Canopée, à midi, après que les héros ont mis en commun leurs découvertes de la matinée.
+La séance reprend à l’[[Auberge de la Canopée]], à midi, après que les héros ont mis en commun leurs découvertes de la matinée.
 
 Les informations déjà connues au début de séance :
 
-- Les prêtres des Huit construisent bien un monolithe de bois à Koruha.
+- Les prêtres des [[Huit]] construisent bien un [[Monolithe de Koruha|monolithe]] de bois à [[Koruha]].
     
 - Le monolithe est fixe, ce qui paraît étrange dans une ville mobile.
     
@@ -12,24 +12,24 @@ Les informations déjà connues au début de séance :
     
 - Les infusions du dîner sont en préparation, mais il leur manque encore un ingrédient.
     
-- Nyxara a repéré la tente d’Am’Hok, mais ne l’a pas visitée.
+- [[Nyxara]] a repéré la tente d’[[Am'Hok Dun|Am’Hok]], mais ne l’a pas visitée.
     
-- Zooki a appris que plusieurs figures importantes seront présentes au dîner : Tori, Kael, Rétis Vael, Elira Than, Doran Pell, peut-être d’autres.
+- [[Zooki]] a appris que plusieurs figures importantes seront présentes au dîner : [[Torvik “Tori” Brûn|Tori]], [[Kael]], [[Rethis Vael]], [[Elyra Thane]], [[Doran Pell]], peut-être d’autres.
     
-- Vark a accusé les Huit d’avoir “corrompu la pluie”.
+- [[Varkh]] a accusé les Huit d’avoir “corrompu la pluie”.
     
 - Kael a confirmé être convié au dîner et a donné quelques hypothèses sur la présence du culte.
     
-- Le Khar est une herbe rare, probablement séchée, contrôlée par l’Ordre de Tsaln. Elle est vendue surtout au Culte des Huit et aux élites de Thalarym. Les PJ savent qu’elle a des effets magiques censés décupler certaines capacités, mais ils n’en ont jamais vu ni goûté.
+- Le [[Khar]] est une herbe rare, probablement séchée, contrôlée par l’[[Ordre de Tsaln]]. Elle est vendue surtout au [[Culte des Huit]] et aux élites de [[Thalarym]]. Les PJ savent qu’elle a des effets magiques censés décupler certaines capacités, mais ils n’en ont jamais vu ni goûté.
     
 
-Pendant le repas, Josué prend des os dans son assiette et les dispose en petit symbole. Il se concentre dessus, les écoute et médite, sans répondre aux autres pendant un moment. Orla et Nyxara se moquent gentiment de lui, se demandant s’il a fait un malaise ou s’il les a quittés.
+Pendant le repas, [[Josué]] prend des os dans son assiette et les dispose en petit symbole. Il se concentre dessus, les écoute et médite, sans répondre aux autres pendant un moment. [[Orla]] et Nyxara se moquent gentiment de lui, se demandant s’il a fait un malaise ou s’il les a quittés.
 
-Orla rappelle qu’elle a envoyé son familier corbeau, **Moule**, chercher Am’Hok pour essayer de le suivre et de rapporter par télépathie des informations sur ses conversations. À ce stade, Moule n’a pas encore retrouvé Am’Hok.
+Orla rappelle qu’elle a envoyé son familier corbeau, **[[Moule]]**, chercher Am’Hok pour essayer de le suivre et de rapporter par télépathie des informations sur ses conversations. À ce stade, Moule n’a pas encore retrouvé Am’Hok.
 
 Le groupe discute aussi de ce qui pourrait se passer sous terre à Koruha. Orla fait remarquer que la prison était elle-même enfouie sous un grand arbre, et se demande s’il y a quelque chose au niveau des racines ou du sous-sol. Josué s’intéresse immédiatement à cette idée, car pour lui les véritables êtres divins sont liés aux profondeurs et à la pierre. Zooki doute que les prêtres des Huit aient déjà eu le temps de s’installer sous terre, mais admet qu’il pourrait exister quelque chose de préexistant.
 
-Le monolithe fixe continue d’inquiéter le groupe. Nyxara souligne que cela n’a aucun sens de construire un lieu fixe dans une ville qui doit survivre en restant mobile. Zooki suggère que le culte construit peut-être quelque chose destiné à être abandonné ou avalé par la Selve, parce que son véritable objectif est ailleurs.
+Le monolithe fixe continue d’inquiéter le groupe. Nyxara souligne que cela n’a aucun sens de construire un lieu fixe dans une ville qui doit survivre en restant mobile. Zooki suggère que le culte construit peut-être quelque chose destiné à être abandonné ou avalé par [[Selve Sélène|la Selve]], parce que son véritable objectif est ailleurs.
 
 ## Préparation de l’après-midi
 
@@ -74,7 +74,7 @@ Objectif : enquêter sur le monolithe et le culte.
 
 ### Point de rendez-vous
 
-Le groupe décide de se retrouver à la caserne, chez Mira Vanis ou au moins près de son bureau, environ une heure avant le dîner.
+Le groupe décide de se retrouver à la caserne, chez [[Mira Vanis]] ou au moins près de son bureau, environ une heure avant le dîner.
 
 Ils prévoient aussi un protocole d’urgence : si Orla envoie Moule chercher Josué et Zooki, ils doivent suivre le corbeau. Orla insiste pour qu’ils ne lui jettent pas de cailloux, parce que le corbeau n’est pas très résistant.
 
@@ -235,7 +235,7 @@ Le bâtiment doit être terminé dans la semaine.
 
 Josué et Zooki s’adressent à un prêtre-artisan qui travaille sur le sol du premier étage. Il est agenouillé et fixe des planches.
 
-Il s’appelle **Zarik**.
+Il s’appelle **[[Zarik]]**.
 
 Zarik explique :
 
@@ -245,14 +245,14 @@ Zarik explique :
     
 - qu’il n’a pas peur que la Selve l’engloutisse ;
     
-- qu’il fait confiance à Am’Hok, à Kavaki, aux Huit et au Prima ;
+- qu’il fait confiance à Am’Hok, à [[Kavaki]], aux Huit et au [[Prima]] ;
     
 - que si les Huit ont décidé de construire ce lieu de culte ici, alors c’est la bonne décision.
     
 
-Le groupe confirme que Kavaki est le dieu fondateur des Goliaths et de Naeth, celui qui aurait fait surgir l’île des eaux. Il est au sommet du culte des Huit.
+Le groupe confirme que Kavaki est le dieu fondateur des Goliaths et de [[Naeth]], celui qui aurait fait surgir l’île des eaux. Il est au sommet du culte des Huit.
 
-Zarik explique que le monolithe n’est pas seulement dédié à Kavaki, mais qu’il représente la foi des Huit et l’héritage des mythes. Symboliquement, il renvoie à l’Aiguille de Thalarym, la grande tour du Mont Urzal où vivent les grandes familles goliaths.
+Zarik explique que le monolithe n’est pas seulement dédié à Kavaki, mais qu’il représente la foi des Huit et l’héritage des mythes. Symboliquement, il renvoie à l’[[Aiguille]] de Thalarym, la grande tour du [[Mont Urzal]] où vivent les grandes familles goliaths.
 
 Le monolithe incarne aussi la philosophie du culte :
 
@@ -291,7 +291,7 @@ Josué serre immédiatement ses idoles contre lui, ne voulant surtout pas qu’o
 
 Zooki et Josué parlent à un vieux défricheur qui vient de terminer sa prière.
 
-Il s’appelle **Dolé**.
+Il s’appelle **[[Dole|Dolé]]**.
 
 Description :
 
@@ -600,11 +600,11 @@ Hôte du dîner. Prêtre-combattant des Huit. Calme, poli, maîtrisé, intimidan
 
 Second de Mira Vanis, envoyé à sa place. Mira est absente.
 
-Tori est détendu, avec déjà une chope ou un mug de bière. Il reconnaît Zooki ou du moins sait qui il est. Il remarque que Zooki ne porte pas son badge de la Garde Sylvestre.
+Tori est détendu, avec déjà une chope ou un mug de bière. Il reconnaît Zooki ou du moins sait qui il est. Il remarque que Zooki ne porte pas son badge de la [[Garde Sylvestre de Koruha|Garde Sylvestre]].
 
 Il a entendu parler de la version du “Petit Bonhomme en mousse” jouée la veille par Zooki.
 
-### Rétis Vael
+### Rethis Vael
 
 Chef de la guilde des commerçants de Koruha.
 
@@ -644,15 +644,15 @@ Son ordre contrôle le monopole du Khar.
 
 Aubergiste de la Canopée. Déjà connu du groupe. Orla s’assoit à côté de lui.
 
-### Elira Than
+### Elyra Thane
 
-Doyenne / cheffe des Veilleurs.
+Doyenne / cheffe des [[Veilleurs]].
 
 Elle semble distante, presque absente ou perchée, le regard ailleurs, comme si elle regardait au-delà de la tente.
 
 ### Doran Pell
 
-Chef des Défricheurs. Les héros l’ont sauvé avec son fils dans la forêt.
+Chef des [[Défricheurs]]. Les héros l’ont sauvé avec son fils dans la forêt.
 
 Il est présent et reconnaissant, mais il minimise son sauvetage quand Am’Hok le mentionne.
 
@@ -673,9 +673,9 @@ Zooki échange avec Tori.
 
 Tori remarque que Zooki ne porte pas son badge. Zooki répond qu’il trouve que cela ferait frimeur.
 
-Tori mentionne qu’il a entendu parler de sa prestation musicale de la veille. Zooki répond qu’il pourrait rejouer ce soir si l’occasion se présente, surtout si Lola et son groupe arrivent.
+Tori mentionne qu’il a entendu parler de sa prestation musicale de la veille. Zooki répond qu’il pourrait rejouer ce soir si l’occasion se présente, surtout si [[Lola]] et son groupe arrivent.
 
-Tori confirme que Lola, Rob et Bjorg doivent venir jouer plus tard. Leur présence a peut-être été organisée à la dernière minute.
+Tori confirme que Lola, [[Rob]] et [[Bjorg]] doivent venir jouer plus tard. Leur présence a peut-être été organisée à la dernière minute.
 
 Zooki demande à Tori s’il est content d’être là. Tori répond qu’il est surtout là pour le travail, mais que s’il y a à boire et à manger, autant en profiter.
 
@@ -723,7 +723,7 @@ Tori commente que ce n’est pas la soupe de sa grand-mère, mais que ça passe,
 
 ## Am’Hok interroge les héros
 
-Am’Hok, jusque-là en discussion avec Rétis Vael, se tourne vers les PJ.
+Am’Hok, jusque-là en discussion avec Rethis Vael, se tourne vers les PJ.
 
 Il leur demande comment s’est passée leur excursion dans la Selve. Il souligne qu’ils n’ont pas vraiment eu l’occasion d’en parler lors de leur première rencontre, ni pendant leur visite du chantier.
 
@@ -737,7 +737,7 @@ Zooki et Josué minimisent fortement les événements :
     
 - ils disent qu’on leur a demandé d’aller vérifier quelque chose ;
     
-- ils disent qu’ils ont trouvé des gnolls ;
+- ils disent qu’ils ont trouvé des [[Gnolls|gnolls]] ;
     
 - ils mentionnent avoir ramené leur chef ;
     
@@ -805,7 +805,7 @@ Lola, Rob et Bjorg arrivent avec leurs instruments. Ils saluent Zooki d’un pet
 
 Ils ne jouent pas “Le petit bonhomme en mousse”.
 
-Ils commencent une chanson plus grave : **La Complainte du Goupil**.
+Ils commencent une chanson plus grave : **La [[Complainte du Goupil]]**.
 
 La chanson évoque :
 
@@ -915,7 +915,7 @@ Effet testé par Josué :
 - +1 PV temporaire.
     
 
-Le fait qu’Am’Hok ait du Khar dans sa tente est important, surtout avec la présence d’Ox au dîner.
+Le fait qu’Am’Hok ait du Khar dans sa tente est important, surtout avec la présence d’[[Ox]] au dîner.
 
 ## Le vol du coffre peut avoir des conséquences
 
@@ -1036,7 +1036,7 @@ Très important car l’Ordre contrôle le Khar.
 
 Aucune discussion directe majeure avec lui pendant cette séance, mais sa présence à la table est lourde de sens.
 
-## Rétis Vael
+## Rethis Vael
 
 Chef de la guilde des commerçants de Koruha.
 
@@ -1044,7 +1044,7 @@ Riche, faux sourire, influence économique.
 
 Présent au dîner.
 
-## Elira Than
+## Elyra Thane
 
 Doyenne / cheffe des Veilleurs.
 
@@ -1106,7 +1106,7 @@ Arrivent à la fin du dîner et interprètent la Complainte du Goupil, provoquan
     
 - Pourquoi cette chanson vise-t-elle Zooki maintenant, devant Am’Hok et les notables ?
     
-- Le symbole des “trois lunes mortes” est-il lié aux Treize, au Viridien, aux bandits du passé de Zooki, ou à une autre faction ?
+- Le symbole des “trois lunes mortes” est-il lié aux Treize, au [[Le Viridien|Viridien]], aux bandits du passé de Zooki, ou à une autre faction ?
     
 - Tori a-t-il consciemment protégé les PJ en interrompant Am’Hok ?
     

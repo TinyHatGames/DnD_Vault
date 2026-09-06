@@ -2,7 +2,7 @@
 
 ```statblock
 layout: Basic 5e Layout
-image: "Gnoll_Captain.png"
+image: "[[Gnoll]]_Captain.png"
 name: Gnoll Alpha
 size: Medium
 type: humanoïde
@@ -25,7 +25,7 @@ condition_immunities: frightened
 cr: 1
 traits:
   - name: "Chef de Meute"
-    desc: "Les gnolls alliés à 5 ft. du capitaine ont avantage aux jets d’attaque."
+    desc: "Les [[Gnolls|gnolls]] alliés à 5 ft. du capitaine ont avantage aux jets d’attaque."
   - name: "Fanatique du Père Vert"
     desc: "Le capitaine a avantage aux jets de sauvegarde contre les effets de peur."
 actions:

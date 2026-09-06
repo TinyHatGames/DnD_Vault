@@ -58,9 +58,9 @@ reactions:
 
 ## Vue d’ensemble
 
-**Am’Hok Dun** est un prêtre-combattant du **Culte des Huit**, envoyé à **Koruha** dans un contexte de tension croissante autour de la progression de la Selve. Officiellement, il vient offrir au bourg forestier le soutien moral, rituel et militaire du culte : bénir les morts, rassurer les habitants, rappeler que les Huit veillent sur les frontières de Naeth, et aider Koruha à tenir face aux menaces.
+**Am’Hok Dun** est un prêtre-combattant du **[[Culte des Huit]]**, envoyé à **[[Koruha]]** dans un contexte de tension croissante autour de la progression de [[Selve Sélène|la Selve]]. Officiellement, il vient offrir au bourg forestier le soutien moral, rituel et militaire du culte : bénir les morts, rassurer les habitants, rappeler que [[Huit|les Huit]] veillent sur les frontières de [[Naeth]], et aider Koruha à tenir face aux menaces.
 
-En réalité, sa présence répond à des objectifs bien plus froids. Le culte a entendu des **rumeurs préoccupantes** : la Selve progresse, un nom ancien circule à nouveau — **le Viridien** —, Mira Vanis semble prendre de plus en plus d’importance à Koruha, et des prisonniers récemment arrivés paraissent être au centre d’événements anormaux. Am’Hok a donc été envoyé non seulement pour **affermir l’autorité des Huit dans la région**, mais aussi pour **évaluer**, **encadrer** et si nécessaire **rappeler chacun à sa place**.
+En réalité, sa présence répond à des objectifs bien plus froids. Le culte a entendu des **rumeurs préoccupantes** : la Selve progresse, un nom ancien circule à nouveau — **[[Le Viridien|le Viridien]]** —, [[Mira Vanis]] semble prendre de plus en plus d’importance à Koruha, et des prisonniers récemment arrivés paraissent être au centre d’événements anormaux. Am’Hok a donc été envoyé non seulement pour **affermir l’autorité des Huit dans la région**, mais aussi pour **évaluer**, **encadrer** et si nécessaire **rappeler chacun à sa place**.
 
 Il n’est pas un fanatique hurlant, ni un bourreau théâtral. C’est pire : c’est un homme **courtois**, **mesuré**, **extrêmement intelligent**, qui parle doucement et regarde les gens comme s’ils étaient déjà en train de révéler ce qu’ils voulaient lui cacher.
 
@@ -103,7 +103,7 @@ Aux yeux de la population, Am’Hok Dun est un **envoyé légitime du Culte des 
 - il peut bénir les morts, présider des rites, prononcer des paroles de réconfort, et rappeler que l’ordre du monde n’a pas encore cédé.
     
 
-Il peut aussi apporter une petite suite de fidèles ou de prêtres-combattants, pas assez nombreuse pour constituer une occupation ouverte, mais suffisante pour rendre sa présence concrète. Son arrivée peut être perçue par certains comme un soulagement : dans une période où la forêt semble bouger, où les gnolls frappent, et où des rumeurs anciennes ressurgissent, voir arriver un représentant des Huit donne le sentiment qu’un pouvoir plus vaste surveille encore la situation.
+Il peut aussi apporter une petite suite de fidèles ou de prêtres-combattants, pas assez nombreuse pour constituer une occupation ouverte, mais suffisante pour rendre sa présence concrète. Son arrivée peut être perçue par certains comme un soulagement : dans une période où la forêt semble bouger, où les [[Gnolls|gnolls]] frappent, et où des rumeurs anciennes ressurgissent, voir arriver un représentant des Huit donne le sentiment qu’un pouvoir plus vaste surveille encore la situation.
 
 Cette façade n’est pas mensongère au sens strict. Am’Hok peut très bien prononcer de belles paroles sincères, se montrer digne avec les morts et respectueux avec les blessés. C’est justement ce qui le rend fort : il **ne joue pas seulement un rôle**, il croit réellement à la nécessité de maintenir l’ordre, la cohésion et l’autorité. Simplement, sa définition de ces choses est sévère, et la compassion n’est jamais chez lui séparée du contrôle.
 
@@ -113,7 +113,7 @@ Cette façade n’est pas mensongère au sens strict. Am’Hok peut très bien p
 
 ### 1. Réaffirmer le contrôle des Huit sur Koruha
 
-Sa mission principale est politique et religieuse : il est là pour s’assurer que **Koruha reste bien dans l’orbite des Huit**. La progression de la Selve est une crise, donc une opportunité. Dans les moments d’incertitude, les institutions fortes peuvent soit perdre la main, soit la reprendre. Am’Hok est là pour éviter que la région ne commence à chercher ailleurs ses réponses : dans les anciens cultes sylvestres, dans des sanctuaires oubliés, dans la parole de survivants du Royaume Sylvestre, ou dans l’autorité personnelle de Mira Vanis.
+Sa mission principale est politique et religieuse : il est là pour s’assurer que **Koruha reste bien dans l’orbite des Huit**. La progression de la Selve est une crise, donc une opportunité. Dans les moments d’incertitude, les institutions fortes peuvent soit perdre la main, soit la reprendre. Am’Hok est là pour éviter que la région ne commence à chercher ailleurs ses réponses : dans les anciens cultes sylvestres, dans des sanctuaires oubliés, dans la parole de survivants du [[Royaume Sylvestre Occidental|Royaume Sylvestre]], ou dans l’autorité personnelle de Mira Vanis.
 
 Il veut que, face à la peur, les habitants se tournent vers les Huit — pas vers la forêt.
 
@@ -327,3 +327,11 @@ C’est un homme qui peut bénir une foule au coucher du soleil, parler avec dou
 ## Résumé en une phrase
 
 **Am’Hok Dun est un prêtre-combattant des Huit, d’une politesse glaçante et d’une présence écrasante, venu à Koruha sous couvert de réconfort et de soutien, mais dont la véritable mission est de reprendre la crise en main, surveiller Mira Vanis, enquêter sur le Viridien et comprendre comment exploiter l’exception que représentent les personnages pour le bénéfice du culte.**
+
+## Événements accomplis
+
+- Il a lancé la construction du [[Monolithe de Koruha]] et annoncé que la ville ne serait plus déplacée.
+- Il possède et consomme du [[Khar]], dont il tire des visions.
+- Il a organisé le dîner politique qui devait jauger les héros et préparer une expédition secrète vers [[Sève-loin]].
+- Il a accepté quatre contreparties : une recommandation d’[[Orla]] à la [[Confrérie des Cîmes]], l’accès de [[Josué]] aux cavernes du [[Mont Urzal]], une aide à [[Nyxara]] pour approcher un groupe d’[[Hyptis]], et une faveur future pour [[Zooki]].
+- Il a placé [[Am’Serek Tal]] à la tête du convoi et reconnu [[Ox]] comme guide, sans savoir qu’il s’agissait de [[Maro]].

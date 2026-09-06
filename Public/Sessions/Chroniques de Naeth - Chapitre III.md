@@ -1,6 +1,6 @@
 ## _Le Serment de Rillifane_
 
-Lorsque la forêt s’ouvrit enfin devant eux, la clairière apparut presque comme un accident dans la masse sombre de la Selve. Les arbres formaient un cercle irrégulier autour d’un espace d’herbe basse et de pierre ancienne, et au centre se dressait un temple oublié, dont les murs fissurés semblaient lutter depuis des siècles contre l’étreinte patiente de la jungle. Les racines descendaient des troncs voisins pour enlacer les blocs de pierre, et de larges plaques de mousse assombrissaient les sculptures usées qui ornaient encore l’entrée.
+Lorsque la forêt s’ouvrit enfin devant eux, la clairière apparut presque comme un accident dans la masse sombre de [[Selve Sélène|la Selve]]. Les arbres formaient un cercle irrégulier autour d’un espace d’herbe basse et de pierre ancienne, et au centre se dressait un temple oublié, dont les murs fissurés semblaient lutter depuis des siècles contre l’étreinte patiente de la jungle. Les racines descendaient des troncs voisins pour enlacer les blocs de pierre, et de larges plaques de mousse assombrissaient les sculptures usées qui ornaient encore l’entrée.
 
 Mais ce n’était pas l’état du sanctuaire qui retenait le regard.
 
@@ -14,11 +14,11 @@ Ils tentèrent d’abord de contourner la clairière en longeant la forêt, esp�
 
 Il leur faudrait passer devant le cerf.
 
-Nyxara s’approcha alors lentement et tenta d’atteindre l’esprit de l’animal par le langage ancien que comprennent les créatures de la forêt. Les pensées qu’elle perçut étaient fragmentées, noyées dans la douleur et la peur. Pourtant, une image claire s’imposa bientôt : celle d’un gnoll brandissant une hache. C’était lui qui avait planté les pieux dans la chair de l’animal et peint les symboles qui couvraient son pelage.
+[[Nyxara]] s’approcha alors lentement et tenta d’atteindre l’esprit de l’animal par le langage ancien que comprennent les créatures de la forêt. Les pensées qu’elle perçut étaient fragmentées, noyées dans la douleur et la peur. Pourtant, une image claire s’imposa bientôt : celle d’un [[Gnolls|gnoll]] brandissant une hache. C’était lui qui avait planté les pieux dans la chair de l’animal et peint les symboles qui couvraient son pelage.
 
 Malgré sa souffrance, le cerf répétait inlassablement une injonction simple : personne ne devait passer.
 
-Pourtant, face à la patience d’Orla et aux herbes qu’elle lui offrit avec douceur, la tension finit par s’apaiser. Profitant de cet instant fragile, Zooki et Josué tentèrent d’arracher les pieux qui maintenaient le collier. La manœuvre tourna mal : le cerf, paniqué, se cabra brusquement et projeta Nyxara au sol. Mais l’élan avait commencé, et après quelques secondes chaotiques, les derniers pieux furent finalement arrachés.
+Pourtant, face à la patience d’[[Orla]] et aux herbes qu’elle lui offrit avec douceur, la tension finit par s’apaiser. Profitant de cet instant fragile, [[Zooki]] et [[Josué]] tentèrent d’arracher les pieux qui maintenaient le collier. La manœuvre tourna mal : le cerf, paniqué, se cabra brusquement et projeta Nyxara au sol. Mais l’élan avait commencé, et après quelques secondes chaotiques, les derniers pieux furent finalement arrachés.
 
 Lorsque le collier tomba, la créature resta immobile, comme si le monde venait soudain de changer autour d’elle. Les peintures tracées sur son pelage semblaient déjà perdre leur éclat. Après avoir accepté un dernier fruit offert par Orla, le cerf traversa la clairière d’un bond puissant et s’arrêta un instant au centre, partagé entre l’instinct de fuite et l’ombre d’un ordre qui l’avait longtemps retenu prisonnier.
 
@@ -66,13 +66,13 @@ Lorsque Nyxara traversa finalement la salle à son tour, une grande partie des l
 
 Au-delà du pont s’ouvrait la nef du temple. La salle était vaste et haute, semblable à une clairière creusée dans la roche. Des arches brisées montaient vers un plafond éventré d’où pendaient encore des racines épaisses. Des rayons de lumière filtraient à travers les fissures et venaient éclairer l’autel de marbre qui dominait le fond de la pièce.
 
-![[GnollAlpha.jpg]]
+![[Varkh.jpg]]
 
 Mais le sanctuaire n’était pas vide : un gnoll gigantesque, couvert d’une armure grossière, frappait l’autel avec sa hache dans un accès de frustration. À ses côtés, deux autres gnolls maintenaient un elfe tremblant dont les explications semblaient les irriter davantage à chaque mot.
 
-Le chef de la meute, Varkh, exigeait que l’elfe fasse fonctionner l’autel.
+Le chef de la meute, [[Varkh]], exigeait que l’elfe fasse fonctionner l’autel.
 
-Celui-ci insistait qu’il manquait un élément essentiel : la marque du serment.
+Celui-ci insistait qu’il manquait un élément essentiel : la [[Marque du Serment|marque du serment]].
 
 Les voyageurs échangèrent un regard et chuchotèrent un plan rapide, puis Orla bondit.
 
@@ -82,7 +82,7 @@ La halfling surgit au milieu des gnolls et frappa le sol d’une secousse magiqu
 
 La bataille fut brève mais féroce. Lorsque la poussière retomba, les gnolls gisaient au sol et leur chef était capturé.
 
-L’elfe libéré se présenta sous le nom d’Aelwyn.
+L’elfe libéré se présenta sous le nom d’[[Aelwyn]].
 
 ---
 
@@ -94,15 +94,15 @@ L’air devint soudain frais et parfumé, comme après une pluie dans la forêt.
 
 Au-dessus de l’autel, la lumière se rassembla pour former un halo où se dessinèrent brièvement des branches, des feuilles… et l’ombre d’un cerf.
 
-Puis une voix s’éleva, ancienne et profonde. La voix de **Rillifane Rallathil**, seigneur de la Selve.
+Puis une voix s’éleva, ancienne et profonde. La voix de **[[Rillifane Rallathil]]**, seigneur de la Selve.
 
-Le dieu salua leurs actions et leur accorda sa bénédiction, avant de révéler certaines vérités. Il parla d’un être ancien qui guidait désormais la forêt contre les cités de Naeth : **le Viridien**, un elfe hanté par la mémoire d’un royaume disparu et par une haine farouche envers ceux qui avaient façonné la pluie.
+Le dieu salua leurs actions et leur accorda sa bénédiction, avant de révéler certaines vérités. Il parla d’un être ancien qui guidait désormais la forêt contre les cités de [[Naeth]] : **[[Le Viridien|le Viridien]]**, un elfe hanté par la mémoire d’un royaume disparu et par une haine farouche envers ceux qui avaient façonné la pluie.
 
-À leur question sur Maro, la voix révéla qu’il était un prêtre du Pacte des Initiés, une organisation secrète œuvrant dans l’ombre à travers Naeth.
+À leur question sur [[Maro]], la voix révéla qu’il était un prêtre du [[Pacte des Initiés]], une organisation secrète œuvrant dans l’ombre à travers Naeth.
 
 Lorsque la lumière divine s’estompa enfin, les voyageurs se retrouvèrent à nouveau dans l’antichambre.
 
-Le bassin miroitait doucement. À sa surface reposaient leurs offrandes, revenues intactes mais transformées, marquées par la magie de la Selve. Et à l’entrée du temple, Lafel les attendait, encore bouleversé par ce qu’il venait d’entendre.
+Le bassin miroitait doucement. À sa surface reposaient leurs offrandes, revenues intactes mais transformées, marquées par la magie de la Selve. Et à l’entrée du temple, [[Lafel]] les attendait, encore bouleversé par ce qu’il venait d’entendre.
 
 La forêt, elle, restait silencieuse.
 

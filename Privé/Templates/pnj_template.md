@@ -12,7 +12,7 @@ importance: secondaire
 
 > "Phrase d'accroche ou citation."
 
-![[chemin/vers/portrait.png]]
+<!-- Ajouter ici le portrait du PNJ. -->
 
 ## Aperçu
 Courte description du PNJ.
@@ -33,5 +33,4 @@ Courte description du PNJ.
 - Factions : 
 - Objets : 
 - Bestiaire : 
-
 

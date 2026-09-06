@@ -1,3 +1,5 @@
-Capitale et centre du pouvoir de [[Monde/Naeth|Naeth]]. Dominée par une classe aristocratique de goliaths vivant en quasi autarcie sur son plus haut pic, l'**Aiguille**. Autrefois, ils furent les premiers à gravir la montagne et à s'installer à son sommet. Les maisons dynastiques qui contrôlent encore la ville aujourd'hui sont les descendants de ces explorateurs. On dit qu'ils ont trouvé une magie puissante au sommet de la montagne et qu'elle leur donne une vie extrêmement longue pour des goliaths. Le chef suprême de la cité est le leader de la maison dominante, le **Prima**.
+# Thalarym
 
-Les dirigeants goliath sont secondés par le **Synode des Exilés**. Caste dominante de la capitale, ils contrôlent la politique et le commerce de la cité. Autrefois, les elfes vivaient dans des cités somptueuses à l'ouest de l'île avant que leur royaume (Royaume Sylvestre Occidental) ne soit dévoré par la jungle. Aujourd'hui ils ne sont plus aussi nombreux, mais ils sont toujours très influents.
+Capitale de [[Naeth]], installée au sommet du [[Mont Urzal]] et dominée par l’[[Aiguille]]. Les maisons goliaths qui contrôlent encore la ville descendent des premiers explorateurs du massif. On dit qu’une magie découverte au sommet leur donne une vie exceptionnellement longue.
+
+Le chef de la maison dominante porte le titre de [[Prima]]. Les dirigeants goliaths sont secondés par le [[Synode des Exilés]], caste elfique qui contrôle une grande part de la politique et du commerce.

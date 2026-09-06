@@ -32,3 +32,9 @@ Il aime que les autres le sous-estiment. Il joue même de cette image.
 - peut mettre les joueurs à l’aise
 - peut poser des questions innocentes… mais très ciblées
 - peut basculer très vite en sérieux absolu
+
+## Rôle dans la campagne
+
+Bras droit de [[Mira Vanis]] et figure importante des [[Sentinelles]]. Tori l’a représentée au dîner d’[[Am'Hok Dun|Am’Hok Dun]], où il a couvert les héros en détournant une interrogation trop insistante.
+
+Il accompagne l’expédition vers [[Sève-loin]] afin de défendre les intérêts de la [[Garde Sylvestre de Koruha]] et de transmettre des informations par colibris messagers. Il a survécu à la [[Fleur carnivore colossale]], dont il fut l’un des premiers prisonniers.

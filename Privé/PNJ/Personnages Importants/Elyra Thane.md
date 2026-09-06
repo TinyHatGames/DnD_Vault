@@ -31,3 +31,7 @@ Elle ne regarde pas les gens comme des individus… mais comme des phénomènes.
 - peut révéler des choses importantes sans s’en rendre compte
 - fascinée par les joueurs
 - totalement indifférente aux enjeux politiques
+
+## Rôle dans la campagne
+
+Cheffe des [[Veilleurs]] de [[Koruha]]. Vieille gnome aux immenses lunettes, elle s’intéresse à la cartographie, aux ruines et aux phénomènes de la [[Selve Sélène]]. Elle a accepté la proposition de [[Josué]] de documenter l’expédition vers [[Sève-loin]], mais ne reconnaît pas ce nom malgré une description vaguement familière.

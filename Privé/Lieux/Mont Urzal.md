@@ -1,3 +1,7 @@
-Massif colossal central de [[Privé/Lieux/Naeth]], en sommet se situe [[Privé/Lieux/Villes/Thalarym]], capitale et centre du pouvoir de la contrée.
+# Mont Urzal
 
-Dans les profondeurs de la montagne vivent des clans matriarcaux Duergar, on les appelle les [[Clans Noirs]]. Exploités par les castes dominantes du sommet, ils extraient des minéraux et autres ressources du cœur de la montagne. Les extractions / exploitations créent des éboulements et secousses à la surface de la montagne. Certains clans sont rebelles et sont en conflit avec la capitale. Il y a de nombreuses légendes à propos des Duergar, qui ne sortent presque jamais - ils n'y sont pas autorisés et ne supportent pas la lumière.
+Massif colossal au centre de [[Naeth]], visible depuis les quatre coins de l’île. [[Thalarym]] et l’[[Aiguille]] dominent son sommet. Le premier goliath à l’avoir gravi, [[Urzal]], lui aurait donné son nom.
+
+Dans ses profondeurs vivent les cinq [[Clans Noirs]], sociétés duergars matriarcales gouvernées par des [[Reines Mères]]. Exploités par les castes du sommet, ils extraient minerais et ressources au prix d’éboulements et de secousses. Ils ne sont pas autorisés à sortir et supportent mal la lumière.
+
+Certains groupes se rebellent, notamment les [[Frères de Basalte]]. Les pèlerins qui tentent l’ascension font souvent appel à la [[Confrérie des Cîmes]].

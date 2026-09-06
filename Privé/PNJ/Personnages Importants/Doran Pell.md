@@ -31,3 +31,9 @@ Il respecte les actes, pas les paroles.
 - allié silencieux des joueurs
 - méfiant envers Am’Hok
 - peut soutenir les joueurs publiquement… ou se taire lourdement
+
+## Rôle dans la campagne
+
+Chef des [[Défricheurs]] de [[Koruha]] et père de [[Zoran Pell]]. Les héros l’ont secouru après une attaque d’araignées dans la [[Selve Sélène]], gagnant sa gratitude malgré son caractère bourru.
+
+Invité au dîner d’[[Am'Hok Dun|Am’Hok Dun]], il a rappelé que la forêt n’est jamais inoffensive. [[Rethis Vael]] le considère comme un frein à certains projets commerciaux et souhaiterait le voir remplacé par quelqu’un de plus conciliant.

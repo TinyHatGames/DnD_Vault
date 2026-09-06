@@ -2,9 +2,21 @@
 title: Les Archives de Naeth
 ---
 
+# Les Archives de Naeth
+
+## Explorer les archives
+
+- **Le monde** : [[Naeth]], [[Mont Urzal]], [[Selve Sélène]], [[Koruha]], [[Hyptis]], [[Ormeval]], [[Dratholm]] et [[Thalarym]].
+- **Les forces en présence** : [[Garde Sylvestre de Koruha]], [[Culte des Huit]], [[Ordre de Tsaln]], [[Pacte des Initiés]] et [[Les Treize]].
+- **Les héros** : [[Josué]], [[Nyxara]], [[Orla]] et [[Zooki]].
+- **L’expédition actuelle** : [[Sève-loin]], [[Khar]], [[Am'Hok Dun|Am’Hok Dun]], [[Am’Serek Tal]], [[Torvik “Tori” Brûn|Tori]], [[Ox]] et [[Maro]].
+- **Les chroniques** : [[Chroniques de Naeth - Chapitre I]], [[Chroniques de Naeth - Chapitre II]], [[Chroniques de Naeth - Chapitre III]], [[Chroniques de Naeth - Chapitre IV]], [[Chroniques de Naeth - Chapitre V]], [[Chroniques de Naeth - Chapitre VI]], [[Chroniques de Naeth - Chapitre VII]] et [[Chroniques de Naeth - Chapitre VIII]].
+
+## Le mythe fondateur
+
 ![[MytheCréateur.png]]
 
-Il y a bien longtemps, à l’époque où le givre et le sang se mêlaient encore dans les mers brumeuses du nord du monde, on raconte que **Kavaki, le Dieu-Bélier**, chercha un nouveau défi pour ses enfants.
+Il y a bien longtemps, à l’époque où le givre et le sang se mêlaient encore dans les mers brumeuses du nord du monde, on raconte que **[[Kavaki]], le Dieu-Bélier**, chercha un nouveau défi pour ses enfants.
 
 Les Goliaths avaient dompté les neiges, brisé les pierres, et défié les cieux. Plus aucun sommet ne résistait à leur ascension, plus aucun combat ne pouvait éprouver leur foi. Alors, du haut des vents, **Kavaki** posa son regard sur l’immensité liquide — et décida d’y façonner un monde qui n’appartiendrait qu’à eux.
 
@@ -15,9 +27,9 @@ L’île monta des profondeurs dans un fracas de lave et de cendres, drapée de 
 Lorsque le volcan se tut, Kavaki contempla son œuvre et déclara :  
 _“Voici le champ de ton dernier combat, peuple des pierres. Monte, et trouve ton nom parmi les flammes.”_
 
-Alors les Goliaths descendirent du ciel des montagnes et foulèrent pour la première fois la terre chaude de Naeth. Le premier d’entre eux à atteindre le sommet du volcan fut **Urzal**, et son nom fut donné à la montagne en signe d’honneur éternel.
+Alors les Goliaths descendirent du ciel des montagnes et foulèrent pour la première fois la terre chaude de Naeth. Le premier d’entre eux à atteindre le sommet du volcan fut **[[Urzal]]**, et son nom fut donné à la montagne en signe d’honneur éternel.
 
-Autour de ce pic sacré, huit lignées s’élevèrent, chacune guidée par les descendants d'**Urzal** et de ses compagnons. Ensemble, ils bâtirent **l’Aiguille**, la tour des vents et des serments, au cœur du cratère endormi. Et du haut de ses terrasses, les Huit jurèrent de garder l’équilibre du monde que leur dieu leur avait confié, et de régner sur leurs terres d'une main de fer.
+Autour de ce pic sacré, huit lignées s’élevèrent, chacune guidée par les descendants d'**Urzal** et de ses compagnons. Ensemble, ils bâtirent **l’[[Aiguille]]**, la tour des vents et des serments, au cœur du cratère endormi. Et du haut de ses terrasses, [[Huit|les Huit]] jurèrent de garder l’équilibre du monde que leur dieu leur avait confié, et de régner sur leurs terres d'une main de fer.
 
 Les siècles passèrent.  
 Le feu du volcan s’assoupit, les forges se refroidirent, et de nouveaux peuples bâtirent leurs villes sous la protection des Huit. Naeth prospéra, et Kavaki se retira.
@@ -30,8 +42,8 @@ Bientôt, la lune commença son deuil. On dit qu’elle pleura la chute des prem
 De ses larmes d'argent, qui coulent encore à chaque pleine lune, naquit la **Selve Sélène**, une jungle immense et mouvante, faite de sève et de songes, qui dévora peu à peu les frontières du monde connu.
 
 
-C’est à sa lisière que s’accroche aujourd’hui [[Monde/Koruha|Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
+C’est à sa lisière que s’accroche aujourd’hui [[Koruha]], dernière cité libre de l’Ouest — une ville sur roues, mobile et fatiguée, où les maisons roulent sur la terre fuyante comme des navires sur les vagues.
 
-C'est ici que la **Garde Sylvestre** lutte chaque jour pour contenir la progression de la Selve. C'est aussi là que certains des criminels et des condamnés de Naeth subissent le **Jugement de la Selve**, offerts à la forêt pour apaiser sa faim.
+C'est ici que la **Garde Sylvestre** lutte chaque jour pour contenir la progression de la Selve. C'est aussi là que certains des criminels et des condamnés de Naeth subissent le **[[Jugement de la Selve]]**, offerts à la forêt pour apaiser sa faim.
 
 Et c’est ici, entre les racines mouvantes et les cendres d’un dieu endormi, que commence votre histoire.

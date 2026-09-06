@@ -1,4 +1,4 @@
-## Fleur carnivore colossale
+## [[Fleur carnivore colossale]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -45,7 +45,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Œil de la clairière
+## [[Œil de la clairière]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -87,7 +87,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Torvik Brûn « Tori »
+## [[Torvik “Tori” Brûn|Torvik Brûn « Tori »]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -137,7 +137,7 @@ reactions:
     desc: "Lorsqu’une créature située à 5 ft. de Tori est touchée, il échange sa place avec elle et devient la cible de l’attaque."
 ```
 
-## Am’Serek Tal
+## [[Am’Serek Tal]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -313,7 +313,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Mariel « Maro » Lushan
+## [[Maro|Mariel « Maro » Lushan]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -376,7 +376,7 @@ reactions:
     desc: "Lorsqu’il est touché par une attaque à distance, Maro réduit les dégâts de 1d10 + 3. S’il réduit les dégâts à 0, il peut saisir ou renvoyer le projectile."
 ```
 
-## Buffo
+## [[Buffo]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -431,7 +431,7 @@ reactions:
     desc: "Buffo réduit de 9 (1d10 + 4) les dégâts d’une attaque qui le touche."
 ```
 
-## Thaelor
+## [[Thaelor]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -481,7 +481,7 @@ reactions:
     desc: "Lorsqu’une créature alliée proche rate un test d’Acrobaties, de Survie ou un jet de Dextérité contre un danger naturel, Thaelor lui accorde un bonus de +2 au résultat."
 ```
 
-## Serpent géant venimeux accéléré
+## [[Serpents de la Selve|Serpent géant venimeux accéléré]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -519,7 +519,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Gnoll de la Selve — Sbire
+## [[Gnoll Sbire|Gnoll de la Selve — Sbire]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -557,7 +557,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Gnoll Alpha
+## [[Gnoll Alpha]]
 
 ```statblock
 layout: Basic 5e Layout
@@ -603,7 +603,7 @@ bonus_actions: []
 reactions: []
 ```
 
-## Le Viridien
+## [[Le Viridien]]
 
 ```statblock
 layout: Basic 5e Layout

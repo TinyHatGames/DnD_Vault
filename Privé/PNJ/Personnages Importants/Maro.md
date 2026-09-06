@@ -1,15 +1,29 @@
-![[Privé/PNJ/Personnages Importants/Images/Maro.png]]
+![[Maro.png]]
 
-Agent de [[Privé/Lieux/Villes/Koruha]] du [[Pacte des Initiés]]. En charge de la surveillance et de l'accompagnement / recrutement des joueurs. Ils commence l'aventure en se faisant passer pour un prisonnier.
+Agent de [[Koruha]] du [[Pacte des Initiés]], chargé de surveiller, accompagner et éventuellement recruter les héros. Il commence l’aventure en se faisant passer pour un prisonnier.
 
 Maro est un halfling d'un âge avancé avec les cheveux longs et une grande barbe blanche. Il porte une longue robe en laine (soutane) attachée par une corde simple qui cache un physique très impressionnant (possibilité de le voir avec un bon jet de perception).
 
-Il est touché par la Lune. C'est un secret difficile à percer.
+Il est l’un des [[Séléens]], secret difficile à percer. Il a rejoint le Pacte notamment pour obtenir des informations sur [[Les Treize]], responsables de la mort de [[Siraë]], son ancienne amante.
+
+## Siraë et Buffo
+
+Maro rencontra autrefois Siraë, une exploratrice Genasi de l’eau originaire du [[Le Puits des Songes|Puits des Songes]]. Ils devinrent compagnons de route puis amants. Siraë voyageait avec [[Buffo]], son animal lié, qui n’était encore qu’un jeune crapaud.
+
+Après le meurtre de Siraë par les Treize, Maro perdit la trace de Buffo et le crut mort. Sa traque des assassins le conduisit à rejoindre le [[Pacte des Initiés]], dont il utilise depuis le réseau et les archives.
+
+## Identité d’Ox
+
+Pour infiltrer l’expédition vers [[Sève-loin]], Maro s’est fait passer pour [[Ox]], prétendu dissident de l’[[Ordre de Tsaln]]. Son déguisement s’est brisé lors d’une chute sous la [[Selve Sélène]]. Il a alors admis ne pas connaître précisément la route du village et avoir seulement croisé des rumeurs des [[Veilleurs]] avec les informations des prêtres.
+
+La chute sous la Selve lui a permis de retrouver Buffo, devenu gigantesque et prisonnier d’un ancien temple souterrain. Maro est resté pour le libérer, puis l’a convaincu de le guider jusqu’au village. Tous deux rejoignent les héros lors de la confrontation avec [[Le Viridien]].
+
+Maro compte profiter de son entrée au village pour retrouver les recherches laissées par Siraë et toute information susceptible de le rapprocher des Treize. Voir [[Maro et Buffo - Les jours perdus]].
 
 
 ```statblock
 layout: Basic 5e Layout
-image: "[[Maro_Lushan.jpg]]"
+image: "Maro.png"
 name: Mariel "Maro" Lushan
 size: Medium
 type: humanoide

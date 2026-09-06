@@ -6,7 +6,7 @@
 ---
 
 ## ✅ Progression de la session
-- [ ] Phase 1 – Introduction & rappel des règles  
+- [ ] Phase 1 – [[Introduction]] & rappel des règles  
 - [ ] Phase 2 – Mini-jeu : Les Six Vérités  
 - [ ] Phase 3 – Création des personnages et factions  
 - [ ] Phase 4 – Ton, attentes & sécurité  
