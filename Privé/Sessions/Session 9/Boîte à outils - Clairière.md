@@ -234,7 +234,7 @@ Ces issues ne changent pas seulement le ton d’une scène. Noter précisément 
 
 # 7. Découverte du village
 
-La communauté recherchée sous le faux nom de [[Sève-loin]] est en réalité [[Le Puits des Songes]], une immense cité de Genasi de l’eau bâtie sur pilotis dans un gouffre rempli de [[Larmes de Lune]]. Son identité, son architecture et son organisation sont décrites dans [[Conception du village]].
+La communauté recherchée sous le faux nom de [[Sève-loin]] est en réalité [[Le Puits des Songes]], une immense cité de [[Genasi de l'eau|Genasi de l’eau]] bâtie sur pilotis dans un gouffre rempli de [[Larmes de Lune]]. Son identité, son architecture et son organisation sont décrites dans [[Conception du village]].
 
 Pendant la descente, insister sur le renversement d’échelle : les héros s’attendent à quelques maisons forestières et découvrent des milliers de bâtiments suspendus, des cascades remontantes, des canaux aériens, des animaux liés et des œuvres monumentales.
 

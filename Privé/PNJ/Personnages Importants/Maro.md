@@ -8,7 +8,7 @@ Il est l’un des [[Séléens]], secret difficile à percer. Il a rejoint le Pac
 
 ## Siraë et Buffo
 
-Maro rencontra autrefois Siraë, une exploratrice Genasi de l’eau originaire du [[Le Puits des Songes|Puits des Songes]]. Ils devinrent compagnons de route puis amants. Siraë voyageait avec [[Buffo]], son animal lié, qui n’était encore qu’un jeune crapaud.
+Maro rencontra autrefois Siraë, une exploratrice [[Genasi de l'eau|Genasi de l’eau]] originaire du [[Le Puits des Songes|Puits des Songes]]. Ils devinrent compagnons de route puis amants. Siraë voyageait avec [[Buffo]], son animal lié, qui n’était encore qu’un jeune crapaud.
 
 Après le meurtre de Siraë par les Treize, Maro perdit la trace de Buffo et le crut mort. Sa traque des assassins le conduisit à rejoindre le [[Pacte des Initiés]], dont il utilise depuis le réseau et les archives.
 
@@ -18,7 +18,7 @@ Pour infiltrer l’expédition vers [[Sève-loin]], Maro s’est fait passer pou
 
 La chute sous la Selve lui a permis de retrouver Buffo, devenu gigantesque et prisonnier d’un ancien temple souterrain. Maro est resté pour le libérer, puis l’a convaincu de le guider jusqu’au village. Tous deux rejoignent les héros lors de la confrontation avec [[Le Viridien]].
 
-Maro compte profiter de son entrée au village pour retrouver les recherches laissées par Siraë et toute information susceptible de le rapprocher des Treize. Voir [[Maro et Buffo - Les jours perdus]].
+Maro compte profiter de son entrée au village pour retrouver les recherches laissées par Siraë et toute information susceptible de le rapprocher des Treize. Ces documents conduisent aux [[Cavernes de la Pluie Liée]]. Voir [[Maro et Buffo - Les jours perdus]].
 
 
 ```statblock

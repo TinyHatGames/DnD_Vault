@@ -3,7 +3,7 @@
 ![[Le Puits des Songes - Découverte.png]]
 
 > [!summary] Identité
-> [[Le Puits des Songes]] n’est pas un village, mais une somptueuse cité de Genasi de l’eau construite dans un gouffre monumental. Elle s’élève sur des milliers de pilotis au-dessus d’un bassin de [[Larmes de Lune]], parmi les cultures de [[Kaluphare]], les animaux liés et une magie omniprésente.
+> [[Le Puits des Songes]] n’est pas un village, mais une somptueuse cité de [[Genasi de l'eau|Genasi de l’eau]] construite dans un gouffre monumental. Elle s’élève sur des milliers de pilotis au-dessus d’un bassin de [[Larmes de Lune]], parmi les cultures de [[Kaluphare]], les animaux liés et une magie omniprésente.
 
 # Première découverte
 
@@ -27,7 +27,7 @@ Le Puits abrite plusieurs milliers d’habitants. Le mot « village » vient des
 
 # Les habitants
 
-La population est composée presque entièrement de **Genasi de l’eau**. Leur apparence varie : peaux bleues, vertes, grises ou opalescentes, chevelures semblables à de l’eau vive, à de l’écume ou à de la brume, voix profondes ou ruisselantes.
+La population est composée presque entièrement de **Genasi de l’eau**. Leur apparence varie : peaux bleues, vertes, grises ou opalescentes, chevelures semblables à de l’eau vive, à de l’écume ou à de la brume, voix profondes ou ruisselantes. Voir [[Genasi de l'eau]] pour une présentation complète de leur nature et de ce qui distingue les habitants du Puits.
 
 Ils respirent aussi bien dans l’air que sous l’eau. Certaines habitations possèdent donc des pièces entièrement immergées, reliées aux quartiers voisins par des canaux suspendus.
 
@@ -106,9 +106,9 @@ Le reflet du bassin ne reproduit pas toujours le véritable ciel. Les habitants 
 
 La hiérarchie est particulièrement plate. Les décisions ordinaires sont prises dans des assemblées de quartier ou directement entre les groupes concernés. Les porte-paroles sont temporaires et ne disposent pas d’une autorité permanente.
 
-## Le Conseil des Anciens
+## Le Conseil des Reflets
 
-En cas de force majeure, les **sept habitants les plus âgés** se réunissent avec leurs animaux liés. On les appelle parfois les **Sept Reflets**.
+En cas de force majeure, les **sept habitants les plus âgés** se réunissent avec leurs animaux liés. On les appelle le **Conseil des Reflets**.
 
 Le conseil ne gouverne pas la vie quotidienne. Il se forme pour répondre à une menace existentielle, interpréter une vision collective, modifier une loi sacrée ou décider des relations avec une puissance extérieure. Une fois la crise résolue, il se disperse.
 
@@ -175,7 +175,7 @@ Récolter de grandes quantités de Kaluphare ne dérègle pas le bassin et ne me
 
 Il y a de nombreuses générations, le Puits manquait de métal, de tissus, de certains médicaments et de plusieurs denrées essentielles. La cité survivait, mais son isolement rendait chaque pénurie dangereuse.
 
-Les Sept Reflets de l’époque firent alors la même vision au cours d’une nuit : des étrangers masqués apportaient les biens qui manquaient à la cité et repartaient avec des fleurs du Grand Miroir. Peu après, des représentants de l’[[Ordre de Tsaln]] atteignirent le seuil.
+Le Conseil des Reflets de l’époque fit alors la même vision au cours d’une nuit : des étrangers masqués apportaient les biens qui manquaient à la cité et repartaient avec des fleurs du Grand Miroir. Peu après, des représentants de l’[[Ordre de Tsaln]] atteignirent le seuil.
 
 Le conseil interpréta cette rencontre comme la seule chance de survie révélée par leur rêve collectif. Le pacte conclu alors perdure encore :
 

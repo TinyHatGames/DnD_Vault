@@ -4,6 +4,6 @@ Faction mystérieuse et secrète dont les objectifs sont plutôt opaques. Très 
 
 Le pacte s'est constitué à la base autour d'un groupe de prêtres des [[Huit]] ayant perdu leur foi. Ils ont décidé de quitter le culte et de créer un groupe dans le but de découvrir les mystères de [[Naeth]] et de mettre à jour les secrets des goliaths.
 
-[[Maro]] les a rejoints pour obtenir des informations sur [[Les Treize]], qui ont tué son amante [[Siraë]]. À Koruha, il surveille et cherche à recruter les héros.
+[[Maro]] les a rejoints pour obtenir des informations sur [[Les Treize]], qui ont tué son amante [[Siraë]]. Les recherches de cette dernière dans les [[Cavernes de la Pluie Liée]] pourraient apporter au Pacte la première preuve matérielle du rôle ancien des Huit dans la corruption de la Selve. À Koruha, Maro surveille et cherche à recruter les héros.
 
 Lorsque le [[Culte des Huit]] a organisé une expédition pour contourner le monopole de l’[[Ordre de Tsaln]], le Pacte a décidé de se placer au cœur de l’opération. Maro a créé l’identité d’[[Ox]], faux dissident de l’Ordre et faux guide vers [[Sève-loin]]. Son but était d’observer les conséquences politiques, pas de garantir le succès de l’expédition.

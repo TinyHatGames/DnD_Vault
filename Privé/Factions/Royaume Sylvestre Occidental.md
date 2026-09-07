@@ -10,5 +10,4 @@ Ancienne contrée indépendante des elfes des bois, autrefois étendue sur l’o
 
 Le grand schisme sépara ceux qui quittèrent la région — à l’origine du [[Synode des Exilés]] — de ceux qui restèrent. [[Le Viridien]] descend de ces derniers et agit au nom de la mémoire du royaume disparu.
 
-Ses ruines, sa magie ancienne et des monuments oubliés subsistent dans la Selve profonde. Leur interaction avec les [[Larmes de Lune]] rend la géographie et même le temps instables.
-
+Ses ruines, sa magie ancienne et des monuments oubliés subsistent dans la Selve profonde. Leur interaction avec les [[Larmes de Lune]] rend la géographie et même le temps instables. Les fresques des [[Cavernes de la Pluie Liée]] représentent son engloutissement comme une conséquence du détournement de la pluie par les [[Huit]].

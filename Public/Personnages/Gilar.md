@@ -1,4 +1,4 @@
-# Guillard
+# Gilar
 
 Petit singe presque déplumé, autrefois appelé Coco et longtemps maltraité dans une ménagerie. [[Zooki]] l’a acheté et lui a offert sécurité et fruits.
 

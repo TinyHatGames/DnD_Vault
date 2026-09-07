@@ -11,7 +11,7 @@ importance: majeur
 
 Buffo est un crapaud gigantesque couvert de mousse et de calcaire, coiffé d’un immense champignon. Dans une caverne sous la [[Selve Sélène]], il semblait fusionné avec une porte de pierre et en gardait l’unique passage.
 
-Autrefois beaucoup plus petit, Buffo était l’animal lié de [[Siraë]], une Genasi de l’eau originaire du [[Le Puits des Songes|Puits des Songes]]. Il l’accompagna à travers [[Naeth]] et connut ainsi [[Maro]], qui devint le compagnon puis l’amant de Siraë.
+Autrefois beaucoup plus petit, Buffo était l’animal lié de [[Siraë]], une [[Genasi de l'eau|Genasi de l’eau]] originaire du [[Le Puits des Songes|Puits des Songes]]. Il l’accompagna à travers [[Naeth]] et connut ainsi [[Maro]], qui devint le compagnon puis l’amant de Siraë.
 
 Après le meurtre de Siraë par [[Les Treize]], Buffo se réfugia dans un temple souterrain abandonné de la [[Selve Sélène]]. Il y grandit pendant des années jusqu’à se retrouver coincé dans l’encadrement d’une porte, progressivement recouvert par le calcaire et la végétation.
 

@@ -4,4 +4,4 @@ La hiérarchie est redéfinie tous les dix ans par une série d’épreuves. Cha
 
 Le chef de la maison dominante porte le titre de [[Prima]]. La maison actuelle est celle des [[Lo-Kag]]. Leur autorité politique et religieuse s’exerce par le [[Culte des Huit]] et les [[Monolithes des Huit]].
 
-[[Le Viridien]] les accuse d’avoir détourné ou corrompu les [[Larmes de Lune]].
+[[Le Viridien]] les accuse d’avoir détourné ou corrompu les [[Larmes de Lune]]. Les fresques des [[Cavernes de la Pluie Liée]] confirment qu’un ancien réseau d’ancrages lié à l’[[Aiguille]] a effectivement forcé la pluie à travers un rituel qui altéra la [[Selve Sélène]]. Le but initial du procédé et l’usage exact de la puissance captée restent inconnus.

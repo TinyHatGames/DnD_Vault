@@ -12,9 +12,9 @@ Leur histoire explique pourquoi Maro poursuit [[Les Treize]], pourquoi il a rejo
 
 ## Siraë et Buffo
 
-Siraë était une Genasi de l’eau originaire du [[Le Puits des Songes|Puits des Songes]]. Comme chaque habitant de la cité, elle partageait un lien profond avec un animal : Buffo, qui n’était alors qu’un jeune crapaud à peine assez grand pour lui servir de monture.
+Siraë était une [[Genasi de l'eau|Genasi de l’eau]] originaire du [[Le Puits des Songes|Puits des Songes]]. Comme chaque habitant de la cité, elle partageait un lien profond avec un animal : Buffo, qui n’était alors qu’un jeune crapaud à peine assez grand pour lui servir de monture.
 
-Contrairement à la plupart des siens, Siraë avait choisi de quitter le gouffre pour explorer [[Naeth]]. Elle voulait découvrir le monde extérieur, comprendre ses peuples et retrouver l’origine de certains symboles anciens présents dans les récits de son village.
+Contrairement à la plupart des siens, Siraë avait choisi de quitter le gouffre pour explorer [[Naeth]]. Elle voulait découvrir le monde extérieur, comprendre ses peuples et retrouver l’origine des symboles des [[Cavernes de la Pluie Liée]].
 
 Buffo l’accompagnait partout.
 
@@ -130,5 +130,7 @@ Au village, Maro cherchera en priorité :
 - les récits anciens qu’elle pensait liés aux Treize ;
 - une personne ayant pu l’aider dans ses recherches ;
 - la raison pour laquelle Siraë croyait que certaines réponses se trouvaient hors du village.
+
+Les recherches conservées au Puits permettent de retrouver les [[Cavernes de la Pluie Liée]], où Siraë avait découvert un récit de la corruption de la Selve par les Huit et les fragments d’un ancien rituel.
 
 Les réponses peuvent être définies plus tard. Pour cette séance, l’important est de révéler le passé de Maro et de donner aux héros une nouvelle raison de s’interroger sur ses véritables objectifs.

@@ -375,11 +375,11 @@ Les vêtements sont déchirés par les ronces et couverts de boue séchée. Les 
 
 Personne ne sait exactement combien de temps s’est écoulé.
 
-Les nuits semblent parfois durer quelques heures, parfois plusieurs jours. Le soleil apparaît à des endroits impossibles. Les personnages ont le sentiment d’avoir déjà traversé certains lieux, sans pouvoir se rappeler quand. Même les plantes et les blessures ne permettent plus de mesurer correctement le passage du temps.
+Les nuits semblent parfois durer quelques heures, parfois plusieurs jours. Le soleil apparaît à des endroits impossibles. Vous avez le sentiment d’avoir déjà traversé certains lieux, sans pouvoir vous rappeler quand. Même les plantes et les blessures ne permettent plus de mesurer correctement le passage du temps.
 
-Épuisés, affamés et presque perdus, vous débouchez finalement dans une vaste clairière.
+Épuisés, affamés et perdus, vous débouchez finalement dans une vaste clairière.
 
-Le silence y est absolu.
+Le silence, presque absolu, n'y est rompu que par le premier souffle d'un vent qui semble se lever.
 
 Au-dessus de vous, les nuages s’écartent lentement et révèlent la pleine lune.
 
@@ -387,7 +387,7 @@ Un premier craquement résonne.
 
 Puis un autre.
 
-Les arbres qui bordent la clairière craquent, puis commencent, lentement, à s’incliner, leurs troncs se courbant comme s’ils saluaient l’arrivée d’un souverain. Entre leurs branches émerge un elfe auquel il est impossible de donner un âge. Il marche pieds nus, un immense bâton à la main. Son long manteau vert semble composé de feuilles, de lianes et de végétaux vivants.
+Les arbres qui bordent la clairière, commencent, lentement, à s’incliner. Leurs troncs se courbent comme s’ils saluaient l’arrivée d’un souverain. Entre leurs branches émerge un elfe auquel il est impossible de donner un âge. Il marche pieds nus, un immense bâton à la main. Son long manteau vert semble composé de feuilles, de lianes et de végétaux vivants.
 
 Partout où il pose le pied, les fleurs s’ouvrent et la végétation jaillit du sol.
 
@@ -395,7 +395,7 @@ Le **[[Le Viridien|Viridien]]**.
 
 ## Dialogue du Viridien
 
-Le Viridien descend lentement entre les arbres inclinés. Son regard se pose d’abord sur Am’Serek Tal.
+Le Viridien descend lentement entre les arbres inclinés et finit par rejoindre le groupe de survivants. Son regard se pose d’abord sur Am’Serek.
 
 — **Am’Serek .**
 
@@ -480,6 +480,8 @@ Un énorme crapaud semble tomber du ciel, finissant un bon de plusieurs centaine
 **— Viridien ! Ta lignée ne te donne pas plus de droits sur cette forêt que les Huit !**
 
 ### b) Le chaos
+
+https://link.deezer.com/s/34kLJyb3zqHyZ2S04Kv4C
 
 À partir de cet instant, demander aux joueurs d’agir **un par un**, dans l’urgence, sans leur laisser le temps de se concerter longuement.
 

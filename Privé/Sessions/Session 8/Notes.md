@@ -118,7 +118,7 @@ L’animal s’agrippe immédiatement à lui et refuse presque de le lâcher. Pl
 
 Le singe accepte de rester avec Zooki en échange, essentiellement, de sécurité et de fruits. Il n’est cependant pas encore dressé : il comprend parfois les intentions du gnome, mais n’obéit pas véritablement à des ordres.
 
-Il sera finalement appelé **[[Guillard]]**.
+Il sera finalement appelé **[[Gilar]]**.
 
 ---
 
@@ -155,7 +155,7 @@ Puis les dernières constructions mobiles de Koruha disparaissent derrière eux.
 
 ---
 
-# 4. Premier jour — Guillard et le calme trompeur
+# 4. Premier jour — Gilar et le calme trompeur
 
 La première journée est presque banale.
 
@@ -165,7 +165,7 @@ En revanche, le groupe découvre le rythme impressionnant des prêtres : ils mar
 
 Le soir, le convoi trouve une vaste clairière couverte d’une **mousse chaude et moelleuse** et décide d’y camper.
 
-C’est là que Zooki demande à Orla et Nyxara de communiquer avec Guillard.
+C’est là que Zooki demande à Orla et Nyxara de communiquer avec Gilar.
 
 Le petit singe révèle son passé et commence légèrement à se détendre. Il accepte de suivre le groupe, mais reste extrêmement peureux et traumatisé.
 
@@ -197,7 +197,7 @@ La température augmente et l’oxygène diminue. Le groupe dispose de quelques 
 
 ### Tentatives de fuite
 
-Guillard comprend assez vite que la seule issue potentielle est tout en haut, là où les pétales se rejoignent.
+Gilar comprend assez vite que la seule issue potentielle est tout en haut, là où les pétales se rejoignent.
 
 Nyxara attaque le pistil retenant Tori.
 
@@ -263,9 +263,9 @@ Vu du ciel, la zone apparaît comme une sorte de **bulle légèrement conique**,
 
 Mais même en tentant de partir vers cette pointe, les personnages sont téléportés à l’opposé.
 
-### Guillard remarque quelque chose
+### Gilar remarque quelque chose
 
-Guillard fixe soudain le sommet d’un arbre.
+Gilar fixe soudain le sommet d’un arbre.
 
 Les personnages regardent dans cette direction.
 
@@ -326,7 +326,7 @@ Arbres, terre et rochers disparaissent dans une faille.
 
 La plupart du convoi réussit à s’agripper.
 
-Mais **Nyxara et Zooki chutent**, accompagnés de Guillard.
+Mais **Nyxara et Zooki chutent**, accompagnés de Gilar.
 
 Et **Ox tombe avec eux**.
 
@@ -411,7 +411,7 @@ Il connaît Buffo et souhaite discuter avec lui.
 
 Il promet de les retrouver plus tard.
 
-Le passage se referme derrière Nyxara, Zooki et Guillard.
+Le passage se referme derrière Nyxara, Zooki et Gilar.
 
 **Maro manque désormais à l’appel.**
 
@@ -483,7 +483,7 @@ Le transcript abrège volontairement la suite.
 
 Après plusieurs jours d’errance et de tentatives pour retrouver leurs compagnons, **Nyxara finit par appeler Thaelor**.
 
-Le cerf sacré guide Nyxara, Zooki et Guillard jusqu’au convoi.
+Le cerf sacré guide Nyxara, Zooki et Gilar jusqu’au convoi.
 
 Les quatre héros sont enfin réunis.
 

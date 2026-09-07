@@ -4,7 +4,7 @@ L’Ordre détient le monopole du [[Khar]], préparation concentrée du [[Kaluph
 
 ## Pacte du village
 
-Depuis de nombreuses générations, l’Ordre entretient un accord privilégié avec [[Le Puits des Songes]]. Le Conseil des Anciens de l’époque avait partagé une vision présentant l’arrivée de marchands masqués comme la seule chance de survie d’une cité qui manquait de plusieurs biens essentiels. Des représentants de Tsaln atteignirent le seuil peu après.
+Depuis de nombreuses générations, l’Ordre entretient un accord privilégié avec [[Le Puits des Songes]]. Le Conseil des Reflets de l’époque avait partagé une vision présentant l’arrivée de marchands masqués comme la seule chance de survie d’une cité qui manquait de plusieurs biens essentiels. Des représentants de Tsaln atteignirent le seuil peu après.
 
 Le Puits réserve à l’Ordre le Khar destiné à l’exportation. En échange, Tsaln fournit nourriture, métal, outils, textiles, médicaments, livres et autres biens difficiles à obtenir au cœur de la Selve.
 

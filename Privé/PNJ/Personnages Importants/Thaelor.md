@@ -47,4 +47,4 @@ reactions:
 
 Esprit sacré lié à [[Rillifane Rallathil]], asservi et mutilé par les [[Gnolls|gnolls]] de [[Varkh]] devant le [[Temple de Rillifane]]. [[Orla]] et [[Nyxara]] l’ont apaisé tandis que les héros arrachaient ses entraves.
 
-Après la purification du sanctuaire, Thaelor a promis à Nyxara de répondre un jour à son appel. Il a honoré cette dette en guidant [[Nyxara]], [[Zooki]] et [[Guillard]] jusqu’au reste de l’expédition dans la [[Selve Sélène]]. Son jugement peut convaincre [[Le Viridien]] que les héros ne sont pas des conquérants.
+Après la purification du sanctuaire, Thaelor a promis à Nyxara de répondre un jour à son appel. Il a honoré cette dette en guidant [[Nyxara]], [[Zooki]] et [[Gilar]] jusqu’au reste de l’expédition dans la [[Selve Sélène]]. Son jugement peut convaincre [[Le Viridien]] que les héros ne sont pas des conquérants.

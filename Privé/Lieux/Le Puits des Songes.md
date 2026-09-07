@@ -9,11 +9,11 @@ danger: variable
 
 ![[Le Puits des Songes - Découverte.png]]
 
-Somptueuse cité de Genasi de l’eau cachée dans un gouffre colossal de la [[Selve Sélène]]. Des milliers d’habitations, de jardins et d’ateliers reposent sur des pilotis vivants au-dessus d’un bassin presque entièrement constitué de [[Larmes de Lune]]. Le [[Kaluphare]], appelé Khar par les étrangers, pousse à sa surface.
+Somptueuse cité de [[Genasi de l'eau|Genasi de l’eau]] cachée dans un gouffre colossal de la [[Selve Sélène]]. Des milliers d’habitations, de jardins et d’ateliers reposent sur des pilotis vivants au-dessus d’un bassin presque entièrement constitué de [[Larmes de Lune]]. Le [[Kaluphare]], appelé Khar par les étrangers, pousse à sa surface.
 
 Les habitants vivent en symbiose avec des animaux et utilisent couramment la magie lunaire. L’exposition aux Larmes et au Kaluphare leur donne des rêves révélateurs ainsi que des dons très variés. Ils croient que l’eau conserve une partie des souvenirs de ceux qui la touchent, bien que cette mémoire vivante demeure une croyance.
 
-La cité possède une hiérarchie très plate. Les décisions ordinaires sont prises localement ; en cas de force majeure, les sept habitants les plus âgés et leurs animaux liés forment le Conseil des Anciens, surnommé les Sept Reflets.
+La cité possède une hiérarchie très plate. Les décisions ordinaires sont prises localement ; en cas de force majeure, les sept habitants les plus âgés et leurs animaux liés forment le Conseil des Reflets.
 
 Trois groupes jouent un rôle important dans sa vie :
 
@@ -29,6 +29,6 @@ Un pacte très ancien lie cependant le Puits à Tsaln : du Khar contre les biens
 
 ## Session 9
 
-La transformation de [[Nyxara]] lui vaut le titre respectueux de **[[Porte-Songe]]**. Si elle accepte d’accomplir la [[Veillée du Reflet]], ses compagnons peuvent descendre comme témoins. Le retour de [[Buffo]], ancien animal lié de [[Siraë]], et les recherches de [[Maro]] sur [[Les Treize]] justifient également la convocation d’une audience.
+La transformation de [[Nyxara]] lui vaut le titre respectueux de **[[Porte-Songe]]**. Si elle accepte d’accomplir la [[Veillée du Reflet]], ses compagnons peuvent descendre comme témoins. Le retour de [[Buffo]], ancien animal lié de [[Siraë]], et les recherches de [[Maro]] sur [[Les Treize]] justifient également la convocation d’une audience. Les affaires de Siraë peuvent ensuite conduire le groupe aux [[Cavernes de la Pluie Liée]].
 
 Voir [[Conception du village]].
