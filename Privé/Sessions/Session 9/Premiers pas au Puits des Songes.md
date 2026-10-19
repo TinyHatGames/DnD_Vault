@@ -108,6 +108,15 @@ Si les héros réclament ce qui leur a été promis :
 
 Après l’audience, ces notes peuvent mener aux [[Cavernes de la Pluie Liée]] si les héros décident de pousser immédiatement l’enquête.
 
+## Le Temple du Grand Miroir
+
+- Découvrir la spiritualité des habitants et leurs archives de rêves.
+- Accompagner Nyxara jusqu’au bassin de la [[Veillée du Reflet]].
+- Permettre à Maro de demander l’accès aux souvenirs et aux notes de Siraë.
+- Observer huit points noirs autour de la lune réfléchie, dont un vient de s’allumer dans la direction de Koruha.
+
+Voir [[Temple du Grand Miroir]].
+
 ## Explorer librement
 
 - Traverser un marché où les marchandises circulent dans des bulles d’eau.
@@ -131,6 +140,6 @@ Les personnages peuvent refuser l’audience ou demander du temps. Ils restent l
 
 ## Ordre conseillé si les joueurs ne choisissent pas
 
-**Soins chez les Cultivateurs → découverte d’un quartier → audience du Conseil des Reflets → Veillée du Reflet à la tombée de la nuit.**
+**Soins chez les Cultivateurs → découverte d’un quartier → audience du Conseil des Reflets → [[Temple du Grand Miroir]] et Veillée du Reflet.**
 
 **Fin de séquence possible :** l’accord des crapauds retentit, les ponts pivotent au-dessus du Grand Miroir et toute la cité semble inviter le groupe à avancer.

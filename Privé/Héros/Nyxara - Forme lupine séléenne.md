@@ -44,7 +44,7 @@ cr: 4
 spells: []
 traits:
   - name: "Appel du sang"
-    desc: "Dès que Nyxara voit du sang frais, elle se transforme immédiatement. Elle peut provoquer volontairement la transformation par une action bonus en se coupant et en subissant 1 dégât perforant ou tranchant."
+    desc: "Avant la méditation solitaire suivant la Veillée, voir du sang frais déclenche immédiatement la transformation. Si Nyxara acquiert ce contrôle, lancer 1d6 à la première exposition au sang frais de chaque situation : 1–3, transformation ; 4–6, elle résiste pour toute la situation. Un seul jet par combat ou scène continue, aucun si elle est déjà transformée. Elle peut toujours provoquer volontairement la transformation par une action bonus en se coupant et en subissant 1 dégât perforant ou tranchant, sans jet."
   - name: "Métamorphose irrévocable"
     desc: "La transformation dure 24 heures et ne peut être interrompue volontairement, par une perte de connaissance ni par une dissipation ordinaire. À 0 PV, Nyxara reste sous cette forme, tombe inconsciente et effectue normalement ses jets contre la mort. Son équipement fusionne avec elle et devient inutilisable."
   - name: "Corps renversé"
@@ -67,13 +67,24 @@ reactions: []
 
 ## Règles de transformation
 
-- La vue de sang frais déclenche automatiquement la transformation.
-- Nyxara peut donc se transformer volontairement en se coupant pour 1 dégât.
+- Avant le contrôle décrit ci-dessous, la vue de sang frais déclenche automatiquement la transformation.
+- Après acquisition de ce contrôle, appliquer le jet unique par situation : **1d6, 1–3 transformation / 4–6 maîtrise**.
+- Nyxara peut toujours se transformer volontairement en se coupant pour 1 dégât, par une action bonus et sans jet.
 - La forme dure **24 heures complètes**, même à 0 PV.
 - Le sang déjà sec ne déclenche rien.
 - À la transformation, ses PV maximaux deviennent 48. Conserver ses PV manquants : si sa forme normale avait perdu 7 PV, la louve commence à 41 PV.
 - Au retour, appliquer le même principe avec ses PV maximaux normaux.
 - Un repos ne met pas fin à la transformation.
+
+## Contrôle acquis par la méditation
+
+**Progression conditionnelle prévue pour la session 10 :** Nyxara doit choisir de méditer seule après la Veillée, une fois tous les autres partis. Ne pas considérer ce contrôle comme acquis avant que cette scène ait été effectivement jouée. Voir [[Privé/Sessions/Session 10/Veillée - Session 10#8. Si Nyxara reste méditer seule|la scène et le suivi MJ]].
+
+Après cette méditation, lors de sa première exposition au sang frais dans une situation, lancer **1d6** : **1–3**, elle se transforme ; **4–6**, elle résiste et ne relance pas dans cette même situation. C'est une chance sur deux, sans modificateur.
+
+Un combat entier ou l'exploration continue d'un lieu sanglant forme une seule situation. De nouvelles blessures, une autre victime ou le fait de regarder à nouveau le même sang n'imposent aucun nouveau jet. Une nouvelle situation distincte avec une nouvelle exposition permet un nouveau jet. Si Nyxara est déjà sous forme lupine, ne pas lancer le dé.
+
+La coupure volontaire conserve son déclenchement garanti. La durée de 24 heures et les autres règles de la forme restent identiques.
 
 ## Instinct choisi
 

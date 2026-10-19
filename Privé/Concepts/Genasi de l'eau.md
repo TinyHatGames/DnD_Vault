@@ -59,7 +59,7 @@ Un Genasi élevé parmi des marins, dans une cour royale ou au fond d’une for�
 
 Le [[Le Puits des Songes|Puits des Songes]] constitue une exception remarquable : au lieu d’individus isolés, il abrite une société presque entièrement composée de Genasi de l’eau. Leur héritage ancien et l’influence continue des [[Larmes de Lune]] sont désormais si entremêlés que les habitants ne cherchent plus vraiment à les distinguer.
 
-Leurs peaux couvrent toute une gamme de bleus, de verts, de gris et de teintes opalescentes. Leurs chevelures peuvent ressembler à de l’eau vive, de l’écume, de la brume ou même s’écouler lentement vers le haut. La cité est conçue pour eux : pièces immergées, courants suspendus en guise de voies rapides et habitations dressées au-dessus du Grand Miroir.
+Leurs peaux couvrent toute une gamme de bleus, de verts, de gris et de teintes opalescentes. Leurs chevelures peuvent ressembler à de l’eau vive, de l’écume, de la brume ou même s’écouler lentement vers le haut. La cité est conçue pour eux : pièces immergées, courants suspendus en guise de voies rapides et habitations dressées au-dessus du [[Temple du Grand Miroir|Grand Miroir]].
 
 Leurs noms sont généralement courts et fluides, comme **[[Nahal]]** ou **[[Siraë]]**, mais il ne s’agit pas d’une règle stricte.
 
@@ -69,7 +69,7 @@ Les particularités suivantes ne sont **pas** des capacités naturelles de tous 
 
 - Chaque enfant du Puits forme un lien symbiotique avec un animal local. Cette relation vient des traditions et de la magie de la cité, pas de son ascendance élémentaire.
 - Les habitants consomment quotidiennement le [[Kaluphare]] et vivent au contact des Larmes de Lune. Cela rend les manifestations [[Séléens|séléennes]] beaucoup plus fréquentes qu’ailleurs.
-- Leur croyance en une mémoire vivante de l’eau appartient à la spiritualité du Puits. Les rêves et les visions sont bien réels, mais leur interprétation reste débattue.
+- Leur croyance en une mémoire vivante de l’eau appartient à la spiritualité du [[Temple du Grand Miroir]]. Les rêves et les visions sont bien réels, mais leur interprétation reste débattue.
 - Le terme [[Porte-Songe]] désigne avec respect une personne profondément transformée par la lune. Tous les Genasi du Puits ne sont donc pas des Porte-Songes.
 
 ### Réponses rapides aux joueurs

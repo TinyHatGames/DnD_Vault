@@ -6,7 +6,7 @@ tags: [concept, plante, magie]
 
 # Kaluphare
 
-Plante aquatique magique cultivée à la surface du Grand Miroir, le bassin de [[Larmes de Lune]] situé sous [[Le Puits des Songes]]. Elle rappelle un immense nénuphar : feuilles vert argenté, fleurs blanches lumineuses et longues racines immergées.
+Plante aquatique magique cultivée à la surface du [[Temple du Grand Miroir|Grand Miroir]], le bassin de [[Larmes de Lune]] situé sous [[Le Puits des Songes]]. Elle rappelle un immense nénuphar : feuilles vert argenté, fleurs blanches lumineuses et longues racines immergées.
 
 Les habitants du Puits l’utilisent dans leur médecine, leur alimentation et leurs rites. Infusée, fumée, appliquée sur une blessure ou mêlée à l’eau lunaire, elle peut provoquer des rêves révélateurs, aiguiser les sens, renforcer le corps ou faciliter certaines manifestations magiques.
 

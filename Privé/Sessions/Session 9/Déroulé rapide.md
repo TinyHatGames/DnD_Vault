@@ -57,7 +57,7 @@
 4. Laisser les joueurs choisir une première halte : Cultivateurs, Marche-Brumes, Gratte-Racines ou exploration libre.
 5. Après une scène, un accord profond des crapauds-carillons annonce la réunion du Conseil des Reflets.
 
-**Ordre par défaut :** soins → découverte d’un quartier → audience → Veillée du Reflet.
+**Ordre par défaut :** soins → découverte d’un quartier → audience → [[Temple du Grand Miroir]] → Veillée du Reflet.
 
 **Fin possible :** les passerelles s’orientent vers l’assemblée tandis que l’accord des crapauds résonne au-dessus du Grand Miroir.
 

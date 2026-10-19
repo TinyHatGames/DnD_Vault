@@ -83,11 +83,13 @@ Des milliers de bâtiments reposent sur des pilotis vivants qui se courbent, se 
 
 Les passerelles de racines changent de position selon les heures. Des canaux sans parois serpentent dans le vide et transportent les Genasi d’un quartier à l’autre sous la forme de courants suspendus.
 
-## Le Grand Miroir
+## Le [[Temple du Grand Miroir|Grand Miroir]]
 
 Le bassin occupe tout le fond du gouffre. Il est presque entièrement constitué de Larmes de Lune et couvert de jardins flottants de Kaluphare. La nuit, les fleurs s’ouvrent les unes après les autres et transforment la surface en carte céleste.
 
 Le reflet du bassin ne reproduit pas toujours le véritable ciel. Les habitants y cherchent des présages, tout en débattant constamment de leur interprétation.
+
+Son centre accueille le [[Temple du Grand Miroir]], sanctuaire sans murs où sont célébrées les Veillées, conservés les rêves importants et discutées les visions collectives.
 
 ## Une magie quotidienne
 

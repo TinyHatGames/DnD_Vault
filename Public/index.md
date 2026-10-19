@@ -10,7 +10,7 @@ title: Les Archives de Naeth
 - **Les forces en présence** : [[Garde Sylvestre de Koruha]], [[Culte des Huit]], [[Ordre de Tsaln]], [[Pacte des Initiés]] et [[Les Treize]].
 - **Les héros** : [[Josué]], [[Nyxara]], [[Orla]] et [[Zooki]].
 - **L’expédition actuelle** : [[Sève-loin]], [[Khar]], [[Am'Hok Dun|Am’Hok Dun]], [[Am’Serek Tal]], [[Torvik “Tori” Brûn|Tori]], [[Ox]] et [[Maro]].
-- **Les chroniques** : [[Chroniques de Naeth - Chapitre I]], [[Chroniques de Naeth - Chapitre II]], [[Chroniques de Naeth - Chapitre III]], [[Chroniques de Naeth - Chapitre IV]], [[Chroniques de Naeth - Chapitre V]], [[Chroniques de Naeth - Chapitre VI]], [[Chroniques de Naeth - Chapitre VII]] et [[Chroniques de Naeth - Chapitre VIII]].
+- **Les chroniques** : [[Chroniques de Naeth - Chapitre I]], [[Chroniques de Naeth - Chapitre II]], [[Chroniques de Naeth - Chapitre III]], [[Chroniques de Naeth - Chapitre IV]], [[Chroniques de Naeth - Chapitre V]], [[Chroniques de Naeth - Chapitre VI]], [[Chroniques de Naeth - Chapitre VII]], [[Chroniques de Naeth - Chapitre VIII]] et [[Chroniques de Naeth - Chapitre IX]].
 
 ## Le mythe fondateur
 

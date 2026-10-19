@@ -9,9 +9,9 @@ danger: variable
 
 ![[Le Puits des Songes - Découverte.png]]
 
-Somptueuse cité de [[Genasi de l'eau|Genasi de l’eau]] cachée dans un gouffre colossal de la [[Selve Sélène]]. Des milliers d’habitations, de jardins et d’ateliers reposent sur des pilotis vivants au-dessus d’un bassin presque entièrement constitué de [[Larmes de Lune]]. Le [[Kaluphare]], appelé Khar par les étrangers, pousse à sa surface.
+Somptueuse cité de [[Genasi de l'eau|Genasi de l’eau]] cachée dans un gouffre colossal de la [[Selve Sélène]]. Des milliers d’habitations, de jardins et d’ateliers reposent sur des pilotis vivants au-dessus du [[Temple du Grand Miroir|Grand Miroir]], un bassin presque entièrement constitué de [[Larmes de Lune]]. Le [[Kaluphare]], appelé Khar par les étrangers, pousse à sa surface.
 
-Les habitants vivent en symbiose avec des animaux et utilisent couramment la magie lunaire. L’exposition aux Larmes et au Kaluphare leur donne des rêves révélateurs ainsi que des dons très variés. Ils croient que l’eau conserve une partie des souvenirs de ceux qui la touchent, bien que cette mémoire vivante demeure une croyance.
+Les habitants vivent en symbiose avec des animaux et utilisent couramment la magie lunaire. L’exposition aux Larmes et au Kaluphare leur donne des rêves révélateurs ainsi que des dons très variés. Leur spiritualité se concentre dans le [[Temple du Grand Miroir]] : ils croient que l’eau conserve une partie des souvenirs de ceux qui la touchent, bien que cette mémoire vivante demeure une croyance.
 
 La cité possède une hiérarchie très plate. Les décisions ordinaires sont prises localement ; en cas de force majeure, les sept habitants les plus âgés et leurs animaux liés forment le Conseil des Reflets.
 

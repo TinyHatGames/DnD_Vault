@@ -6,7 +6,7 @@ tags: [groupe, puits-des-songes, kaluphare]
 
 # Cultivateurs du Miroir
 
-Habitants du [[Le Puits des Songes|Puits des Songes]] chargés de cultiver le [[Kaluphare]] sur le Grand Miroir. Ils rassemblent cultivateurs, herboristes, médecins et officiants capables de distinguer les fleurs destinées aux soins, aux rites, à l’alimentation ou à la préparation du [[Khar]].
+Habitants du [[Le Puits des Songes|Puits des Songes]] chargés de cultiver le [[Kaluphare]] sur le [[Temple du Grand Miroir|Grand Miroir]]. Ils rassemblent cultivateurs, herboristes, médecins et officiants capables de distinguer les fleurs destinées aux soins, aux rites, à l’alimentation ou à la préparation du [[Khar]]. Certains assurent à tour de rôle les cérémonies du temple.
 
 Ils ne forment pas une caste et ne dirigent pas la cité. Leur connaissance du Kaluphare leur donne cependant une grande influence lors des questions de santé, de commerce et de tradition.
 

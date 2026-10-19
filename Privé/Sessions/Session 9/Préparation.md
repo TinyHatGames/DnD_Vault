@@ -24,6 +24,7 @@
 - [[Maro et Buffo - Les jours perdus]] : leur passé, leur aventure parallèle et la révélation au village.
 - [[Rencontre avec Olo]] : accueil au poste d’échange et autorisation de descendre.
 - [[Premiers pas au Puits des Songes]] : accueil dans la cité, déplacements, réactions et premières destinations.
+- [[Temple du Grand Miroir]] : spiritualité du Puits, rites, archives et Veillée de Nyxara.
 - [[Cavernes de la Pluie Liée]] : piste optionnelle de Siraë, corruption de la Selve et symboles incomplets.
 - [[Boîte à outils - Clairière]] : arguments, réactions et conséquences.
 - [[Conception du village]] : identité, architecture et magie du village.

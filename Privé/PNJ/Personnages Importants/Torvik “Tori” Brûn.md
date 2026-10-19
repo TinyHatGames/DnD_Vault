@@ -27,6 +27,8 @@ Tori est un paradoxe vivant. Massif, tatoué, impressionnant, il semble d’abor
 
 Il aime que les autres le sous-estiment. Il joue même de cette image.
 
+Tori ne sait pas nager. Lors de l'exploration des profondeurs du Puits à la session 10, il reste donc dans la cité et prend des nouvelles des blessés par colibris.
+
 👉 En jeu :
 
 - peut mettre les joueurs à l’aise

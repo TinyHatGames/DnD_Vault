@@ -43,7 +43,7 @@ La chambre est bien plus ancienne que les archives du Puits. Personne ne sait qu
 Les personnages comprennent la trame générale **sans jet**. Un test sert seulement à obtenir les nuances.
 
 1. **La pluie libre.** Une pluie argentée tombe de la lune sur une forêt vaste mais ordinaire. Elle nourrit les racines, les animaux et les peuples sans se concentrer nulle part.
-2. **Les huit aiguilles.** Huit grandes silhouettes dressent des pierres autour du [[Mont Urzal]]. Leurs lignes convergent vers l’[[Aiguille]].
+2. **Les huit épines.** Huit grandes silhouettes dressent des pierres autour du [[Mont Urzal]]. Leurs lignes convergent vers l’[[Aiguille]].
 3. **La pluie liée.** Les gouttes changent de direction en plein ciel. Elles traversent les pierres avant de retomber sur l’ouest de [[Naeth]], marquées d’un motif sombre.
 4. **La forêt affamée.** La végétation croît brutalement, engloutit les routes et les cités du Royaume Sylvestre, déforme les bêtes et replie l’espace sur lui-même.
 5. **L’appropriation.** Les huit silhouettes reçoivent chacune une part du flot détourné. La scène centrale, qui montrait le procédé exact, manque entièrement.
